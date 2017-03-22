@@ -7,3 +7,6 @@
 
 ## Report
 Notes for the group report can be found [here](https://hackmd.io/OwMxGMCMCYDYFMC0AOAjMALIjAGewUBWATgJGmGkNWhwGYdl4g==) (registration required to edit).
+
+## Voice data
+Voice data can be retrieved [here](https://github.com/anbrjohn/myvoice_data/releases).
