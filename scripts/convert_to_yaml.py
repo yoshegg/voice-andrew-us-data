@@ -19,7 +19,7 @@ def textgrid_to_yaml(input_file, output_file):
     # Format it nicely
     output = []
     for entry in info:
-        line = "{}\n sta: {}\n end: {}".format(entry[0], entry[1], entry[2])
+        line = "{}:\n sta: {}\n end: {}".format(entry[0], entry[1], entry[2])
         output.append(line)
     output = "\n".join(output)
     with open(output_file, "w") as f:
