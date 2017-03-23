@@ -31,6 +31,5 @@ def make_text_files(prompt_file):
             print("Skipped", tag, "not found in dictionary")
     print("Saved", counter, "text files.")
     
-yaml_file = "final.yaml"
 prompt_file = "PROMPTS.txt"
 make_text_files(prompt_file)
