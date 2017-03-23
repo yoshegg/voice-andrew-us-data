@@ -1,3 +1,6 @@
+# Run from directory containing all the wav files and PROMPTS.txt, 
+# and will generate the corresponding text files in the same directory
+
 import re
 import os
 
