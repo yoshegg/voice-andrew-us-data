@@ -26,10 +26,10 @@ item []:
             text = "live"
         intervals [4]:
             xmin = 2.720000
-            xmax = 2.910000
+            xmax = 2.920000
             text = "near"
         intervals [5]:
-            xmin = 2.910000
+            xmin = 2.920000
             xmax = 3.080000
             text = "the"
         intervals [6]:
@@ -68,10 +68,10 @@ item []:
             text = "l aI v"
         intervals [4]:
             xmin = 2.720000
-            xmax = 2.910000
+            xmax = 2.920000
             text = "n I R"
         intervals [5]:
-            xmin = 2.910000
+            xmin = 2.920000
             xmax = 3.080000
             text = "D V"
         intervals [6]:
@@ -150,14 +150,14 @@ item []:
             text = "n"
         intervals [14]:
             xmin = 2.780000
-            xmax = 2.880000
+            xmax = 2.890000
             text = "I"
         intervals [15]:
-            xmin = 2.880000
-            xmax = 2.910000
+            xmin = 2.890000
+            xmax = 2.920000
             text = "R"
         intervals [16]:
-            xmin = 2.910000
+            xmin = 2.920000
             xmax = 3.040000
             text = "D"
         intervals [17]:
@@ -202,10 +202,10 @@ item []:
             text = "R"
         intervals [27]:
             xmin = 3.990000
-            xmax = 4.080000
+            xmax = 4.070000
             text = "k"
         intervals [28]:
-            xmin = 4.080000
+            xmin = 4.070000
             xmax = 4.160000
             text = "t"
         intervals [29]:

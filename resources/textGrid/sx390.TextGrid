@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 3.690000
-            xmax = 3.820000
+            xmax = 3.800000
             text = "He"
         intervals [3]:
-            xmin = 3.820000
+            xmin = 3.800000
             xmax = 4.080000
             text = "picked"
         intervals [4]:
@@ -50,10 +50,10 @@ item []:
             text = "for"
         intervals [10]:
             xmin = 5.300000
-            xmax = 5.470000
+            xmax = 5.495000
             text = "each"
         intervals [11]:
-            xmin = 5.470000
+            xmin = 5.495000
             xmax = 5.870000
             text = "brother"
         intervals [12]:
@@ -72,10 +72,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 3.690000
-            xmax = 3.820000
+            xmax = 3.800000
             text = "h i:"
         intervals [3]:
-            xmin = 3.820000
+            xmin = 3.800000
             xmax = 4.080000
             text = "p I k t"
         intervals [4]:
@@ -104,10 +104,10 @@ item []:
             text = "f O: R"
         intervals [10]:
             xmin = 5.300000
-            xmax = 5.470000
+            xmax = 5.495000
             text = "i: tS"
         intervals [11]:
-            xmin = 5.470000
+            xmin = 5.495000
             xmax = 5.870000
             text = "b R V D 3`"
         intervals [12]:
@@ -130,10 +130,10 @@ item []:
             text = "h"
         intervals [3]:
             xmin = 3.750000
-            xmax = 3.820000
+            xmax = 3.800000
             text = "i:"
         intervals [4]:
-            xmin = 3.820000
+            xmin = 3.800000
             xmax = 3.870000
             text = "p"
         intervals [5]:
@@ -226,10 +226,10 @@ item []:
             text = "i:"
         intervals [27]:
             xmin = 5.380000
-            xmax = 5.470000
+            xmax = 5.495000
             text = "tS"
         intervals [28]:
-            xmin = 5.470000
+            xmin = 5.495000
             xmax = 5.540000
             text = "b"
         intervals [29]:

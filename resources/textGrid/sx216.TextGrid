@@ -22,10 +22,10 @@ item []:
             text = "The"
         intervals [3]:
             xmin = 2.200000
-            xmax = 2.540000
+            xmax = 2.550000
             text = "small"
         intervals [4]:
-            xmin = 2.540000
+            xmin = 2.550000
             xmax = 2.820000
             text = "boy"
         intervals [5]:
@@ -72,10 +72,10 @@ item []:
             text = "D V"
         intervals [3]:
             xmin = 2.200000
-            xmax = 2.540000
+            xmax = 2.550000
             text = "s m O: l"
         intervals [4]:
-            xmin = 2.540000
+            xmin = 2.550000
             xmax = 2.820000
             text = "b OI"
         intervals [5]:
@@ -138,10 +138,10 @@ item []:
             text = "O:"
         intervals [7]:
             xmin = 2.490000
-            xmax = 2.540000
+            xmax = 2.550000
             text = "l"
         intervals [8]:
-            xmin = 2.540000
+            xmin = 2.550000
             xmax = 2.610000
             text = "b"
         intervals [9]:
@@ -170,10 +170,10 @@ item []:
             text = "V"
         intervals [15]:
             xmin = 3.140000
-            xmax = 3.300000
+            xmax = 3.290000
             text = "w"
         intervals [16]:
-            xmin = 3.300000
+            xmin = 3.290000
             xmax = 3.410000
             text = "3`"
         intervals [17]:

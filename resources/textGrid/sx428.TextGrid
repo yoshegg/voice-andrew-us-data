@@ -206,10 +206,10 @@ item []:
             text = "<p:>"
         intervals [18]:
             xmin = 5.160000
-            xmax = 5.250000
+            xmax = 5.260000
             text = "b"
         intervals [19]:
-            xmin = 5.250000
+            xmin = 5.260000
             xmax = 5.290000
             text = "V"
         intervals [20]:
@@ -290,10 +290,10 @@ item []:
             text = "h"
         intervals [39]:
             xmin = 6.910000
-            xmax = 6.970000
+            xmax = 6.980000
             text = "I"
         intervals [40]:
-            xmin = 6.970000
+            xmin = 6.980000
             xmax = 7.060000
             text = "m"
         intervals [41]:

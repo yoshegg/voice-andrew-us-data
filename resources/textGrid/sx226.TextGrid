@@ -14,18 +14,18 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.810000
+            xmax = 2.790000
             text = ""
         intervals [2]:
-            xmin = 2.810000
+            xmin = 2.790000
             xmax = 3.270000
             text = "Steph"
         intervals [3]:
             xmin = 3.270000
-            xmax = 3.490000
+            xmax = 3.480000
             text = "could"
         intervals [4]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.900000
             text = "barely"
         intervals [5]:
@@ -56,18 +56,18 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.810000
+            xmax = 2.790000
             text = ""
         intervals [2]:
-            xmin = 2.810000
+            xmin = 2.790000
             xmax = 3.270000
             text = "s t E f"
         intervals [3]:
             xmin = 3.270000
-            xmax = 3.490000
+            xmax = 3.480000
             text = "k U d"
         intervals [4]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.900000
             text = "b E R l i:"
         intervals [5]:
@@ -98,10 +98,10 @@ item []:
         intervals: size = 38
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.810000
+            xmax = 2.790000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.810000
+            xmin = 2.790000
             xmax = 2.970000
             text = "s"
         intervals [3]:
@@ -126,10 +126,10 @@ item []:
             text = "U"
         intervals [8]:
             xmin = 3.440000
-            xmax = 3.490000
+            xmax = 3.480000
             text = "d"
         intervals [9]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.590000
             text = "b"
         intervals [10]:
@@ -182,10 +182,10 @@ item []:
             text = "V"
         intervals [22]:
             xmin = 4.440000
-            xmax = 4.570000
+            xmax = 4.580000
             text = "s"
         intervals [23]:
-            xmin = 4.570000
+            xmin = 4.580000
             xmax = 4.670000
             text = "aI"
         intervals [24]:

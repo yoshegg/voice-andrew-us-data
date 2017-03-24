@@ -30,10 +30,10 @@ item []:
             text = "child"
         intervals [5]:
             xmin = 5.080000
-            xmax = 5.270000
+            xmax = 5.260000
             text = "was"
         intervals [6]:
-            xmin = 5.270000
+            xmin = 5.260000
             xmax = 5.600000
             text = "gently"
         intervals [7]:
@@ -84,10 +84,10 @@ item []:
             text = "tS aI l d"
         intervals [5]:
             xmin = 5.080000
-            xmax = 5.270000
+            xmax = 5.260000
             text = "w Q z"
         intervals [6]:
-            xmin = 5.270000
+            xmin = 5.260000
             xmax = 5.600000
             text = "dZ E n t l i:"
         intervals [7]:
@@ -186,10 +186,10 @@ item []:
             text = "Q"
         intervals [17]:
             xmin = 5.180000
-            xmax = 5.270000
+            xmax = 5.260000
             text = "z"
         intervals [18]:
-            xmin = 5.270000
+            xmin = 5.260000
             xmax = 5.340000
             text = "dZ"
         intervals [19]:
@@ -206,10 +206,10 @@ item []:
             text = "t"
         intervals [22]:
             xmin = 5.450000
-            xmax = 5.530000
+            xmax = 5.520000
             text = "l"
         intervals [23]:
-            xmin = 5.530000
+            xmin = 5.520000
             xmax = 5.600000
             text = "i:"
         intervals [24]:

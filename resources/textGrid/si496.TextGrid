@@ -26,10 +26,10 @@ item []:
             text = "could"
         intervals [4]:
             xmin = 1.940000
-            xmax = 2.390000
+            xmax = 2.340000
             text = "walk"
         intervals [5]:
-            xmin = 2.390000
+            xmin = 2.340000
             xmax = 2.700000
             text = ""
         intervals [6]:
@@ -54,18 +54,18 @@ item []:
             text = ""
         intervals [11]:
             xmin = 3.530000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "or"
         intervals [12]:
-            xmin = 3.640000
+            xmin = 3.650000
             xmax = 3.770000
             text = "be"
         intervals [13]:
             xmin = 3.770000
-            xmax = 4.170000
+            xmax = 4.180000
             text = "driven"
         intervals [14]:
-            xmin = 4.170000
+            xmin = 4.180000
             xmax = 6.192000
             text = ""
     item [2]:
@@ -88,10 +88,10 @@ item []:
             text = "k U d"
         intervals [4]:
             xmin = 1.940000
-            xmax = 2.390000
+            xmax = 2.340000
             text = "w O: k"
         intervals [5]:
-            xmin = 2.390000
+            xmin = 2.340000
             xmax = 2.700000
             text = ""
         intervals [6]:
@@ -116,18 +116,18 @@ item []:
             text = ""
         intervals [11]:
             xmin = 3.530000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "O: R"
         intervals [12]:
-            xmin = 3.640000
+            xmin = 3.650000
             xmax = 3.770000
             text = "b i:"
         intervals [13]:
             xmin = 3.770000
-            xmax = 4.170000
+            xmax = 4.180000
             text = "d R I v V n"
         intervals [14]:
-            xmin = 4.170000
+            xmin = 4.180000
             xmax = 6.192000
             text = ""
     item [3]:
@@ -166,14 +166,14 @@ item []:
             text = "w"
         intervals [8]:
             xmin = 2.070000
-            xmax = 2.220000
+            xmax = 2.210000
             text = "O:"
         intervals [9]:
-            xmin = 2.220000
-            xmax = 2.390000
+            xmin = 2.210000
+            xmax = 2.340000
             text = "k"
         intervals [10]:
-            xmin = 2.390000
+            xmin = 2.340000
             xmax = 2.700000
             text = "<p:>"
         intervals [11]:
@@ -222,10 +222,10 @@ item []:
             text = "O:"
         intervals [22]:
             xmin = 3.610000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "R"
         intervals [23]:
-            xmin = 3.640000
+            xmin = 3.650000
             xmax = 3.720000
             text = "b"
         intervals [24]:
@@ -254,9 +254,9 @@ item []:
             text = "V"
         intervals [30]:
             xmin = 4.140000
-            xmax = 4.170000
+            xmax = 4.180000
             text = "n"
         intervals [31]:
-            xmin = 4.170000
+            xmin = 4.180000
             xmax = 6.192000
             text = "<p:>"

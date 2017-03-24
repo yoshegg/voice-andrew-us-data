@@ -11,7 +11,7 @@ item []:
         name = "ORT"
         xmin = 0
         xmax = 4.264000
-        intervals: size = 8
+        intervals: size = 9
         intervals [1]:
             xmin = 0.000000
             xmax = 1.700000
@@ -34,13 +34,17 @@ item []:
             text = "postdate"
         intervals [6]:
             xmin = 3.030000
-            xmax = 3.090000
+            xmax = 3.100000
             text = "a"
         intervals [7]:
-            xmin = 3.090000
+            xmin = 3.100000
+            xmax = 3.150000
+            text = ""
+        intervals [8]:
+            xmin = 3.150000
             xmax = 3.540000
             text = "check"
-        intervals [8]:
+        intervals [9]:
             xmin = 3.540000
             xmax = 4.264000
             text = ""
@@ -49,7 +53,7 @@ item []:
         name = "KAN"
         xmin = 0
         xmax = 4.264000
-        intervals: size = 8
+        intervals: size = 9
         intervals [1]:
             xmin = 0.000000
             xmax = 1.700000
@@ -72,13 +76,17 @@ item []:
             text = "p @U s t d eI t"
         intervals [6]:
             xmin = 3.030000
-            xmax = 3.090000
+            xmax = 3.100000
             text = "V"
         intervals [7]:
-            xmin = 3.090000
+            xmin = 3.100000
+            xmax = 3.150000
+            text = ""
+        intervals [8]:
+            xmin = 3.150000
             xmax = 3.540000
             text = "tS E k"
-        intervals [8]:
+        intervals [9]:
             xmin = 3.540000
             xmax = 4.264000
             text = ""
@@ -87,7 +95,7 @@ item []:
         name = "MAU"
         xmin = 0
         xmax = 4.264000
-        intervals: size = 24
+        intervals: size = 25
         intervals [1]:
             xmin = 0.000000
             xmax = 1.700000
@@ -114,10 +122,10 @@ item []:
             text = "l"
         intervals [7]:
             xmin = 1.950000
-            xmax = 2.060000
+            xmax = 2.070000
             text = "i:"
         intervals [8]:
-            xmin = 2.060000
+            xmin = 2.070000
             xmax = 2.140000
             text = "g"
         intervals [9]:
@@ -166,21 +174,25 @@ item []:
             text = "t"
         intervals [20]:
             xmin = 3.030000
-            xmax = 3.090000
+            xmax = 3.100000
             text = "V"
         intervals [21]:
-            xmin = 3.090000
-            xmax = 3.280000
-            text = "tS"
+            xmin = 3.100000
+            xmax = 3.150000
+            text = "<p:>"
         intervals [22]:
-            xmin = 3.280000
+            xmin = 3.150000
+            xmax = 3.270000
+            text = "tS"
+        intervals [23]:
+            xmin = 3.270000
             xmax = 3.370000
             text = "E"
-        intervals [23]:
+        intervals [24]:
             xmin = 3.370000
             xmax = 3.540000
             text = "k"
-        intervals [24]:
+        intervals [25]:
             xmin = 3.540000
             xmax = 4.264000
             text = "<p:>"

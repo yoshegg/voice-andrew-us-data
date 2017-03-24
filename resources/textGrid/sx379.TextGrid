@@ -26,10 +26,10 @@ item []:
             text = "gives"
         intervals [4]:
             xmin = 2.650000
-            xmax = 3.090000
+            xmax = 3.080000
             text = "driving"
         intervals [5]:
-            xmin = 3.090000
+            xmin = 3.080000
             xmax = 3.500000
             text = "lessons"
         intervals [6]:
@@ -64,10 +64,10 @@ item []:
             text = "g I v z"
         intervals [4]:
             xmin = 2.650000
-            xmax = 3.090000
+            xmax = 3.080000
             text = "d R aI v I N"
         intervals [5]:
-            xmin = 3.090000
+            xmin = 3.080000
             xmax = 3.500000
             text = "l E s V n z"
         intervals [6]:
@@ -142,10 +142,10 @@ item []:
             text = "I"
         intervals [14]:
             xmin = 3.010000
-            xmax = 3.090000
+            xmax = 3.080000
             text = "N"
         intervals [15]:
-            xmin = 3.090000
+            xmin = 3.080000
             xmax = 3.150000
             text = "l"
         intervals [16]:

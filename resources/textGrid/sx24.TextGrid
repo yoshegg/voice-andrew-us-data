@@ -162,10 +162,10 @@ item []:
             text = "<p:>"
         intervals [17]:
             xmin = 4.740000
-            xmax = 4.820000
+            xmax = 4.830000
             text = "w"
         intervals [18]:
-            xmin = 4.820000
+            xmin = 4.830000
             xmax = 4.890000
             text = "i:"
         intervals [19]:

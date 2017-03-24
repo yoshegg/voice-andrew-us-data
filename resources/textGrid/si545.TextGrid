@@ -14,10 +14,10 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.460000
+            xmax = 2.470000
             text = ""
         intervals [2]:
-            xmin = 2.460000
+            xmin = 2.470000
             xmax = 2.600000
             text = "But"
         intervals [3]:
@@ -56,10 +56,10 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.460000
+            xmax = 2.470000
             text = ""
         intervals [2]:
-            xmin = 2.460000
+            xmin = 2.470000
             xmax = 2.600000
             text = "b V t"
         intervals [3]:
@@ -98,10 +98,10 @@ item []:
         intervals: size = 23
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.460000
+            xmax = 2.470000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.460000
+            xmin = 2.470000
             xmax = 2.530000
             text = "b"
         intervals [3]:

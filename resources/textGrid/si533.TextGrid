@@ -30,10 +30,10 @@ item []:
             text = "bayed"
         intervals [5]:
             xmin = 3.410000
-            xmax = 3.880000
+            xmax = 3.890000
             text = ""
         intervals [6]:
-            xmin = 3.880000
+            xmin = 3.890000
             xmax = 4.080000
             text = "what"
         intervals [7]:
@@ -88,10 +88,10 @@ item []:
             text = "b eI d"
         intervals [5]:
             xmin = 3.410000
-            xmax = 3.880000
+            xmax = 3.890000
             text = ""
         intervals [6]:
-            xmin = 3.880000
+            xmin = 3.890000
             xmax = 4.080000
             text = "w V t"
         intervals [7]:
@@ -170,10 +170,10 @@ item []:
             text = "d"
         intervals [11]:
             xmin = 3.410000
-            xmax = 3.880000
+            xmax = 3.890000
             text = "<p:>"
         intervals [12]:
-            xmin = 3.880000
+            xmin = 3.890000
             xmax = 3.950000
             text = "w"
         intervals [13]:

@@ -62,10 +62,10 @@ item []:
             text = ""
         intervals [13]:
             xmin = 6.630000
-            xmax = 6.910000
+            xmax = 6.905000
             text = "only"
         intervals [14]:
-            xmin = 6.910000
+            xmin = 6.905000
             xmax = 7.700000
             text = "emphasized"
         intervals [15]:
@@ -140,10 +140,10 @@ item []:
             text = ""
         intervals [13]:
             xmin = 6.630000
-            xmax = 6.910000
+            xmax = 6.905000
             text = "@U n l i:"
         intervals [14]:
-            xmin = 6.910000
+            xmin = 6.905000
             xmax = 7.700000
             text = "E m f V s aI z d"
         intervals [15]:
@@ -318,10 +318,10 @@ item []:
             text = "l"
         intervals [38]:
             xmin = 6.780000
-            xmax = 6.910000
+            xmax = 6.905000
             text = "i:"
         intervals [39]:
-            xmin = 6.910000
+            xmin = 6.905000
             xmax = 6.970000
             text = "E"
         intervals [40]:

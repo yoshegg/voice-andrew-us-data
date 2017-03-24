@@ -22,10 +22,10 @@ item []:
             text = "Combine"
         intervals [3]:
             xmin = 1.710000
-            xmax = 1.910000
+            xmax = 1.920000
             text = "all"
         intervals [4]:
-            xmin = 1.910000
+            xmin = 1.920000
             xmax = 2.000000
             text = "the"
         intervals [5]:
@@ -50,10 +50,10 @@ item []:
             text = ""
         intervals [10]:
             xmin = 3.440000
-            xmax = 3.750000
+            xmax = 3.760000
             text = "bowl"
         intervals [11]:
-            xmin = 3.750000
+            xmin = 3.760000
             xmax = 4.280000
             text = ""
     item [2]:
@@ -72,10 +72,10 @@ item []:
             text = "k Q m b aI n"
         intervals [3]:
             xmin = 1.710000
-            xmax = 1.910000
+            xmax = 1.920000
             text = "O: l"
         intervals [4]:
-            xmin = 1.910000
+            xmin = 1.920000
             xmax = 2.000000
             text = "D V"
         intervals [5]:
@@ -100,10 +100,10 @@ item []:
             text = ""
         intervals [10]:
             xmin = 3.440000
-            xmax = 3.750000
+            xmax = 3.760000
             text = "b @U l"
         intervals [11]:
-            xmin = 3.750000
+            xmin = 3.760000
             xmax = 4.280000
             text = ""
     item [3]:
@@ -146,10 +146,10 @@ item []:
             text = "O:"
         intervals [9]:
             xmin = 1.850000
-            xmax = 1.910000
+            xmax = 1.920000
             text = "l"
         intervals [10]:
-            xmin = 1.910000
+            xmin = 1.920000
             xmax = 1.970000
             text = "D"
         intervals [11]:
@@ -242,9 +242,9 @@ item []:
             text = "@U"
         intervals [33]:
             xmin = 3.640000
-            xmax = 3.750000
+            xmax = 3.760000
             text = "l"
         intervals [34]:
-            xmin = 3.750000
+            xmin = 3.760000
             xmax = 4.280000
             text = "<p:>"

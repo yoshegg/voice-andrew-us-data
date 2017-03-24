@@ -70,10 +70,10 @@ item []:
             text = "white"
         intervals [15]:
             xmin = 6.950000
-            xmax = 7.310000
+            xmax = 7.320000
             text = "leather"
         intervals [16]:
-            xmin = 7.310000
+            xmin = 7.320000
             xmax = 7.552000
             text = ""
     item [2]:
@@ -140,10 +140,10 @@ item []:
             text = "w aI t"
         intervals [15]:
             xmin = 6.950000
-            xmax = 7.310000
+            xmax = 7.320000
             text = "l E D 3`"
         intervals [16]:
-            xmin = 7.310000
+            xmin = 7.320000
             xmax = 7.552000
             text = ""
     item [3]:
@@ -286,10 +286,10 @@ item []:
             text = "l"
         intervals [34]:
             xmin = 6.450000
-            xmax = 6.600000
+            xmax = 6.610000
             text = "aI"
         intervals [35]:
-            xmin = 6.600000
+            xmin = 6.610000
             xmax = 6.650000
             text = "n"
         intervals [36]:
@@ -322,9 +322,9 @@ item []:
             text = "D"
         intervals [43]:
             xmin = 7.210000
-            xmax = 7.310000
+            xmax = 7.320000
             text = "3`"
         intervals [44]:
-            xmin = 7.310000
+            xmin = 7.320000
             xmax = 7.552000
             text = "<p:>"

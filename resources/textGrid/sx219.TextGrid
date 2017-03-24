@@ -110,10 +110,10 @@ item []:
             text = "Q"
         intervals [4]:
             xmin = 2.210000
-            xmax = 2.280000
+            xmax = 2.300000
             text = "n"
         intervals [5]:
-            xmin = 2.280000
+            xmin = 2.300000
             xmax = 2.370000
             text = "p"
         intervals [6]:

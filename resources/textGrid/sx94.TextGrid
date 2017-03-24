@@ -26,10 +26,10 @@ item []:
             text = "love"
         intervals [4]:
             xmin = 2.800000
-            xmax = 3.210000
+            xmax = 3.200000
             text = "common"
         intervals [5]:
-            xmin = 3.210000
+            xmin = 3.200000
             xmax = 3.690000
             text = "candy"
         intervals [6]:
@@ -64,10 +64,10 @@ item []:
             text = "l V v"
         intervals [4]:
             xmin = 2.800000
-            xmax = 3.210000
+            xmax = 3.200000
             text = "k Q m V n"
         intervals [5]:
-            xmin = 3.210000
+            xmin = 3.200000
             xmax = 3.690000
             text = "k { n d i:"
         intervals [6]:
@@ -150,10 +150,10 @@ item []:
             text = "V"
         intervals [16]:
             xmin = 3.120000
-            xmax = 3.210000
+            xmax = 3.200000
             text = "n"
         intervals [17]:
-            xmin = 3.210000
+            xmin = 3.200000
             xmax = 3.340000
             text = "k"
         intervals [18]:

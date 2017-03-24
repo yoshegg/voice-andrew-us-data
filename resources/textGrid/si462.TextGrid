@@ -318,10 +318,10 @@ item []:
             text = "E"
         intervals [40]:
             xmin = 7.860000
-            xmax = 7.900000
+            xmax = 7.910000
             text = "l"
         intervals [41]:
-            xmin = 7.900000
+            xmin = 7.910000
             xmax = 7.970000
             text = "p"
         intervals [42]:
@@ -398,10 +398,10 @@ item []:
             text = "t"
         intervals [60]:
             xmin = 9.150000
-            xmax = 9.250000
+            xmax = 9.260000
             text = "O:"
         intervals [61]:
-            xmin = 9.250000
+            xmin = 9.260000
             xmax = 9.300000
             text = "R"
         intervals [62]:

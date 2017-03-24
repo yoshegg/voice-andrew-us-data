@@ -38,10 +38,10 @@ item []:
             text = "carry"
         intervals [7]:
             xmin = 1.960000
-            xmax = 2.070000
+            xmax = 2.080000
             text = "an"
         intervals [8]:
-            xmin = 2.070000
+            xmin = 2.080000
             xmax = 2.150000
             text = ""
         intervals [9]:
@@ -58,10 +58,10 @@ item []:
             text = "like"
         intervals [12]:
             xmin = 3.160000
-            xmax = 3.470000
+            xmax = 3.480000
             text = "that"
         intervals [13]:
-            xmin = 3.470000
+            xmin = 3.480000
             xmax = 4.096000
             text = ""
     item [2]:
@@ -96,10 +96,10 @@ item []:
             text = "k { R i:"
         intervals [7]:
             xmin = 1.960000
-            xmax = 2.070000
+            xmax = 2.080000
             text = "{ n"
         intervals [8]:
-            xmin = 2.070000
+            xmin = 2.080000
             xmax = 2.150000
             text = ""
         intervals [9]:
@@ -116,10 +116,10 @@ item []:
             text = "l aI k"
         intervals [12]:
             xmin = 3.160000
-            xmax = 3.470000
+            xmax = 3.480000
             text = "D { t"
         intervals [13]:
-            xmin = 3.470000
+            xmin = 3.480000
             xmax = 4.096000
             text = ""
     item [3]:
@@ -198,10 +198,10 @@ item []:
             text = "{"
         intervals [18]:
             xmin = 1.990000
-            xmax = 2.070000
+            xmax = 2.080000
             text = "n"
         intervals [19]:
-            xmin = 2.070000
+            xmin = 2.080000
             xmax = 2.150000
             text = "<p:>"
         intervals [20]:
@@ -250,9 +250,9 @@ item []:
             text = "{"
         intervals [31]:
             xmin = 3.440000
-            xmax = 3.470000
+            xmax = 3.480000
             text = "t"
         intervals [32]:
-            xmin = 3.470000
+            xmin = 3.480000
             xmax = 4.096000
             text = "<p:>"

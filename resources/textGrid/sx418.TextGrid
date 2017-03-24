@@ -46,10 +46,10 @@ item []:
             text = "Spanish"
         intervals [9]:
             xmin = 4.850000
-            xmax = 5.530000
+            xmax = 5.540000
             text = "zebras"
         intervals [10]:
-            xmin = 5.530000
+            xmin = 5.540000
             xmax = 6.240000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "s p { n I S"
         intervals [9]:
             xmin = 4.850000
-            xmax = 5.530000
+            xmax = 5.540000
             text = "z i: b R V z"
         intervals [10]:
-            xmin = 5.530000
+            xmin = 5.540000
             xmax = 6.240000
             text = ""
     item [3]:
@@ -246,9 +246,9 @@ item []:
             text = "V"
         intervals [36]:
             xmin = 5.390000
-            xmax = 5.530000
+            xmax = 5.540000
             text = "z"
         intervals [37]:
-            xmin = 5.530000
+            xmin = 5.540000
             xmax = 6.240000
             text = "<p:>"

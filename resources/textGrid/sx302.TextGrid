@@ -30,10 +30,10 @@ item []:
             text = "made"
         intervals [5]:
             xmin = 2.620000
-            xmax = 2.810000
+            xmax = 2.800000
             text = "from"
         intervals [6]:
-            xmin = 2.810000
+            xmin = 2.800000
             xmax = 3.350000
             text = "processed"
         intervals [7]:
@@ -68,10 +68,10 @@ item []:
             text = "m eI d"
         intervals [5]:
             xmin = 2.620000
-            xmax = 2.810000
+            xmax = 2.800000
             text = "f R V m"
         intervals [6]:
-            xmin = 2.810000
+            xmin = 2.800000
             xmax = 3.350000
             text = "p R Q s E s t"
         intervals [7]:
@@ -142,10 +142,10 @@ item []:
             text = "V"
         intervals [14]:
             xmin = 2.760000
-            xmax = 2.810000
+            xmax = 2.800000
             text = "m"
         intervals [15]:
-            xmin = 2.810000
+            xmin = 2.800000
             xmax = 2.900000
             text = "p"
         intervals [16]:
@@ -186,10 +186,10 @@ item []:
             text = "b"
         intervals [25]:
             xmin = 3.760000
-            xmax = 3.900000
+            xmax = 3.910000
             text = "i:"
         intervals [26]:
-            xmin = 3.900000
+            xmin = 3.910000
             xmax = 4.050000
             text = "n"
         intervals [27]:

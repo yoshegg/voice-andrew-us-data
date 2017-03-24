@@ -234,14 +234,14 @@ item []:
             text = "i:"
         intervals [31]:
             xmin = 5.070000
-            xmax = 5.130000
+            xmax = 5.120000
             text = "R"
         intervals [32]:
-            xmin = 5.130000
-            xmax = 5.160000
+            xmin = 5.120000
+            xmax = 5.150000
             text = "V"
         intervals [33]:
-            xmin = 5.160000
+            xmin = 5.150000
             xmax = 5.250000
             text = "g"
         intervals [34]:
@@ -250,14 +250,14 @@ item []:
             text = "Q"
         intervals [35]:
             xmin = 5.280000
-            xmax = 5.350000
+            xmax = 5.340000
             text = "R"
         intervals [36]:
-            xmin = 5.350000
-            xmax = 5.380000
+            xmin = 5.340000
+            xmax = 5.370000
             text = "d"
         intervals [37]:
-            xmin = 5.380000
+            xmin = 5.370000
             xmax = 5.430000
             text = "I"
         intervals [38]:

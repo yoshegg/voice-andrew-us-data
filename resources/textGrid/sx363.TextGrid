@@ -50,10 +50,10 @@ item []:
             text = "and"
         intervals [10]:
             xmin = 4.060000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "became"
         intervals [11]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.890000
             text = "lost"
         intervals [12]:
@@ -104,10 +104,10 @@ item []:
             text = "V n d"
         intervals [10]:
             xmin = 4.060000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "b I k eI m"
         intervals [11]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.890000
             text = "l O: s t"
         intervals [12]:
@@ -254,10 +254,10 @@ item []:
             text = "eI"
         intervals [34]:
             xmin = 4.300000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "m"
         intervals [35]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.440000
             text = "l"
         intervals [36]:

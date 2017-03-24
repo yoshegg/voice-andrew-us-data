@@ -22,10 +22,10 @@ item []:
             text = "Military"
         intervals [3]:
             xmin = 3.280000
-            xmax = 3.860000
+            xmax = 3.850000
             text = "personnel"
         intervals [4]:
-            xmin = 3.860000
+            xmin = 3.850000
             xmax = 3.920000
             text = ""
         intervals [5]:
@@ -50,10 +50,10 @@ item []:
             text = "obey"
         intervals [10]:
             xmin = 5.110000
-            xmax = 5.590000
+            xmax = 5.580000
             text = "government"
         intervals [11]:
-            xmin = 5.590000
+            xmin = 5.580000
             xmax = 5.650000
             text = ""
         intervals [12]:
@@ -80,10 +80,10 @@ item []:
             text = "m I l V t E R i:"
         intervals [3]:
             xmin = 3.280000
-            xmax = 3.860000
+            xmax = 3.850000
             text = "p 3` s V n E l"
         intervals [4]:
-            xmin = 3.860000
+            xmin = 3.850000
             xmax = 3.920000
             text = ""
         intervals [5]:
@@ -108,10 +108,10 @@ item []:
             text = "@U b eI"
         intervals [10]:
             xmin = 5.110000
-            xmax = 5.590000
+            xmax = 5.580000
             text = "g V v 3` m V n t"
         intervals [11]:
-            xmin = 5.590000
+            xmin = 5.580000
             xmax = 5.650000
             text = ""
         intervals [12]:
@@ -190,10 +190,10 @@ item []:
             text = "E"
         intervals [16]:
             xmin = 3.700000
-            xmax = 3.860000
+            xmax = 3.850000
             text = "l"
         intervals [17]:
-            xmin = 3.860000
+            xmin = 3.850000
             xmax = 3.920000
             text = "<p:>"
         intervals [18]:
@@ -294,10 +294,10 @@ item []:
             text = "n"
         intervals [42]:
             xmin = 5.540000
-            xmax = 5.590000
+            xmax = 5.580000
             text = "t"
         intervals [43]:
-            xmin = 5.590000
+            xmin = 5.580000
             xmax = 5.650000
             text = "<p:>"
         intervals [44]:

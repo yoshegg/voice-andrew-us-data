@@ -38,10 +38,10 @@ item []:
             text = "finding"
         intervals [7]:
             xmin = 7.400000
-            xmax = 7.820000
+            xmax = 7.830000
             text = "Nan's"
         intervals [8]:
-            xmin = 7.820000
+            xmin = 7.830000
             xmax = 8.440000
             text = "cameo"
         intervals [9]:
@@ -96,10 +96,10 @@ item []:
             text = "f aI n d I N"
         intervals [7]:
             xmin = 7.400000
-            xmax = 7.820000
+            xmax = 7.830000
             text = "n { n z"
         intervals [8]:
-            xmin = 7.820000
+            xmin = 7.830000
             xmax = 8.440000
             text = "k { m i: @U"
         intervals [9]:
@@ -202,18 +202,18 @@ item []:
             text = "f"
         intervals [19]:
             xmin = 7.140000
-            xmax = 7.240000
+            xmax = 7.250000
             text = "aI"
         intervals [20]:
-            xmin = 7.240000
-            xmax = 7.270000
+            xmin = 7.250000
+            xmax = 7.280000
             text = "n"
         intervals [21]:
-            xmin = 7.270000
-            xmax = 7.300000
+            xmin = 7.280000
+            xmax = 7.310000
             text = "d"
         intervals [22]:
-            xmin = 7.300000
+            xmin = 7.310000
             xmax = 7.350000
             text = "I"
         intervals [23]:
@@ -234,10 +234,10 @@ item []:
             text = "n"
         intervals [27]:
             xmin = 7.760000
-            xmax = 7.820000
+            xmax = 7.830000
             text = "z"
         intervals [28]:
-            xmin = 7.820000
+            xmin = 7.830000
             xmax = 7.940000
             text = "k"
         intervals [29]:
@@ -282,14 +282,14 @@ item []:
             text = "i:"
         intervals [39]:
             xmin = 8.820000
-            xmax = 8.890000
+            xmax = 8.900000
             text = "R"
         intervals [40]:
-            xmin = 8.890000
-            xmax = 8.920000
+            xmin = 8.900000
+            xmax = 8.930000
             text = "I"
         intervals [41]:
-            xmin = 8.920000
+            xmin = 8.930000
             xmax = 9.060000
             text = "w"
         intervals [42]:
@@ -298,14 +298,14 @@ item []:
             text = "O:"
         intervals [43]:
             xmin = 9.200000
-            xmax = 9.240000
+            xmax = 9.250000
             text = "R"
         intervals [44]:
-            xmin = 9.240000
-            xmax = 9.310000
+            xmin = 9.250000
+            xmax = 9.300000
             text = "d"
         intervals [45]:
-            xmin = 9.310000
+            xmin = 9.300000
             xmax = 9.400000
             text = "I"
         intervals [46]:

@@ -218,10 +218,10 @@ item []:
             text = "u:"
         intervals [27]:
             xmin = 5.330000
-            xmax = 5.390000
+            xmax = 5.400000
             text = "s"
         intervals [28]:
-            xmin = 5.390000
+            xmin = 5.400000
             xmax = 5.490000
             text = "t"
         intervals [29]:

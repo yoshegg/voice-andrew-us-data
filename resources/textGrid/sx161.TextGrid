@@ -22,18 +22,18 @@ item []:
             text = "As"
         intervals [3]:
             xmin = 4.600000
-            xmax = 4.640000
+            xmax = 4.630000
             text = "a"
         intervals [4]:
-            xmin = 4.640000
+            xmin = 4.630000
             xmax = 5.300000
             text = "precaution"
         intervals [5]:
             xmin = 5.300000
-            xmax = 5.550000
+            xmax = 5.530000
             text = ""
         intervals [6]:
-            xmin = 5.550000
+            xmin = 5.530000
             xmax = 5.705000
             text = "the"
         intervals [7]:
@@ -84,18 +84,18 @@ item []:
             text = "{ z"
         intervals [3]:
             xmin = 4.600000
-            xmax = 4.640000
+            xmax = 4.630000
             text = "V"
         intervals [4]:
-            xmin = 4.640000
+            xmin = 4.630000
             xmax = 5.300000
             text = "p R i: k O: S V n"
         intervals [5]:
             xmin = 5.300000
-            xmax = 5.550000
+            xmax = 5.530000
             text = ""
         intervals [6]:
-            xmin = 5.550000
+            xmin = 5.530000
             xmax = 5.705000
             text = "D V"
         intervals [7]:
@@ -150,10 +150,10 @@ item []:
             text = "z"
         intervals [4]:
             xmin = 4.600000
-            xmax = 4.640000
+            xmax = 4.630000
             text = "V"
         intervals [5]:
-            xmin = 4.640000
+            xmin = 4.630000
             xmax = 4.720000
             text = "p"
         intervals [6]:
@@ -186,10 +186,10 @@ item []:
             text = "n"
         intervals [13]:
             xmin = 5.300000
-            xmax = 5.550000
+            xmax = 5.530000
             text = "<p:>"
         intervals [14]:
-            xmin = 5.550000
+            xmin = 5.530000
             xmax = 5.660000
             text = "D"
         intervals [15]:

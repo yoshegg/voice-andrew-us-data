@@ -30,10 +30,10 @@ item []:
             text = "they"
         intervals [5]:
             xmin = 2.730000
-            xmax = 2.960000
+            xmax = 2.970000
             text = "turn"
         intervals [6]:
-            xmin = 2.960000
+            xmin = 2.970000
             xmax = 3.160000
             text = "out"
         intervals [7]:
@@ -68,10 +68,10 @@ item []:
             text = "D eI"
         intervals [5]:
             xmin = 2.730000
-            xmax = 2.960000
+            xmax = 2.970000
             text = "t 3` n"
         intervals [6]:
-            xmin = 2.960000
+            xmin = 2.970000
             xmax = 3.160000
             text = "aU t"
         intervals [7]:
@@ -122,14 +122,14 @@ item []:
             text = "t"
         intervals [9]:
             xmin = 2.850000
-            xmax = 2.930000
+            xmax = 2.940000
             text = "3`"
         intervals [10]:
-            xmin = 2.930000
-            xmax = 2.960000
+            xmin = 2.940000
+            xmax = 2.970000
             text = "n"
         intervals [11]:
-            xmin = 2.960000
+            xmin = 2.970000
             xmax = 3.130000
             text = "aU"
         intervals [12]:

@@ -54,10 +54,10 @@ item []:
             text = "the"
         intervals [11]:
             xmin = 4.240000
-            xmax = 4.910000
+            xmax = 4.920000
             text = "farmyard"
         intervals [12]:
-            xmin = 4.910000
+            xmin = 4.920000
             xmax = 5.456000
             text = ""
     item [2]:
@@ -108,10 +108,10 @@ item []:
             text = "D V"
         intervals [11]:
             xmin = 4.240000
-            xmax = 4.910000
+            xmax = 4.920000
             text = "f Q R m j Q R d"
         intervals [12]:
-            xmin = 4.910000
+            xmin = 4.920000
             xmax = 5.456000
             text = ""
     item [3]:
@@ -250,9 +250,9 @@ item []:
             text = "R"
         intervals [33]:
             xmin = 4.820000
-            xmax = 4.910000
+            xmax = 4.920000
             text = "d"
         intervals [34]:
-            xmin = 4.910000
+            xmin = 4.920000
             xmax = 5.456000
             text = "<p:>"

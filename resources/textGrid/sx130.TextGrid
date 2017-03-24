@@ -30,10 +30,10 @@ item []:
             text = "four"
         intervals [5]:
             xmin = 2.820000
-            xmax = 3.215000
+            xmax = 3.220000
             text = "extra"
         intervals [6]:
-            xmin = 3.215000
+            xmin = 3.220000
             xmax = 3.630000
             text = "eggs"
         intervals [7]:
@@ -72,10 +72,10 @@ item []:
             text = "f O: R"
         intervals [5]:
             xmin = 2.820000
-            xmax = 3.215000
+            xmax = 3.220000
             text = "E k s t R V"
         intervals [6]:
-            xmin = 3.215000
+            xmin = 3.220000
             xmax = 3.630000
             text = "E g z"
         intervals [7]:
@@ -150,10 +150,10 @@ item []:
             text = "R"
         intervals [14]:
             xmin = 3.160000
-            xmax = 3.215000
+            xmax = 3.220000
             text = "V"
         intervals [15]:
-            xmin = 3.215000
+            xmin = 3.220000
             xmax = 3.400000
             text = "E"
         intervals [16]:
@@ -190,10 +190,10 @@ item []:
             text = "E"
         intervals [24]:
             xmin = 3.950000
-            xmax = 4.040000
+            xmax = 4.050000
             text = "k"
         intervals [25]:
-            xmin = 4.040000
+            xmin = 4.050000
             xmax = 4.170000
             text = "f"
         intervals [26]:

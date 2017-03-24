@@ -178,10 +178,10 @@ item []:
             text = "w"
         intervals [21]:
             xmin = 3.360000
-            xmax = 3.470000
+            xmax = 3.480000
             text = "Q"
         intervals [22]:
-            xmin = 3.470000
+            xmin = 3.480000
             xmax = 3.600000
             text = "tS"
         intervals [23]:
@@ -218,10 +218,10 @@ item []:
             text = "l"
         intervals [31]:
             xmin = 3.970000
-            xmax = 4.070000
+            xmax = 4.060000
             text = "i:"
         intervals [32]:
-            xmin = 4.070000
+            xmin = 4.060000
             xmax = 4.200000
             text = "tS"
         intervals [33]:

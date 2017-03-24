@@ -22,10 +22,10 @@ item []:
             text = "Young"
         intervals [3]:
             xmin = 2.000000
-            xmax = 2.370000
+            xmax = 2.380000
             text = "people"
         intervals [4]:
-            xmin = 2.370000
+            xmin = 2.380000
             xmax = 3.120000
             text = "participate"
         intervals [5]:
@@ -64,10 +64,10 @@ item []:
             text = "j V N"
         intervals [3]:
             xmin = 2.000000
-            xmax = 2.370000
+            xmax = 2.380000
             text = "p i: p V l"
         intervals [4]:
-            xmin = 2.370000
+            xmin = 2.380000
             xmax = 3.120000
             text = "p Q R t I s V p eI t"
         intervals [5]:
@@ -130,10 +130,10 @@ item []:
             text = "V"
         intervals [9]:
             xmin = 2.290000
-            xmax = 2.370000
+            xmax = 2.380000
             text = "l"
         intervals [10]:
-            xmin = 2.370000
+            xmin = 2.380000
             xmax = 2.440000
             text = "p"
         intervals [11]:

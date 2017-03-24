@@ -218,10 +218,10 @@ item []:
             text = "f"
         intervals [27]:
             xmin = 3.610000
-            xmax = 3.700000
+            xmax = 3.690000
             text = "t"
         intervals [28]:
-            xmin = 3.700000
+            xmin = 3.690000
             xmax = 3.740000
             text = "3`"
         intervals [29]:

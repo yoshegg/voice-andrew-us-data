@@ -174,10 +174,10 @@ item []:
             text = "f"
         intervals [12]:
             xmin = 6.150000
-            xmax = 6.210000
+            xmax = 6.190000
             text = "3`"
         intervals [13]:
-            xmin = 6.210000
+            xmin = 6.190000
             xmax = 6.240000
             text = "g"
         intervals [14]:
@@ -266,10 +266,10 @@ item []:
             text = "l"
         intervals [35]:
             xmin = 8.000000
-            xmax = 8.210000
+            xmax = 8.220000
             text = "aU"
         intervals [36]:
-            xmin = 8.210000
+            xmin = 8.220000
             xmax = 8.270000
             text = "t"
         intervals [37]:

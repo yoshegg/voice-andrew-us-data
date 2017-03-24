@@ -26,10 +26,10 @@ item []:
             text = "saw"
         intervals [4]:
             xmin = 3.430000
-            xmax = 3.490000
+            xmax = 3.480000
             text = ""
         intervals [5]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.750000
             text = "pine"
         intervals [6]:
@@ -38,10 +38,10 @@ item []:
             text = "trees"
         intervals [7]:
             xmin = 4.040000
-            xmax = 4.160000
+            xmax = 4.150000
             text = "and"
         intervals [8]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.630000
             text = "redwoods"
         intervals [9]:
@@ -62,10 +62,10 @@ item []:
             text = "through"
         intervals [13]:
             xmin = 5.320000
-            xmax = 5.760000
+            xmax = 5.750000
             text = "Sequoia"
         intervals [14]:
-            xmin = 5.760000
+            xmin = 5.750000
             xmax = 6.190000
             text = "National"
         intervals [15]:
@@ -96,10 +96,10 @@ item []:
             text = "s O:"
         intervals [4]:
             xmin = 3.430000
-            xmax = 3.490000
+            xmax = 3.480000
             text = ""
         intervals [5]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.750000
             text = "p aI n"
         intervals [6]:
@@ -108,10 +108,10 @@ item []:
             text = "t R i: z"
         intervals [7]:
             xmin = 4.040000
-            xmax = 4.160000
+            xmax = 4.150000
             text = "V n d"
         intervals [8]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.630000
             text = "R E d w U d z"
         intervals [9]:
@@ -132,10 +132,10 @@ item []:
             text = "T R u:"
         intervals [13]:
             xmin = 5.320000
-            xmax = 5.760000
+            xmax = 5.750000
             text = "s I k w OI V"
         intervals [14]:
-            xmin = 5.760000
+            xmin = 5.750000
             xmax = 6.190000
             text = "n { S V n V l"
         intervals [15]:
@@ -178,10 +178,10 @@ item []:
             text = "O:"
         intervals [7]:
             xmin = 3.430000
-            xmax = 3.490000
+            xmax = 3.480000
             text = "<p:>"
         intervals [8]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.540000
             text = "p"
         intervals [9]:
@@ -214,14 +214,14 @@ item []:
             text = "V"
         intervals [16]:
             xmin = 4.090000
-            xmax = 4.130000
+            xmax = 4.120000
             text = "n"
         intervals [17]:
-            xmin = 4.130000
-            xmax = 4.160000
+            xmin = 4.120000
+            xmax = 4.150000
             text = "d"
         intervals [18]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.240000
             text = "R"
         intervals [19]:
@@ -310,14 +310,14 @@ item []:
             text = "w"
         intervals [40]:
             xmin = 5.620000
-            xmax = 5.690000
+            xmax = 5.700000
             text = "OI"
         intervals [41]:
-            xmin = 5.690000
-            xmax = 5.760000
+            xmin = 5.700000
+            xmax = 5.750000
             text = "V"
         intervals [42]:
-            xmin = 5.760000
+            xmin = 5.750000
             xmax = 5.820000
             text = "n"
         intervals [43]:

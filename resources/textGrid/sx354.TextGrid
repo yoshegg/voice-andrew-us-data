@@ -50,10 +50,10 @@ item []:
             text = "her"
         intervals [10]:
             xmin = 4.920000
-            xmax = 5.230000
+            xmax = 5.240000
             text = "will"
         intervals [11]:
-            xmin = 5.230000
+            xmin = 5.240000
             xmax = 6.040000
             text = ""
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "h 3`"
         intervals [10]:
             xmin = 4.920000
-            xmax = 5.230000
+            xmax = 5.240000
             text = "w I l"
         intervals [11]:
-            xmin = 5.230000
+            xmin = 5.240000
             xmax = 6.040000
             text = ""
     item [3]:
@@ -238,9 +238,9 @@ item []:
             text = "I"
         intervals [32]:
             xmin = 5.090000
-            xmax = 5.230000
+            xmax = 5.240000
             text = "l"
         intervals [33]:
-            xmin = 5.230000
+            xmin = 5.240000
             xmax = 6.040000
             text = "<p:>"

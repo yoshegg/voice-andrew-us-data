@@ -22,10 +22,10 @@ item []:
             text = "Only"
         intervals [3]:
             xmin = 2.710000
-            xmax = 3.260000
+            xmax = 3.255000
             text = "lawyers"
         intervals [4]:
-            xmin = 3.260000
+            xmin = 3.255000
             xmax = 3.505000
             text = "love"
         intervals [5]:
@@ -52,10 +52,10 @@ item []:
             text = "@U n l i:"
         intervals [3]:
             xmin = 2.710000
-            xmax = 3.260000
+            xmax = 3.255000
             text = "l O: j 3` z"
         intervals [4]:
-            xmin = 3.260000
+            xmin = 3.255000
             xmax = 3.505000
             text = "l V v"
         intervals [5]:
@@ -110,10 +110,10 @@ item []:
             text = "3`"
         intervals [10]:
             xmin = 3.160000
-            xmax = 3.260000
+            xmax = 3.255000
             text = "z"
         intervals [11]:
-            xmin = 3.260000
+            xmin = 3.255000
             xmax = 3.340000
             text = "l"
         intervals [12]:

@@ -42,10 +42,10 @@ item []:
             text = "it"
         intervals [8]:
             xmin = 3.320000
-            xmax = 3.430000
+            xmax = 3.440000
             text = "were"
         intervals [9]:
-            xmin = 3.430000
+            xmin = 3.440000
             xmax = 3.970000
             text = "broken"
         intervals [10]:
@@ -88,10 +88,10 @@ item []:
             text = "I t"
         intervals [8]:
             xmin = 3.320000
-            xmax = 3.430000
+            xmax = 3.440000
             text = "w i: R"
         intervals [9]:
-            xmin = 3.430000
+            xmin = 3.440000
             xmax = 3.970000
             text = "b R @U k V n"
         intervals [10]:
@@ -126,10 +126,10 @@ item []:
             text = "S"
         intervals [6]:
             xmin = 2.490000
-            xmax = 2.580000
+            xmax = 2.570000
             text = "@U"
         intervals [7]:
-            xmin = 2.580000
+            xmin = 2.570000
             xmax = 2.620000
             text = "l"
         intervals [8]:
@@ -190,10 +190,10 @@ item []:
             text = "i:"
         intervals [22]:
             xmin = 3.400000
-            xmax = 3.430000
+            xmax = 3.440000
             text = "R"
         intervals [23]:
-            xmin = 3.430000
+            xmin = 3.440000
             xmax = 3.540000
             text = "b"
         intervals [24]:
@@ -210,10 +210,10 @@ item []:
             text = "k"
         intervals [27]:
             xmin = 3.870000
-            xmax = 3.940000
+            xmax = 3.930000
             text = "V"
         intervals [28]:
-            xmin = 3.940000
+            xmin = 3.930000
             xmax = 3.970000
             text = "n"
         intervals [29]:

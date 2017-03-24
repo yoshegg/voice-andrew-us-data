@@ -62,10 +62,10 @@ item []:
             text = "on"
         intervals [13]:
             xmin = 5.860000
-            xmax = 6.150000
+            xmax = 6.120000
             text = "which"
         intervals [14]:
-            xmin = 6.150000
+            xmin = 6.120000
             xmax = 6.430000
             text = "nearly"
         intervals [15]:
@@ -144,10 +144,10 @@ item []:
             text = "Q n"
         intervals [13]:
             xmin = 5.860000
-            xmax = 6.150000
+            xmax = 6.120000
             text = "w I tS"
         intervals [14]:
-            xmin = 6.150000
+            xmin = 6.120000
             xmax = 6.430000
             text = "n I R l i:"
         intervals [15]:
@@ -234,10 +234,10 @@ item []:
             text = "R"
         intervals [15]:
             xmin = 4.630000
-            xmax = 4.670000
+            xmax = 4.680000
             text = "E"
         intervals [16]:
-            xmin = 4.670000
+            xmin = 4.680000
             xmax = 4.720000
             text = "R"
         intervals [17]:
@@ -250,14 +250,14 @@ item []:
             text = "V"
         intervals [19]:
             xmin = 4.900000
-            xmax = 4.950000
+            xmax = 4.980000
             text = "b"
         intervals [20]:
-            xmin = 4.950000
-            xmax = 4.990000
+            xmin = 4.980000
+            xmax = 5.010000
             text = "l"
         intervals [21]:
-            xmin = 4.990000
+            xmin = 5.010000
             xmax = 5.040000
             text = "I"
         intervals [22]:
@@ -318,10 +318,10 @@ item []:
             text = "I"
         intervals [36]:
             xmin = 6.000000
-            xmax = 6.150000
+            xmax = 6.120000
             text = "tS"
         intervals [37]:
-            xmin = 6.150000
+            xmin = 6.120000
             xmax = 6.180000
             text = "n"
         intervals [38]:

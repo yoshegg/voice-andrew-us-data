@@ -126,10 +126,10 @@ item []:
             text = "h"
         intervals [10]:
             xmin = 2.500000
-            xmax = 2.530000
+            xmax = 2.560000
             text = "Q"
         intervals [11]:
-            xmin = 2.530000
+            xmin = 2.560000
             xmax = 2.610000
             text = "R"
         intervals [12]:
@@ -182,10 +182,10 @@ item []:
             text = "{"
         intervals [24]:
             xmin = 3.520000
-            xmax = 3.620000
+            xmax = 3.630000
             text = "n"
         intervals [25]:
-            xmin = 3.620000
+            xmin = 3.630000
             xmax = 3.715000
             text = "z"
         intervals [26]:

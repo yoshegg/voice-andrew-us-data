@@ -50,18 +50,18 @@ item []:
             text = "each"
         intervals [10]:
             xmin = 5.720000
-            xmax = 5.970000
+            xmax = 5.980000
             text = "member"
         intervals [11]:
-            xmin = 5.970000
+            xmin = 5.980000
             xmax = 6.620000
             text = "library"
         intervals [12]:
             xmin = 6.620000
-            xmax = 6.740000
+            xmax = 6.760000
             text = "is"
         intervals [13]:
-            xmin = 6.740000
+            xmin = 6.760000
             xmax = 7.500000
             text = "preserved"
         intervals [14]:
@@ -112,18 +112,18 @@ item []:
             text = "i: tS"
         intervals [10]:
             xmin = 5.720000
-            xmax = 5.970000
+            xmax = 5.980000
             text = "m E m b 3`"
         intervals [11]:
-            xmin = 5.970000
+            xmin = 5.980000
             xmax = 6.620000
             text = "l aI b R E R i:"
         intervals [12]:
             xmin = 6.620000
-            xmax = 6.740000
+            xmax = 6.760000
             text = "I z"
         intervals [13]:
-            xmin = 6.740000
+            xmin = 6.760000
             xmax = 7.500000
             text = "p R V z 3` v d"
         intervals [14]:
@@ -278,10 +278,10 @@ item []:
             text = "b"
         intervals [36]:
             xmin = 5.930000
-            xmax = 5.970000
+            xmax = 5.980000
             text = "3`"
         intervals [37]:
-            xmin = 5.970000
+            xmin = 5.980000
             xmax = 6.070000
             text = "l"
         intervals [38]:
@@ -314,10 +314,10 @@ item []:
             text = "I"
         intervals [45]:
             xmin = 6.670000
-            xmax = 6.740000
+            xmax = 6.760000
             text = "z"
         intervals [46]:
-            xmin = 6.740000
+            xmin = 6.760000
             xmax = 6.850000
             text = "p"
         intervals [47]:

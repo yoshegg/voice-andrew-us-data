@@ -194,10 +194,10 @@ item []:
             text = "eI"
         intervals [23]:
             xmin = 3.970000
-            xmax = 4.020000
+            xmax = 4.000000
             text = "t"
         intervals [24]:
-            xmin = 4.020000
+            xmin = 4.000000
             xmax = 4.070000
             text = "3`"
         intervals [25]:
@@ -210,10 +210,10 @@ item []:
             text = "I"
         intervals [27]:
             xmin = 4.430000
-            xmax = 4.470000
+            xmax = 4.480000
             text = "R"
         intervals [28]:
-            xmin = 4.470000
+            xmin = 4.480000
             xmax = 4.650000
             text = "z"
         intervals [29]:

@@ -94,10 +94,10 @@ item []:
             text = "l"
         intervals [4]:
             xmin = 2.400000
-            xmax = 2.450000
+            xmax = 2.460000
             text = "d"
         intervals [5]:
-            xmin = 2.450000
+            xmin = 2.460000
             xmax = 2.520000
             text = "3`"
         intervals [6]:
@@ -178,14 +178,14 @@ item []:
             text = "u:"
         intervals [25]:
             xmin = 3.920000
-            xmax = 3.980000
+            xmax = 4.020000
             text = "d"
         intervals [26]:
-            xmin = 3.980000
-            xmax = 4.010000
+            xmin = 4.020000
+            xmax = 4.070000
             text = "V"
         intervals [27]:
-            xmin = 4.010000
+            xmin = 4.070000
             xmax = 4.160000
             text = "d"
         intervals [28]:

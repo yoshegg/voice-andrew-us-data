@@ -46,10 +46,10 @@ item []:
             text = "early"
         intervals [9]:
             xmin = 5.150000
-            xmax = 5.520000
+            xmax = 5.540000
             text = "enough"
         intervals [10]:
-            xmin = 5.520000
+            xmin = 5.540000
             xmax = 6.096000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "3` l i:"
         intervals [9]:
             xmin = 5.150000
-            xmax = 5.520000
+            xmax = 5.540000
             text = "I n V f"
         intervals [10]:
-            xmin = 5.520000
+            xmin = 5.540000
             xmax = 6.096000
             text = ""
     item [3]:
@@ -186,17 +186,17 @@ item []:
             text = "I"
         intervals [21]:
             xmin = 5.190000
-            xmax = 5.250000
+            xmax = 5.240000
             text = "n"
         intervals [22]:
-            xmin = 5.250000
+            xmin = 5.240000
             xmax = 5.360000
             text = "V"
         intervals [23]:
             xmin = 5.360000
-            xmax = 5.520000
+            xmax = 5.540000
             text = "f"
         intervals [24]:
-            xmin = 5.520000
+            xmin = 5.540000
             xmax = 6.096000
             text = "<p:>"

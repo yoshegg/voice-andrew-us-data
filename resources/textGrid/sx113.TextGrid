@@ -26,10 +26,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 2.240000
-            xmax = 2.835000
+            xmax = 2.840000
             text = "muscular"
         intervals [5]:
-            xmin = 2.835000
+            xmin = 2.840000
             xmax = 3.370000
             text = "abdomen"
         intervals [6]:
@@ -80,10 +80,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 2.240000
-            xmax = 2.835000
+            xmax = 2.840000
             text = "m V s k j V l 3`"
         intervals [5]:
-            xmin = 2.835000
+            xmin = 2.840000
             xmax = 3.370000
             text = "{ b d @U m V n"
         intervals [6]:
@@ -162,10 +162,10 @@ item []:
             text = "l"
         intervals [11]:
             xmin = 2.730000
-            xmax = 2.835000
+            xmax = 2.840000
             text = "3`"
         intervals [12]:
-            xmin = 2.835000
+            xmin = 2.840000
             xmax = 2.970000
             text = "{"
         intervals [13]:

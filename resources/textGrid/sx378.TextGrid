@@ -50,10 +50,10 @@ item []:
             text = "archeological"
         intervals [10]:
             xmin = 4.000000
-            xmax = 4.510000
+            xmax = 4.520000
             text = "museum"
         intervals [11]:
-            xmin = 4.510000
+            xmin = 4.520000
             xmax = 5.224000
             text = ""
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "Q R k i: V l Q dZ I k V l"
         intervals [10]:
             xmin = 4.000000
-            xmax = 4.510000
+            xmax = 4.520000
             text = "m j u: z i: V m"
         intervals [11]:
-            xmin = 4.510000
+            xmin = 4.520000
             xmax = 5.224000
             text = ""
     item [3]:
@@ -258,9 +258,9 @@ item []:
             text = "V"
         intervals [37]:
             xmin = 4.410000
-            xmax = 4.510000
+            xmax = 4.520000
             text = "m"
         intervals [38]:
-            xmin = 4.510000
+            xmin = 4.520000
             xmax = 5.224000
             text = "<p:>"

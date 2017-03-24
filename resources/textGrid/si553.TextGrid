@@ -22,10 +22,10 @@ item []:
             text = "As"
         intervals [3]:
             xmin = 3.040000
-            xmax = 3.165000
+            xmax = 3.175000
             text = "a"
         intervals [4]:
-            xmin = 3.165000
+            xmin = 3.175000
             xmax = 3.500000
             text = "rule"
         intervals [5]:
@@ -88,10 +88,10 @@ item []:
             text = "{ z"
         intervals [3]:
             xmin = 3.040000
-            xmax = 3.165000
+            xmax = 3.175000
             text = "V"
         intervals [4]:
-            xmin = 3.165000
+            xmin = 3.175000
             xmax = 3.500000
             text = "R u: l"
         intervals [5]:
@@ -158,10 +158,10 @@ item []:
             text = "z"
         intervals [4]:
             xmin = 3.040000
-            xmax = 3.165000
+            xmax = 3.175000
             text = "V"
         intervals [5]:
-            xmin = 3.165000
+            xmin = 3.175000
             xmax = 3.270000
             text = "R"
         intervals [6]:

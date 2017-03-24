@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.880000
-            xmax = 1.980000
+            xmax = 1.990000
             text = "Of"
         intervals [3]:
-            xmin = 1.980000
+            xmin = 1.990000
             xmax = 2.320000
             text = "course"
         intervals [4]:
@@ -64,10 +64,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.880000
-            xmax = 1.980000
+            xmax = 1.990000
             text = "V v"
         intervals [3]:
-            xmin = 1.980000
+            xmin = 1.990000
             xmax = 2.320000
             text = "k O: R s"
         intervals [4]:
@@ -114,10 +114,10 @@ item []:
             text = "V"
         intervals [3]:
             xmin = 1.930000
-            xmax = 1.980000
+            xmax = 1.990000
             text = "v"
         intervals [4]:
-            xmin = 1.980000
+            xmin = 1.990000
             xmax = 2.100000
             text = "k"
         intervals [5]:

@@ -222,10 +222,10 @@ item []:
             text = "O:"
         intervals [26]:
             xmin = 4.150000
-            xmax = 4.240000
+            xmax = 4.250000
             text = "s"
         intervals [27]:
-            xmin = 4.240000
+            xmin = 4.250000
             xmax = 4.350000
             text = "t"
         intervals [28]:

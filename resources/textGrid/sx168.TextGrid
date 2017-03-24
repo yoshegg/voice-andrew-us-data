@@ -114,10 +114,10 @@ item []:
             text = "t"
         intervals [5]:
             xmin = 4.090000
-            xmax = 4.150000
+            xmax = 4.160000
             text = "U"
         intervals [6]:
-            xmin = 4.150000
+            xmin = 4.160000
             xmax = 4.210000
             text = "k"
         intervals [7]:

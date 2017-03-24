@@ -102,10 +102,10 @@ item []:
             text = "Q"
         intervals [4]:
             xmin = 2.040000
-            xmax = 2.070000
+            xmax = 2.080000
             text = "n"
         intervals [5]:
-            xmin = 2.070000
+            xmin = 2.080000
             xmax = 2.150000
             text = "t"
         intervals [6]:
@@ -142,10 +142,10 @@ item []:
             text = "d"
         intervals [14]:
             xmin = 2.600000
-            xmax = 2.640000
+            xmax = 2.650000
             text = "R"
         intervals [15]:
-            xmin = 2.640000
+            xmin = 2.650000
             xmax = 2.710000
             text = "I"
         intervals [16]:

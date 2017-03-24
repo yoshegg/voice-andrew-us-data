@@ -174,10 +174,10 @@ item []:
             text = "S"
         intervals [10]:
             xmin = 3.780000
-            xmax = 3.830000
+            xmax = 3.840000
             text = "U"
         intervals [11]:
-            xmin = 3.830000
+            xmin = 3.840000
             xmax = 3.900000
             text = "R"
         intervals [12]:

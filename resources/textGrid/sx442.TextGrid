@@ -130,10 +130,10 @@ item []:
             text = "b"
         intervals [5]:
             xmin = 0.850000
-            xmax = 0.930000
+            xmax = 0.940000
             text = "3`"
         intervals [6]:
-            xmin = 0.930000
+            xmin = 0.940000
             xmax = 1.000000
             text = "b"
         intervals [7]:

@@ -162,10 +162,10 @@ item []:
             text = "m"
         intervals [13]:
             xmin = 4.000000
-            xmax = 4.060000
+            xmax = 4.050000
             text = "p"
         intervals [14]:
-            xmin = 4.060000
+            xmin = 4.050000
             xmax = 4.100000
             text = "3`"
         intervals [15]:

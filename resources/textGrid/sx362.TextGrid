@@ -50,10 +50,10 @@ item []:
             text = "every"
         intervals [10]:
             xmin = 5.500000
-            xmax = 5.790000
+            xmax = 5.770000
             text = "night"
         intervals [11]:
-            xmin = 5.790000
+            xmin = 5.770000
             xmax = 6.320000
             text = ""
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "E v 3` i:"
         intervals [10]:
             xmin = 5.500000
-            xmax = 5.790000
+            xmax = 5.770000
             text = "n aI t"
         intervals [11]:
-            xmin = 5.790000
+            xmin = 5.770000
             xmax = 6.320000
             text = ""
     item [3]:
@@ -158,10 +158,10 @@ item []:
             text = "k"
         intervals [12]:
             xmin = 3.750000
-            xmax = 3.880000
+            xmax = 3.890000
             text = "u:"
         intervals [13]:
-            xmin = 3.880000
+            xmin = 3.890000
             xmax = 3.970000
             text = "n"
         intervals [14]:
@@ -266,13 +266,13 @@ item []:
             text = "n"
         intervals [39]:
             xmin = 5.560000
-            xmax = 5.730000
+            xmax = 5.740000
             text = "aI"
         intervals [40]:
-            xmin = 5.730000
-            xmax = 5.790000
+            xmin = 5.740000
+            xmax = 5.770000
             text = "t"
         intervals [41]:
-            xmin = 5.790000
+            xmin = 5.770000
             xmax = 6.320000
             text = "<p:>"

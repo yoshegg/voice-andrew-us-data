@@ -50,10 +50,10 @@ item []:
             text = "barometric"
         intervals [10]:
             xmin = 5.070000
-            xmax = 5.470000
+            xmax = 5.480000
             text = "pressure"
         intervals [11]:
-            xmin = 5.470000
+            xmin = 5.480000
             xmax = 6.080000
             text = "changes"
         intervals [12]:
@@ -104,10 +104,10 @@ item []:
             text = "b { R V m E t R I k"
         intervals [10]:
             xmin = 5.070000
-            xmax = 5.470000
+            xmax = 5.480000
             text = "p R E S 3`"
         intervals [11]:
-            xmin = 5.470000
+            xmin = 5.480000
             xmax = 6.080000
             text = "tS eI n dZ V z"
         intervals [12]:
@@ -230,10 +230,10 @@ item []:
             text = "m"
         intervals [28]:
             xmin = 4.830000
-            xmax = 4.900000
+            xmax = 4.890000
             text = "E"
         intervals [29]:
-            xmin = 4.900000
+            xmin = 4.890000
             xmax = 4.980000
             text = "t"
         intervals [30]:
@@ -266,10 +266,10 @@ item []:
             text = "S"
         intervals [37]:
             xmin = 5.430000
-            xmax = 5.470000
+            xmax = 5.480000
             text = "3`"
         intervals [38]:
-            xmin = 5.470000
+            xmin = 5.480000
             xmax = 5.610000
             text = "tS"
         intervals [39]:

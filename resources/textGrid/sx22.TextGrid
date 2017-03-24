@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.190000
-            xmax = 1.320000
+            xmax = 1.330000
             text = "When"
         intervals [3]:
-            xmin = 1.320000
+            xmin = 1.330000
             xmax = 1.630000
             text = "all"
         intervals [4]:
@@ -60,10 +60,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.190000
-            xmax = 1.320000
+            xmax = 1.330000
             text = "w E n"
         intervals [3]:
-            xmin = 1.320000
+            xmin = 1.330000
             xmax = 1.630000
             text = "O: l"
         intervals [4]:
@@ -110,10 +110,10 @@ item []:
             text = "E"
         intervals [4]:
             xmin = 1.280000
-            xmax = 1.320000
+            xmax = 1.330000
             text = "n"
         intervals [5]:
-            xmin = 1.320000
+            xmin = 1.330000
             xmax = 1.490000
             text = "O:"
         intervals [6]:

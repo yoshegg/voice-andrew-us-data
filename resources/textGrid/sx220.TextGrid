@@ -26,14 +26,14 @@ item []:
             text = "most"
         intervals [4]:
             xmin = 3.780000
-            xmax = 4.290000
+            xmax = 4.280000
             text = "recent"
         intervals [5]:
-            xmin = 4.290000
-            xmax = 4.870000
+            xmin = 4.280000
+            xmax = 4.880000
             text = "geological"
         intervals [6]:
-            xmin = 4.870000
+            xmin = 4.880000
             xmax = 5.320000
             text = "survey"
         intervals [7]:
@@ -72,14 +72,14 @@ item []:
             text = "m @U s t"
         intervals [4]:
             xmin = 3.780000
-            xmax = 4.290000
+            xmax = 4.280000
             text = "R i: s V n t"
         intervals [5]:
-            xmin = 4.290000
-            xmax = 4.870000
+            xmin = 4.280000
+            xmax = 4.880000
             text = "dZ i: V l Q dZ I k V l"
         intervals [6]:
-            xmin = 4.870000
+            xmin = 4.880000
             xmax = 5.320000
             text = "s 3` v eI"
         intervals [7]:
@@ -154,10 +154,10 @@ item []:
             text = "n"
         intervals [13]:
             xmin = 4.190000
-            xmax = 4.290000
+            xmax = 4.280000
             text = "t"
         intervals [14]:
-            xmin = 4.290000
+            xmin = 4.280000
             xmax = 4.370000
             text = "dZ"
         intervals [15]:
@@ -186,18 +186,18 @@ item []:
             text = "I"
         intervals [21]:
             xmin = 4.780000
-            xmax = 4.810000
+            xmax = 4.820000
             text = "k"
         intervals [22]:
-            xmin = 4.810000
-            xmax = 4.840000
+            xmin = 4.820000
+            xmax = 4.850000
             text = "V"
         intervals [23]:
-            xmin = 4.840000
-            xmax = 4.870000
+            xmin = 4.850000
+            xmax = 4.880000
             text = "l"
         intervals [24]:
-            xmin = 4.870000
+            xmin = 4.880000
             xmax = 5.000000
             text = "s"
         intervals [25]:

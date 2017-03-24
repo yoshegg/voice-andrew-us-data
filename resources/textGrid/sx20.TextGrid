@@ -22,10 +22,10 @@ item []:
             text = "She"
         intervals [3]:
             xmin = 1.510000
-            xmax = 1.710000
+            xmax = 1.730000
             text = "wore"
         intervals [4]:
-            xmin = 1.710000
+            xmin = 1.730000
             xmax = 2.220000
             text = "warm"
         intervals [5]:
@@ -64,10 +64,10 @@ item []:
             text = "S i:"
         intervals [3]:
             xmin = 1.510000
-            xmax = 1.710000
+            xmax = 1.730000
             text = "w O: R"
         intervals [4]:
-            xmin = 1.710000
+            xmin = 1.730000
             xmax = 2.220000
             text = "w O: R m"
         intervals [5]:
@@ -118,10 +118,10 @@ item []:
             text = "O:"
         intervals [6]:
             xmin = 1.680000
-            xmax = 1.710000
+            xmax = 1.730000
             text = "R"
         intervals [7]:
-            xmin = 1.710000
+            xmin = 1.730000
             xmax = 1.940000
             text = "w"
         intervals [8]:
@@ -194,10 +194,10 @@ item []:
             text = "3`"
         intervals [25]:
             xmin = 3.760000
-            xmax = 3.850000
+            xmax = 3.870000
             text = "O:"
         intervals [26]:
-            xmin = 3.850000
+            xmin = 3.870000
             xmax = 4.080000
             text = "l"
         intervals [27]:

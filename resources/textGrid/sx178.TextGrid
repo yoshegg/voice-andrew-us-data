@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.770000
-            xmax = 2.990000
+            xmax = 2.980000
             text = "She"
         intervals [3]:
-            xmin = 2.990000
+            xmin = 2.980000
             xmax = 3.480000
             text = "encouraged"
         intervals [4]:
@@ -72,10 +72,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.770000
-            xmax = 2.990000
+            xmax = 2.980000
             text = "S i:"
         intervals [3]:
-            xmin = 2.990000
+            xmin = 2.980000
             xmax = 3.480000
             text = "E n k 3` I dZ d"
         intervals [4]:
@@ -130,14 +130,14 @@ item []:
             text = "S"
         intervals [3]:
             xmin = 2.890000
-            xmax = 2.990000
+            xmax = 2.980000
             text = "i:"
         intervals [4]:
-            xmin = 2.990000
-            xmax = 3.020000
+            xmin = 2.980000
+            xmax = 3.010000
             text = "E"
         intervals [5]:
-            xmin = 3.020000
+            xmin = 3.010000
             xmax = 3.100000
             text = "n"
         intervals [6]:
@@ -254,10 +254,10 @@ item []:
             text = "V"
         intervals [34]:
             xmin = 5.170000
-            xmax = 5.260000
+            xmax = 5.250000
             text = "w"
         intervals [35]:
-            xmin = 5.260000
+            xmin = 5.250000
             xmax = 5.340000
             text = "i:"
         intervals [36]:
@@ -274,10 +274,10 @@ item []:
             text = "Q"
         intervals [39]:
             xmin = 5.620000
-            xmax = 5.730000
+            xmax = 5.740000
             text = "s"
         intervals [40]:
-            xmin = 5.730000
+            xmin = 5.740000
             xmax = 5.840000
             text = "t"
         intervals [41]:

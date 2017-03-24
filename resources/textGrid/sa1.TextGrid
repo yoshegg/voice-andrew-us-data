@@ -58,10 +58,10 @@ item []:
             text = "all"
         intervals [12]:
             xmin = 3.670000
-            xmax = 3.990000
+            xmax = 4.000000
             text = "year"
         intervals [13]:
-            xmin = 3.990000
+            xmin = 4.000000
             xmax = 4.640000
             text = ""
     item [2]:
@@ -116,10 +116,10 @@ item []:
             text = "O: l"
         intervals [12]:
             xmin = 3.670000
-            xmax = 3.990000
+            xmax = 4.000000
             text = "j I R"
         intervals [13]:
-            xmin = 3.990000
+            xmin = 4.000000
             xmax = 4.640000
             text = ""
     item [3]:
@@ -134,10 +134,10 @@ item []:
             text = "<p:>"
         intervals [2]:
             xmin = 0.960000
-            xmax = 1.090000
+            xmax = 1.080000
             text = "S"
         intervals [3]:
-            xmin = 1.090000
+            xmin = 1.080000
             xmax = 1.160000
             text = "i:"
         intervals [4]:
@@ -242,10 +242,10 @@ item []:
             text = "O:"
         intervals [29]:
             xmin = 3.350000
-            xmax = 3.390000
+            xmax = 3.380000
             text = "t"
         intervals [30]:
-            xmin = 3.390000
+            xmin = 3.380000
             xmax = 3.500000
             text = "3`"
         intervals [31]:
@@ -266,9 +266,9 @@ item []:
             text = "I"
         intervals [35]:
             xmin = 3.890000
-            xmax = 3.990000
+            xmax = 4.000000
             text = "R"
         intervals [36]:
-            xmin = 3.990000
+            xmin = 4.000000
             xmax = 4.640000
             text = "<p:>"

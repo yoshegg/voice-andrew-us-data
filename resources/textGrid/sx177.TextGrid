@@ -26,10 +26,10 @@ item []:
             text = "Creole"
         intervals [4]:
             xmin = 3.450000
-            xmax = 3.900000
+            xmax = 3.890000
             text = "cooking"
         intervals [5]:
-            xmin = 3.900000
+            xmin = 3.890000
             xmax = 4.170000
             text = "use"
         intervals [6]:
@@ -60,10 +60,10 @@ item []:
             text = "k R i: @U l"
         intervals [4]:
             xmin = 3.450000
-            xmax = 3.900000
+            xmax = 3.890000
             text = "k U k I N"
         intervals [5]:
-            xmin = 3.900000
+            xmin = 3.890000
             xmax = 4.170000
             text = "j u: s"
         intervals [6]:
@@ -134,10 +134,10 @@ item []:
             text = "I"
         intervals [14]:
             xmin = 3.800000
-            xmax = 3.900000
+            xmax = 3.890000
             text = "N"
         intervals [15]:
-            xmin = 3.900000
+            xmin = 3.890000
             xmax = 4.050000
             text = "j"
         intervals [16]:

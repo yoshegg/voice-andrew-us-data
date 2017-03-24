@@ -66,10 +66,10 @@ item []:
             text = "substantial"
         intervals [14]:
             xmin = 8.110000
-            xmax = 8.760000
+            xmax = 8.770000
             text = "amounts"
         intervals [15]:
-            xmin = 8.760000
+            xmin = 8.770000
             xmax = 9.384000
             text = ""
     item [2]:
@@ -132,10 +132,10 @@ item []:
             text = "s V b s t { n tS V l"
         intervals [14]:
             xmin = 8.110000
-            xmax = 8.760000
+            xmax = 8.770000
             text = "V m aU n t s"
         intervals [15]:
-            xmin = 8.760000
+            xmin = 8.770000
             xmax = 9.384000
             text = ""
     item [3]:
@@ -190,10 +190,10 @@ item []:
             text = "<p:>"
         intervals [12]:
             xmin = 5.440000
-            xmax = 5.570000
+            xmax = 5.580000
             text = "{"
         intervals [13]:
-            xmin = 5.570000
+            xmin = 5.580000
             xmax = 5.640000
             text = "n"
         intervals [14]:
@@ -370,9 +370,9 @@ item []:
             text = "t"
         intervals [57]:
             xmin = 8.560000
-            xmax = 8.760000
+            xmax = 8.770000
             text = "s"
         intervals [58]:
-            xmin = 8.760000
+            xmin = 8.770000
             xmax = 9.384000
             text = "<p:>"

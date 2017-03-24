@@ -14,14 +14,14 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.440000
+            xmax = 3.390000
             text = ""
         intervals [2]:
-            xmin = 3.440000
-            xmax = 3.530000
+            xmin = 3.390000
+            xmax = 3.480000
             text = "Did"
         intervals [3]:
-            xmin = 3.530000
+            xmin = 3.480000
             xmax = 3.870000
             text = ""
         intervals [4]:
@@ -38,10 +38,10 @@ item []:
             text = "academic"
         intervals [7]:
             xmin = 5.070000
-            xmax = 5.120000
+            xmax = 5.130000
             text = ""
         intervals [8]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.540000
             text = "bidding"
         intervals [9]:
@@ -56,14 +56,14 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.440000
+            xmax = 3.390000
             text = ""
         intervals [2]:
-            xmin = 3.440000
-            xmax = 3.530000
+            xmin = 3.390000
+            xmax = 3.480000
             text = "d I d"
         intervals [3]:
-            xmin = 3.530000
+            xmin = 3.480000
             xmax = 3.870000
             text = ""
         intervals [4]:
@@ -80,10 +80,10 @@ item []:
             text = "{ k V d E m I k"
         intervals [7]:
             xmin = 5.070000
-            xmax = 5.120000
+            xmax = 5.130000
             text = ""
         intervals [8]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.540000
             text = "b I d I N"
         intervals [9]:
@@ -98,22 +98,22 @@ item []:
         intervals: size = 25
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.440000
+            xmax = 3.390000
             text = "<p:>"
         intervals [2]:
-            xmin = 3.440000
-            xmax = 3.470000
+            xmin = 3.390000
+            xmax = 3.420000
             text = "d"
         intervals [3]:
-            xmin = 3.470000
-            xmax = 3.500000
+            xmin = 3.420000
+            xmax = 3.450000
             text = "I"
         intervals [4]:
-            xmin = 3.500000
-            xmax = 3.530000
+            xmin = 3.450000
+            xmax = 3.480000
             text = "d"
         intervals [5]:
-            xmin = 3.530000
+            xmin = 3.480000
             xmax = 3.870000
             text = "<p:>"
         intervals [6]:
@@ -170,10 +170,10 @@ item []:
             text = "k"
         intervals [19]:
             xmin = 5.070000
-            xmax = 5.120000
+            xmax = 5.130000
             text = "<p:>"
         intervals [20]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.170000
             text = "b"
         intervals [21]:

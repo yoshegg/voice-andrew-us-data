@@ -26,10 +26,10 @@ item []:
             text = "burned"
         intervals [4]:
             xmin = 4.060000
-            xmax = 4.120000
+            xmax = 4.110000
             text = ""
         intervals [5]:
-            xmin = 4.120000
+            xmin = 4.110000
             xmax = 4.440000
             text = "paper"
         intervals [6]:
@@ -80,10 +80,10 @@ item []:
             text = "b 3` n d"
         intervals [4]:
             xmin = 4.060000
-            xmax = 4.120000
+            xmax = 4.110000
             text = ""
         intervals [5]:
-            xmin = 4.120000
+            xmin = 4.110000
             xmax = 4.440000
             text = "p eI p 3`"
         intervals [6]:
@@ -158,10 +158,10 @@ item []:
             text = "d"
         intervals [10]:
             xmin = 4.060000
-            xmax = 4.120000
+            xmax = 4.110000
             text = "<p:>"
         intervals [11]:
-            xmin = 4.120000
+            xmin = 4.110000
             xmax = 4.180000
             text = "p"
         intervals [12]:
@@ -246,10 +246,10 @@ item []:
             text = "f"
         intervals [32]:
             xmin = 5.760000
-            xmax = 5.910000
+            xmax = 5.900000
             text = "aI"
         intervals [33]:
-            xmin = 5.910000
+            xmin = 5.900000
             xmax = 6.040000
             text = "3`"
         intervals [34]:

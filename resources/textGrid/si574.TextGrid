@@ -30,10 +30,10 @@ item []:
             text = "his"
         intervals [5]:
             xmin = 1.980000
-            xmax = 2.580000
+            xmax = 2.600000
             text = "behavior"
         intervals [6]:
-            xmin = 2.580000
+            xmin = 2.600000
             xmax = 3.248000
             text = ""
     item [2]:
@@ -60,10 +60,10 @@ item []:
             text = "h I z"
         intervals [5]:
             xmin = 1.980000
-            xmax = 2.580000
+            xmax = 2.600000
             text = "b I h eI v j 3`"
         intervals [6]:
-            xmin = 2.580000
+            xmin = 2.600000
             xmax = 3.248000
             text = ""
     item [3]:
@@ -154,9 +154,9 @@ item []:
             text = "j"
         intervals [21]:
             xmin = 2.470000
-            xmax = 2.580000
+            xmax = 2.600000
             text = "3`"
         intervals [22]:
-            xmin = 2.580000
+            xmin = 2.600000
             xmax = 3.248000
             text = "<p:>"

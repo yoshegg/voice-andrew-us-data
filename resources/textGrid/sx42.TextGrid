@@ -14,10 +14,10 @@ item []:
         intervals: size = 6
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.690000
+            xmax = 1.700000
             text = ""
         intervals [2]:
-            xmin = 1.690000
+            xmin = 1.700000
             xmax = 2.110000
             text = "Biblical"
         intervals [3]:
@@ -30,10 +30,10 @@ item []:
             text = "argue"
         intervals [5]:
             xmin = 3.150000
-            xmax = 3.680000
+            xmax = 3.720000
             text = "history"
         intervals [6]:
-            xmin = 3.680000
+            xmin = 3.720000
             xmax = 5.120000
             text = ""
     item [2]:
@@ -44,10 +44,10 @@ item []:
         intervals: size = 6
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.690000
+            xmax = 1.700000
             text = ""
         intervals [2]:
-            xmin = 1.690000
+            xmin = 1.700000
             xmax = 2.110000
             text = "b I b l V k V l"
         intervals [3]:
@@ -60,10 +60,10 @@ item []:
             text = "Q R g j u:"
         intervals [5]:
             xmin = 3.150000
-            xmax = 3.680000
+            xmax = 3.720000
             text = "h I s t 3` i:"
         intervals [6]:
-            xmin = 3.680000
+            xmin = 3.720000
             xmax = 5.120000
             text = ""
     item [3]:
@@ -74,10 +74,10 @@ item []:
         intervals: size = 27
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.690000
+            xmax = 1.700000
             text = "<p:>"
         intervals [2]:
-            xmin = 1.690000
+            xmin = 1.700000
             xmax = 1.740000
             text = "b"
         intervals [3]:
@@ -146,10 +146,10 @@ item []:
             text = "g"
         intervals [19]:
             xmin = 3.030000
-            xmax = 3.090000
+            xmax = 3.100000
             text = "j"
         intervals [20]:
-            xmin = 3.090000
+            xmin = 3.100000
             xmax = 3.150000
             text = "u:"
         intervals [21]:
@@ -174,9 +174,9 @@ item []:
             text = "3`"
         intervals [26]:
             xmin = 3.560000
-            xmax = 3.680000
+            xmax = 3.720000
             text = "i:"
         intervals [27]:
-            xmin = 3.680000
+            xmin = 3.720000
             xmax = 5.120000
             text = "<p:>"

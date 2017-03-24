@@ -242,10 +242,10 @@ item []:
             text = "3`"
         intervals [33]:
             xmin = 3.120000
-            xmax = 3.220000
+            xmax = 3.210000
             text = "s"
         intervals [34]:
-            xmin = 3.220000
+            xmin = 3.210000
             xmax = 3.280000
             text = "p"
         intervals [35]:

@@ -14,10 +14,10 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.790000
+            xmax = 1.820000
             text = ""
         intervals [2]:
-            xmin = 1.790000
+            xmin = 1.820000
             xmax = 2.380000
             text = "Tugboats"
         intervals [3]:
@@ -56,10 +56,10 @@ item []:
         intervals: size = 9
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.790000
+            xmax = 1.820000
             text = ""
         intervals [2]:
-            xmin = 1.790000
+            xmin = 1.820000
             xmax = 2.380000
             text = "t V g b @U t s"
         intervals [3]:
@@ -98,10 +98,10 @@ item []:
         intervals: size = 33
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.790000
+            xmax = 1.820000
             text = "<p:>"
         intervals [2]:
-            xmin = 1.790000
+            xmin = 1.820000
             xmax = 1.890000
             text = "t"
         intervals [3]:
@@ -142,10 +142,10 @@ item []:
             text = "k"
         intervals [12]:
             xmin = 2.560000
-            xmax = 2.640000
+            xmax = 2.650000
             text = "eI"
         intervals [13]:
-            xmin = 2.640000
+            xmin = 2.650000
             xmax = 2.690000
             text = "p"
         intervals [14]:
@@ -194,10 +194,10 @@ item []:
             text = "N"
         intervals [25]:
             xmin = 3.420000
-            xmax = 3.560000
+            xmax = 3.570000
             text = "h"
         intervals [26]:
-            xmin = 3.560000
+            xmin = 3.570000
             xmax = 3.630000
             text = "j"
         intervals [27]:

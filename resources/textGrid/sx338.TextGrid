@@ -34,10 +34,10 @@ item []:
             text = "murky"
         intervals [6]:
             xmin = 3.090000
-            xmax = 3.540000
+            xmax = 3.530000
             text = "lagoon"
         intervals [7]:
-            xmin = 3.540000
+            xmin = 3.530000
             xmax = 4.020000
             text = "wound"
         intervals [8]:
@@ -84,10 +84,10 @@ item []:
             text = "m 3` k i:"
         intervals [6]:
             xmin = 3.090000
-            xmax = 3.540000
+            xmax = 3.530000
             text = "l V g u: n"
         intervals [7]:
-            xmin = 3.540000
+            xmin = 3.530000
             xmax = 4.020000
             text = "w aU n d"
         intervals [8]:
@@ -178,10 +178,10 @@ item []:
             text = "u:"
         intervals [17]:
             xmin = 3.500000
-            xmax = 3.540000
+            xmax = 3.530000
             text = "n"
         intervals [18]:
-            xmin = 3.540000
+            xmin = 3.530000
             xmax = 3.680000
             text = "w"
         intervals [19]:

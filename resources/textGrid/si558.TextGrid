@@ -14,14 +14,14 @@ item []:
         intervals: size = 17
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.440000
+            xmax = 2.720000
             text = ""
         intervals [2]:
-            xmin = 2.440000
-            xmax = 2.500000
+            xmin = 2.720000
+            xmax = 2.780000
             text = "Is"
         intervals [3]:
-            xmin = 2.500000
+            xmin = 2.780000
             xmax = 3.630000
             text = ""
         intervals [4]:
@@ -70,10 +70,10 @@ item []:
             text = "outgrow"
         intervals [15]:
             xmin = 6.390000
-            xmax = 6.620000
+            xmax = 6.630000
             text = "these"
         intervals [16]:
-            xmin = 6.620000
+            xmin = 6.630000
             xmax = 7.160000
             text = "traits"
         intervals [17]:
@@ -88,14 +88,14 @@ item []:
         intervals: size = 17
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.440000
+            xmax = 2.720000
             text = ""
         intervals [2]:
-            xmin = 2.440000
-            xmax = 2.500000
+            xmin = 2.720000
+            xmax = 2.780000
             text = "I z"
         intervals [3]:
-            xmin = 2.500000
+            xmin = 2.780000
             xmax = 3.630000
             text = ""
         intervals [4]:
@@ -144,10 +144,10 @@ item []:
             text = "aU t g R @U"
         intervals [15]:
             xmin = 6.390000
-            xmax = 6.620000
+            xmax = 6.630000
             text = "D i: z"
         intervals [16]:
-            xmin = 6.620000
+            xmin = 6.630000
             xmax = 7.160000
             text = "t R eI t s"
         intervals [17]:
@@ -162,18 +162,18 @@ item []:
         intervals: size = 51
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.440000
+            xmax = 2.720000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.440000
-            xmax = 2.470000
+            xmin = 2.720000
+            xmax = 2.750000
             text = "I"
         intervals [3]:
-            xmin = 2.470000
-            xmax = 2.500000
+            xmin = 2.750000
+            xmax = 2.780000
             text = "z"
         intervals [4]:
-            xmin = 2.500000
+            xmin = 2.780000
             xmax = 3.630000
             text = "<p:>"
         intervals [5]:
@@ -226,10 +226,10 @@ item []:
             text = "m"
         intervals [17]:
             xmin = 4.520000
-            xmax = 4.660000
+            xmax = 4.650000
             text = "{"
         intervals [18]:
-            xmin = 4.660000
+            xmin = 4.650000
             xmax = 4.710000
             text = "t"
         intervals [19]:
@@ -338,10 +338,10 @@ item []:
             text = "i:"
         intervals [45]:
             xmin = 6.540000
-            xmax = 6.620000
+            xmax = 6.630000
             text = "z"
         intervals [46]:
-            xmin = 6.620000
+            xmin = 6.630000
             xmax = 6.720000
             text = "t"
         intervals [47]:

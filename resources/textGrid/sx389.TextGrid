@@ -26,10 +26,10 @@ item []:
             text = "own"
         intervals [4]:
             xmin = 2.120000
-            xmax = 2.160000
+            xmax = 2.210000
             text = "a"
         intervals [5]:
-            xmin = 2.160000
+            xmin = 2.210000
             xmax = 2.420000
             text = "big"
         intervals [6]:
@@ -76,10 +76,10 @@ item []:
             text = "@U n"
         intervals [4]:
             xmin = 2.120000
-            xmax = 2.160000
+            xmax = 2.210000
             text = "V"
         intervals [5]:
-            xmin = 2.160000
+            xmin = 2.210000
             xmax = 2.420000
             text = "b I g"
         intervals [6]:
@@ -134,10 +134,10 @@ item []:
             text = "n"
         intervals [6]:
             xmin = 2.120000
-            xmax = 2.160000
+            xmax = 2.210000
             text = "V"
         intervals [7]:
-            xmin = 2.160000
+            xmin = 2.210000
             xmax = 2.260000
             text = "b"
         intervals [8]:

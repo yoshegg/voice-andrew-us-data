@@ -190,10 +190,10 @@ item []:
             text = "Z"
         intervals [22]:
             xmin = 2.500000
-            xmax = 2.590000
+            xmax = 2.580000
             text = "3`"
         intervals [23]:
-            xmin = 2.590000
+            xmin = 2.580000
             xmax = 2.690000
             text = "i:"
         intervals [24]:

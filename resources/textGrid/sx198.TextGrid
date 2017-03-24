@@ -170,10 +170,10 @@ item []:
             text = "m"
         intervals [19]:
             xmin = 3.210000
-            xmax = 3.300000
+            xmax = 3.310000
             text = "eI"
         intervals [20]:
-            xmin = 3.300000
+            xmin = 3.310000
             xmax = 3.350000
             text = "d"
         intervals [21]:

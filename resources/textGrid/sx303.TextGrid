@@ -14,14 +14,14 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.110000
+            xmax = 1.240000
             text = ""
         intervals [2]:
-            xmin = 1.110000
-            xmax = 1.170000
+            xmin = 1.240000
+            xmax = 1.300000
             text = "The"
         intervals [3]:
-            xmin = 1.170000
+            xmin = 1.300000
             xmax = 1.850000
             text = ""
         intervals [4]:
@@ -30,10 +30,10 @@ item []:
             text = "bluejay"
         intervals [5]:
             xmin = 2.350000
-            xmax = 2.600000
+            xmax = 2.590000
             text = "flew"
         intervals [6]:
-            xmin = 2.600000
+            xmin = 2.590000
             xmax = 2.840000
             text = "over"
         intervals [7]:
@@ -46,10 +46,10 @@ item []:
             text = "high"
         intervals [9]:
             xmin = 3.200000
-            xmax = 3.640000
+            xmax = 3.670000
             text = "building"
         intervals [10]:
-            xmin = 3.640000
+            xmin = 3.670000
             xmax = 4.240000
             text = ""
     item [2]:
@@ -60,14 +60,14 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.110000
+            xmax = 1.240000
             text = ""
         intervals [2]:
-            xmin = 1.110000
-            xmax = 1.170000
+            xmin = 1.240000
+            xmax = 1.300000
             text = "D V"
         intervals [3]:
-            xmin = 1.170000
+            xmin = 1.300000
             xmax = 1.850000
             text = ""
         intervals [4]:
@@ -76,10 +76,10 @@ item []:
             text = "b l u: dZ eI"
         intervals [5]:
             xmin = 2.350000
-            xmax = 2.600000
+            xmax = 2.590000
             text = "f l u:"
         intervals [6]:
-            xmin = 2.600000
+            xmin = 2.590000
             xmax = 2.840000
             text = "@U v 3`"
         intervals [7]:
@@ -92,10 +92,10 @@ item []:
             text = "h aI"
         intervals [9]:
             xmin = 3.200000
-            xmax = 3.640000
+            xmax = 3.670000
             text = "b I l d I N"
         intervals [10]:
-            xmin = 3.640000
+            xmin = 3.670000
             xmax = 4.240000
             text = ""
     item [3]:
@@ -106,18 +106,18 @@ item []:
         intervals: size = 26
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.110000
+            xmax = 1.240000
             text = "<p:>"
         intervals [2]:
-            xmin = 1.110000
-            xmax = 1.140000
+            xmin = 1.240000
+            xmax = 1.270000
             text = "D"
         intervals [3]:
-            xmin = 1.140000
-            xmax = 1.170000
+            xmin = 1.270000
+            xmax = 1.300000
             text = "V"
         intervals [4]:
-            xmin = 1.170000
+            xmin = 1.300000
             xmax = 1.850000
             text = "<p:>"
         intervals [5]:
@@ -150,10 +150,10 @@ item []:
             text = "l"
         intervals [12]:
             xmin = 2.500000
-            xmax = 2.600000
+            xmax = 2.590000
             text = "u:"
         intervals [13]:
-            xmin = 2.600000
+            xmin = 2.590000
             xmax = 2.730000
             text = "@U"
         intervals [14]:
@@ -202,9 +202,9 @@ item []:
             text = "I"
         intervals [25]:
             xmin = 3.610000
-            xmax = 3.640000
+            xmax = 3.670000
             text = "N"
         intervals [26]:
-            xmin = 3.640000
+            xmin = 3.670000
             xmax = 4.240000
             text = "<p:>"

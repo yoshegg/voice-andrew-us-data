@@ -34,10 +34,10 @@ item []:
             text = "are"
         intervals [6]:
             xmin = 2.780000
-            xmax = 3.140000
+            xmax = 3.150000
             text = "gone"
         intervals [7]:
-            xmin = 3.140000
+            xmin = 3.150000
             xmax = 4.088000
             text = ""
     item [2]:
@@ -68,10 +68,10 @@ item []:
             text = "Q R"
         intervals [6]:
             xmin = 2.780000
-            xmax = 3.140000
+            xmax = 3.150000
             text = "g O: n"
         intervals [7]:
-            xmin = 3.140000
+            xmin = 3.150000
             xmax = 4.088000
             text = ""
     item [3]:
@@ -122,10 +122,10 @@ item []:
             text = "aI"
         intervals [11]:
             xmin = 2.010000
-            xmax = 2.110000
+            xmax = 2.130000
             text = "R"
         intervals [12]:
-            xmin = 2.110000
+            xmin = 2.130000
             xmax = 2.220000
             text = "i:"
         intervals [13]:
@@ -174,9 +174,9 @@ item []:
             text = "O:"
         intervals [24]:
             xmin = 3.060000
-            xmax = 3.140000
+            xmax = 3.150000
             text = "n"
         intervals [25]:
-            xmin = 3.140000
+            xmin = 3.150000
             xmax = 4.088000
             text = "<p:>"

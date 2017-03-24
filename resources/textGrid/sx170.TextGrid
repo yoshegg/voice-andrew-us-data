@@ -270,10 +270,10 @@ item []:
             text = "v"
         intervals [36]:
             xmin = 8.350000
-            xmax = 8.470000
+            xmax = 8.480000
             text = "eI"
         intervals [37]:
-            xmin = 8.470000
+            xmin = 8.480000
             xmax = 8.590000
             text = "I"
         intervals [38]:
@@ -302,10 +302,10 @@ item []:
             text = "V"
         intervals [44]:
             xmin = 9.130000
-            xmax = 9.180000
+            xmax = 9.190000
             text = "n"
         intervals [45]:
-            xmin = 9.180000
+            xmin = 9.190000
             xmax = 9.260000
             text = "t"
         intervals [46]:

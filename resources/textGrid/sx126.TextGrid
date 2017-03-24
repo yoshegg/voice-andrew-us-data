@@ -22,10 +22,10 @@ item []:
             text = "Artificial"
         intervals [3]:
             xmin = 2.740000
-            xmax = 3.465000
+            xmax = 3.470000
             text = "intelligence"
         intervals [4]:
-            xmin = 3.465000
+            xmin = 3.470000
             xmax = 3.690000
             text = "is"
         intervals [5]:
@@ -56,10 +56,10 @@ item []:
             text = "Q R t V f I S V l"
         intervals [3]:
             xmin = 2.740000
-            xmax = 3.465000
+            xmax = 3.470000
             text = "I n t E l V dZ V n s"
         intervals [4]:
-            xmin = 3.465000
+            xmin = 3.470000
             xmax = 3.690000
             text = "I z"
         intervals [5]:
@@ -158,10 +158,10 @@ item []:
             text = "n"
         intervals [20]:
             xmin = 3.350000
-            xmax = 3.465000
+            xmax = 3.470000
             text = "s"
         intervals [21]:
-            xmin = 3.465000
+            xmin = 3.470000
             xmax = 3.570000
             text = "I"
         intervals [22]:

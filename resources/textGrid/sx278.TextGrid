@@ -62,10 +62,10 @@ item []:
             text = "Wall"
         intervals [13]:
             xmin = 5.790000
-            xmax = 6.140000
+            xmax = 6.120000
             text = "Street"
         intervals [14]:
-            xmin = 6.140000
+            xmin = 6.120000
             xmax = 6.530000
             text = "Journal"
         intervals [15]:
@@ -128,10 +128,10 @@ item []:
             text = "w O: l"
         intervals [13]:
             xmin = 5.790000
-            xmax = 6.140000
+            xmax = 6.120000
             text = "s t R i: t"
         intervals [14]:
-            xmin = 6.140000
+            xmin = 6.120000
             xmax = 6.530000
             text = "dZ 3` n V l"
         intervals [15]:
@@ -318,10 +318,10 @@ item []:
             text = "i:"
         intervals [44]:
             xmin = 6.060000
-            xmax = 6.140000
+            xmax = 6.120000
             text = "t"
         intervals [45]:
-            xmin = 6.140000
+            xmin = 6.120000
             xmax = 6.210000
             text = "dZ"
         intervals [46]:

@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.240000
-            xmax = 2.830000
+            xmax = 2.840000
             text = "Hispanic"
         intervals [3]:
-            xmin = 2.830000
+            xmin = 2.840000
             xmax = 3.590000
             text = "costumes"
         intervals [4]:
@@ -52,10 +52,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.240000
-            xmax = 2.830000
+            xmax = 2.840000
             text = "h I s p { n I k"
         intervals [3]:
-            xmin = 2.830000
+            xmin = 2.840000
             xmax = 3.590000
             text = "k Q s t u: m z"
         intervals [4]:
@@ -114,10 +114,10 @@ item []:
             text = "I"
         intervals [9]:
             xmin = 2.750000
-            xmax = 2.830000
+            xmax = 2.840000
             text = "k"
         intervals [10]:
-            xmin = 2.830000
+            xmin = 2.840000
             xmax = 2.960000
             text = "k"
         intervals [11]:
@@ -130,10 +130,10 @@ item []:
             text = "s"
         intervals [13]:
             xmin = 3.180000
-            xmax = 3.260000
+            xmax = 3.250000
             text = "t"
         intervals [14]:
-            xmin = 3.260000
+            xmin = 3.250000
             xmax = 3.330000
             text = "u:"
         intervals [15]:

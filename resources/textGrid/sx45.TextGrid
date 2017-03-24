@@ -26,10 +26,10 @@ item []:
             text = "and"
         intervals [4]:
             xmin = 2.990000
-            xmax = 3.755000
+            xmax = 3.760000
             text = "subtraction"
         intervals [5]:
-            xmin = 3.755000
+            xmin = 3.760000
             xmax = 3.850000
             text = "are"
         intervals [6]:
@@ -64,10 +64,10 @@ item []:
             text = "V n d"
         intervals [4]:
             xmin = 2.990000
-            xmax = 3.755000
+            xmax = 3.760000
             text = "s V b t R { k S V n"
         intervals [5]:
-            xmin = 3.755000
+            xmin = 3.760000
             xmax = 3.850000
             text = "Q R"
         intervals [6]:
@@ -166,10 +166,10 @@ item []:
             text = "V"
         intervals [20]:
             xmin = 3.630000
-            xmax = 3.755000
+            xmax = 3.760000
             text = "n"
         intervals [21]:
-            xmin = 3.755000
+            xmin = 3.760000
             xmax = 3.810000
             text = "Q"
         intervals [22]:

@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.100000
-            xmax = 2.550000
+            xmax = 2.540000
             text = "Tradition"
         intervals [3]:
-            xmin = 2.550000
+            xmin = 2.540000
             xmax = 3.040000
             text = "requires"
         intervals [4]:
@@ -30,10 +30,10 @@ item []:
             text = ""
         intervals [5]:
             xmin = 3.110000
-            xmax = 3.490000
+            xmax = 3.500000
             text = "parental"
         intervals [6]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 4.000000
             text = "approval"
         intervals [7]:
@@ -64,10 +64,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.100000
-            xmax = 2.550000
+            xmax = 2.540000
             text = "t R V d I S V n"
         intervals [3]:
-            xmin = 2.550000
+            xmin = 2.540000
             xmax = 3.040000
             text = "R i: k w aI 3` z"
         intervals [4]:
@@ -76,10 +76,10 @@ item []:
             text = ""
         intervals [5]:
             xmin = 3.110000
-            xmax = 3.490000
+            xmax = 3.500000
             text = "p 3` E n t V l"
         intervals [6]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 4.000000
             text = "V p R u: v V l"
         intervals [7]:
@@ -138,10 +138,10 @@ item []:
             text = "V"
         intervals [9]:
             xmin = 2.510000
-            xmax = 2.550000
+            xmax = 2.540000
             text = "n"
         intervals [10]:
-            xmin = 2.550000
+            xmin = 2.540000
             xmax = 2.600000
             text = "R"
         intervals [11]:
@@ -198,10 +198,10 @@ item []:
             text = "V"
         intervals [24]:
             xmin = 3.420000
-            xmax = 3.490000
+            xmax = 3.500000
             text = "l"
         intervals [25]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 3.550000
             text = "V"
         intervals [26]:

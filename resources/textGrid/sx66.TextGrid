@@ -38,10 +38,10 @@ item []:
             text = "the"
         intervals [7]:
             xmin = 2.880000
-            xmax = 3.520000
+            xmax = 3.530000
             text = "uninterrupted"
         intervals [8]:
-            xmin = 3.520000
+            xmin = 3.530000
             xmax = 3.930000
             text = "rain"
         intervals [9]:
@@ -80,10 +80,10 @@ item []:
             text = "D V"
         intervals [7]:
             xmin = 2.880000
-            xmax = 3.520000
+            xmax = 3.530000
             text = "V n I n t 3` V p t I d"
         intervals [8]:
-            xmin = 3.520000
+            xmin = 3.530000
             xmax = 3.930000
             text = "R eI n"
         intervals [9]:
@@ -210,10 +210,10 @@ item []:
             text = "I"
         intervals [29]:
             xmin = 3.470000
-            xmax = 3.520000
+            xmax = 3.530000
             text = "d"
         intervals [30]:
-            xmin = 3.520000
+            xmin = 3.530000
             xmax = 3.670000
             text = "R"
         intervals [31]:

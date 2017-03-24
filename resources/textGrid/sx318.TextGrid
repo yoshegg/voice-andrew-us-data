@@ -34,10 +34,10 @@ item []:
             text = "potatoes"
         intervals [6]:
             xmin = 3.060000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "up"
         intervals [7]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.260000
             text = ""
         intervals [8]:
@@ -80,10 +80,10 @@ item []:
             text = "p V t eI t @U z"
         intervals [6]:
             xmin = 3.060000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "V p"
         intervals [7]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.260000
             text = ""
         intervals [8]:
@@ -178,10 +178,10 @@ item []:
             text = "V"
         intervals [19]:
             xmin = 3.130000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "p"
         intervals [20]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.260000
             text = "<p:>"
         intervals [21]:
@@ -210,10 +210,10 @@ item []:
             text = "f"
         intervals [27]:
             xmin = 3.780000
-            xmax = 3.860000
+            xmax = 3.850000
             text = "R"
         intervals [28]:
-            xmin = 3.860000
+            xmin = 3.850000
             xmax = 4.020000
             text = "O:"
         intervals [29]:

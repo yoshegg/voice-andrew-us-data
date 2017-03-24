@@ -38,18 +38,18 @@ item []:
             text = "cheese"
         intervals [7]:
             xmin = 3.860000
-            xmax = 3.920000
+            xmax = 3.990000
             text = ""
         intervals [8]:
-            xmin = 3.920000
+            xmin = 3.990000
             xmax = 4.140000
             text = "but"
         intervals [9]:
             xmin = 4.140000
-            xmax = 4.450000
+            xmax = 4.440000
             text = "Victor"
         intervals [10]:
-            xmin = 4.450000
+            xmin = 4.440000
             xmax = 5.070000
             text = "prefers"
         intervals [11]:
@@ -96,18 +96,18 @@ item []:
             text = "tS i: z"
         intervals [7]:
             xmin = 3.860000
-            xmax = 3.920000
+            xmax = 3.990000
             text = ""
         intervals [8]:
-            xmin = 3.920000
+            xmin = 3.990000
             xmax = 4.140000
             text = "b V t"
         intervals [9]:
             xmin = 4.140000
-            xmax = 4.450000
+            xmax = 4.440000
             text = "v I k t 3`"
         intervals [10]:
-            xmin = 4.450000
+            xmin = 4.440000
             xmax = 5.070000
             text = "p R V f 3` z"
         intervals [11]:
@@ -182,10 +182,10 @@ item []:
             text = "z"
         intervals [14]:
             xmin = 3.860000
-            xmax = 3.920000
+            xmax = 3.990000
             text = "<p:>"
         intervals [15]:
-            xmin = 3.920000
+            xmin = 3.990000
             xmax = 4.020000
             text = "b"
         intervals [16]:
@@ -202,10 +202,10 @@ item []:
             text = "v"
         intervals [19]:
             xmin = 4.190000
-            xmax = 4.260000
+            xmax = 4.270000
             text = "I"
         intervals [20]:
-            xmin = 4.260000
+            xmin = 4.270000
             xmax = 4.320000
             text = "k"
         intervals [21]:
@@ -214,10 +214,10 @@ item []:
             text = "t"
         intervals [22]:
             xmin = 4.380000
-            xmax = 4.450000
+            xmax = 4.440000
             text = "3`"
         intervals [23]:
-            xmin = 4.450000
+            xmin = 4.440000
             xmax = 4.570000
             text = "p"
         intervals [24]:

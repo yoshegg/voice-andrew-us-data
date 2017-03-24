@@ -138,10 +138,10 @@ item []:
             text = "d"
         intervals [9]:
             xmin = 2.820000
-            xmax = 2.890000
+            xmax = 2.880000
             text = "I"
         intervals [10]:
-            xmin = 2.890000
+            xmin = 2.880000
             xmax = 3.040000
             text = "k"
         intervals [11]:

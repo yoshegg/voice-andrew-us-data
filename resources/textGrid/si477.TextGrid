@@ -354,10 +354,10 @@ item []:
             text = "3`"
         intervals [51]:
             xmin = 6.830000
-            xmax = 6.890000
+            xmax = 6.900000
             text = "E"
         intervals [52]:
-            xmin = 6.890000
+            xmin = 6.900000
             xmax = 6.970000
             text = "k"
         intervals [53]:

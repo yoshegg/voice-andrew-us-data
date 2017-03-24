@@ -22,10 +22,10 @@ item []:
             text = "We"
         intervals [3]:
             xmin = 2.660000
-            xmax = 2.970000
+            xmax = 2.990000
             text = "think"
         intervals [4]:
-            xmin = 2.970000
+            xmin = 2.990000
             xmax = 3.520000
             text = "differently"
         intervals [5]:
@@ -48,10 +48,10 @@ item []:
             text = "w i:"
         intervals [3]:
             xmin = 2.660000
-            xmax = 2.970000
+            xmax = 2.990000
             text = "T I N k"
         intervals [4]:
-            xmin = 2.970000
+            xmin = 2.990000
             xmax = 3.520000
             text = "d I f R V n t l i:"
         intervals [5]:
@@ -90,10 +90,10 @@ item []:
             text = "N"
         intervals [7]:
             xmin = 2.910000
-            xmax = 2.970000
+            xmax = 2.990000
             text = "k"
         intervals [8]:
-            xmin = 2.970000
+            xmin = 2.990000
             xmax = 3.050000
             text = "d"
         intervals [9]:

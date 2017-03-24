@@ -34,22 +34,22 @@ item []:
             text = "beans"
         intervals [6]:
             xmin = 3.540000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "in"
         intervals [7]:
-            xmin = 3.640000
-            xmax = 3.790000
+            xmin = 3.650000
+            xmax = 3.820000
             text = "her"
         intervals [8]:
-            xmin = 3.790000
-            xmax = 4.300000
+            xmin = 3.820000
+            xmax = 4.290000
             text = "vegetable"
         intervals [9]:
-            xmin = 4.300000
-            xmax = 4.670000
+            xmin = 4.290000
+            xmax = 4.680000
             text = "garden"
         intervals [10]:
-            xmin = 4.670000
+            xmin = 4.680000
             xmax = 5.416000
             text = ""
     item [2]:
@@ -80,22 +80,22 @@ item []:
             text = "b i: n z"
         intervals [6]:
             xmin = 3.540000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "I n"
         intervals [7]:
-            xmin = 3.640000
-            xmax = 3.790000
+            xmin = 3.650000
+            xmax = 3.820000
             text = "h 3`"
         intervals [8]:
-            xmin = 3.790000
-            xmax = 4.300000
+            xmin = 3.820000
+            xmax = 4.290000
             text = "v E dZ t V b V l"
         intervals [9]:
-            xmin = 4.300000
-            xmax = 4.670000
+            xmin = 4.290000
+            xmax = 4.680000
             text = "g Q R d V n"
         intervals [10]:
-            xmin = 4.670000
+            xmin = 4.680000
             xmax = 5.416000
             text = ""
     item [3]:
@@ -110,10 +110,10 @@ item []:
             text = "<p:>"
         intervals [2]:
             xmin = 2.330000
-            xmax = 2.430000
+            xmax = 2.440000
             text = "g"
         intervals [3]:
-            xmin = 2.430000
+            xmin = 2.440000
             xmax = 2.480000
             text = "w"
         intervals [4]:
@@ -190,18 +190,18 @@ item []:
             text = "I"
         intervals [22]:
             xmin = 3.590000
-            xmax = 3.640000
+            xmax = 3.650000
             text = "n"
         intervals [23]:
-            xmin = 3.640000
+            xmin = 3.650000
             xmax = 3.730000
             text = "h"
         intervals [24]:
             xmin = 3.730000
-            xmax = 3.790000
+            xmax = 3.820000
             text = "3`"
         intervals [25]:
-            xmin = 3.790000
+            xmin = 3.820000
             xmax = 3.860000
             text = "v"
         intervals [26]:
@@ -222,18 +222,18 @@ item []:
             text = "V"
         intervals [30]:
             xmin = 4.160000
-            xmax = 4.240000
+            xmax = 4.230000
             text = "b"
         intervals [31]:
-            xmin = 4.240000
-            xmax = 4.270000
+            xmin = 4.230000
+            xmax = 4.260000
             text = "V"
         intervals [32]:
-            xmin = 4.270000
-            xmax = 4.300000
+            xmin = 4.260000
+            xmax = 4.290000
             text = "l"
         intervals [33]:
-            xmin = 4.300000
+            xmin = 4.290000
             xmax = 4.360000
             text = "g"
         intervals [34]:
@@ -254,9 +254,9 @@ item []:
             text = "V"
         intervals [38]:
             xmin = 4.630000
-            xmax = 4.670000
+            xmax = 4.680000
             text = "n"
         intervals [39]:
-            xmin = 4.670000
+            xmin = 4.680000
             xmax = 5.416000
             text = "<p:>"

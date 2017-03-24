@@ -170,10 +170,10 @@ item []:
             text = "E"
         intervals [19]:
             xmin = 2.830000
-            xmax = 2.930000
+            xmax = 2.920000
             text = "g"
         intervals [20]:
-            xmin = 2.930000
+            xmin = 2.920000
             xmax = 3.110000
             text = "3`"
         intervals [21]:

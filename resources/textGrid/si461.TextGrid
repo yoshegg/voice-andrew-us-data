@@ -110,10 +110,10 @@ item []:
             text = "<p:>"
         intervals [2]:
             xmin = 2.570000
-            xmax = 2.620000
+            xmax = 2.630000
             text = "d"
         intervals [3]:
-            xmin = 2.620000
+            xmin = 2.630000
             xmax = 2.750000
             text = "eI"
         intervals [4]:
@@ -122,14 +122,14 @@ item []:
             text = "{"
         intervals [5]:
             xmin = 2.820000
-            xmax = 2.850000
+            xmax = 2.860000
             text = "f"
         intervals [6]:
-            xmin = 2.850000
-            xmax = 2.940000
+            xmin = 2.860000
+            xmax = 2.930000
             text = "t"
         intervals [7]:
-            xmin = 2.940000
+            xmin = 2.930000
             xmax = 2.980000
             text = "3`"
         intervals [8]:
@@ -214,14 +214,14 @@ item []:
             text = "R"
         intervals [28]:
             xmin = 4.530000
-            xmax = 4.570000
+            xmax = 4.580000
             text = "t"
         intervals [29]:
-            xmin = 4.570000
-            xmax = 4.600000
+            xmin = 4.580000
+            xmax = 4.610000
             text = "V"
         intervals [30]:
-            xmin = 4.600000
+            xmin = 4.610000
             xmax = 4.710000
             text = "d"
         intervals [31]:

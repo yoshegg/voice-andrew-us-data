@@ -38,10 +38,10 @@ item []:
             text = "of"
         intervals [7]:
             xmin = 2.530000
-            xmax = 2.720000
+            xmax = 2.740000
             text = "it"
         intervals [8]:
-            xmin = 2.720000
+            xmin = 2.740000
             xmax = 3.392000
             text = ""
     item [2]:
@@ -76,10 +76,10 @@ item []:
             text = "V v"
         intervals [7]:
             xmin = 2.530000
-            xmax = 2.720000
+            xmax = 2.740000
             text = "I t"
         intervals [8]:
-            xmin = 2.720000
+            xmin = 2.740000
             xmax = 3.392000
             text = ""
     item [3]:
@@ -162,9 +162,9 @@ item []:
             text = "I"
         intervals [19]:
             xmin = 2.670000
-            xmax = 2.720000
+            xmax = 2.740000
             text = "t"
         intervals [20]:
-            xmin = 2.720000
+            xmin = 2.740000
             xmax = 3.392000
             text = "<p:>"

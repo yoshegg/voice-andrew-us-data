@@ -38,22 +38,22 @@ item []:
             text = ""
         intervals [7]:
             xmin = 7.250000
-            xmax = 7.430000
+            xmax = 7.420000
             text = "that"
         intervals [8]:
-            xmin = 7.430000
-            xmax = 7.480000
+            xmin = 7.420000
+            xmax = 7.490000
             text = ""
         intervals [9]:
-            xmin = 7.480000
+            xmin = 7.490000
             xmax = 7.940000
             text = "tyranny"
         intervals [10]:
             xmin = 7.940000
-            xmax = 8.250000
+            xmax = 8.245000
             text = "knows"
         intervals [11]:
-            xmin = 8.250000
+            xmin = 8.245000
             xmax = 8.630000
             text = "no"
         intervals [12]:
@@ -104,22 +104,22 @@ item []:
             text = ""
         intervals [7]:
             xmin = 7.250000
-            xmax = 7.430000
+            xmax = 7.420000
             text = "D { t"
         intervals [8]:
-            xmin = 7.430000
-            xmax = 7.480000
+            xmin = 7.420000
+            xmax = 7.490000
             text = ""
         intervals [9]:
-            xmin = 7.480000
+            xmin = 7.490000
             xmax = 7.940000
             text = "t I R V n i:"
         intervals [10]:
             xmin = 7.940000
-            xmax = 8.250000
+            xmax = 8.245000
             text = "n @U z"
         intervals [11]:
-            xmin = 8.250000
+            xmin = 8.245000
             xmax = 8.630000
             text = "n @U"
         intervals [12]:
@@ -162,10 +162,10 @@ item []:
             text = "R"
         intervals [5]:
             xmin = 5.330000
-            xmax = 5.390000
+            xmax = 5.370000
             text = "V"
         intervals [6]:
-            xmin = 5.390000
+            xmin = 5.370000
             xmax = 5.490000
             text = "p"
         intervals [7]:
@@ -258,18 +258,18 @@ item []:
             text = "D"
         intervals [29]:
             xmin = 7.300000
-            xmax = 7.360000
+            xmax = 7.370000
             text = "{"
         intervals [30]:
-            xmin = 7.360000
-            xmax = 7.430000
+            xmin = 7.370000
+            xmax = 7.420000
             text = "t"
         intervals [31]:
-            xmin = 7.430000
-            xmax = 7.480000
+            xmin = 7.420000
+            xmax = 7.490000
             text = "<p:>"
         intervals [32]:
-            xmin = 7.480000
+            xmin = 7.490000
             xmax = 7.580000
             text = "t"
         intervals [33]:
@@ -302,10 +302,10 @@ item []:
             text = "@U"
         intervals [40]:
             xmin = 8.140000
-            xmax = 8.250000
+            xmax = 8.245000
             text = "z"
         intervals [41]:
-            xmin = 8.250000
+            xmin = 8.245000
             xmax = 8.320000
             text = "n"
         intervals [42]:

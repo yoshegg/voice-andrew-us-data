@@ -26,10 +26,10 @@ item []:
             text = "costume"
         intervals [4]:
             xmin = 3.600000
-            xmax = 3.900000
+            xmax = 3.910000
             text = "needed"
         intervals [5]:
-            xmin = 3.900000
+            xmin = 3.910000
             xmax = 4.190000
             text = "black"
         intervals [6]:
@@ -80,10 +80,10 @@ item []:
             text = "k Q s t u: m"
         intervals [4]:
             xmin = 3.600000
-            xmax = 3.900000
+            xmax = 3.910000
             text = "n i: d V d"
         intervals [5]:
-            xmin = 3.900000
+            xmin = 3.910000
             xmax = 4.190000
             text = "b l { k"
         intervals [6]:
@@ -126,10 +126,10 @@ item []:
             text = "<p:>"
         intervals [2]:
             xmin = 2.860000
-            xmax = 2.910000
+            xmax = 2.920000
             text = "l"
         intervals [3]:
-            xmin = 2.910000
+            xmin = 2.920000
             xmax = 3.020000
             text = "O:"
         intervals [4]:
@@ -170,10 +170,10 @@ item []:
             text = "m"
         intervals [13]:
             xmin = 3.600000
-            xmax = 3.640000
+            xmax = 3.630000
             text = "n"
         intervals [14]:
-            xmin = 3.640000
+            xmin = 3.630000
             xmax = 3.730000
             text = "i:"
         intervals [15]:
@@ -186,14 +186,14 @@ item []:
             text = "V"
         intervals [17]:
             xmin = 3.810000
-            xmax = 3.900000
+            xmax = 3.910000
             text = "d"
         intervals [18]:
-            xmin = 3.900000
-            xmax = 3.930000
+            xmin = 3.910000
+            xmax = 3.940000
             text = "b"
         intervals [19]:
-            xmin = 3.930000
+            xmin = 3.940000
             xmax = 4.020000
             text = "l"
         intervals [20]:
@@ -254,14 +254,14 @@ item []:
             text = "V"
         intervals [34]:
             xmin = 5.050000
-            xmax = 5.110000
+            xmax = 5.120000
             text = "m"
         intervals [35]:
-            xmin = 5.110000
-            xmax = 5.180000
+            xmin = 5.120000
+            xmax = 5.190000
             text = "p"
         intervals [36]:
-            xmin = 5.180000
+            xmin = 5.190000
             xmax = 5.240000
             text = "l"
         intervals [37]:

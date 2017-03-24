@@ -34,10 +34,10 @@ item []:
             text = "for"
         intervals [6]:
             xmin = 3.230000
-            xmax = 3.530000
+            xmax = 3.535000
             text = "such"
         intervals [7]:
-            xmin = 3.530000
+            xmin = 3.535000
             xmax = 4.110000
             text = "garbage"
         intervals [8]:
@@ -72,10 +72,10 @@ item []:
             text = "f O: R"
         intervals [6]:
             xmin = 3.230000
-            xmax = 3.530000
+            xmax = 3.535000
             text = "s V tS"
         intervals [7]:
-            xmin = 3.530000
+            xmin = 3.535000
             xmax = 4.110000
             text = "g Q R b I dZ"
         intervals [8]:
@@ -154,10 +154,10 @@ item []:
             text = "V"
         intervals [17]:
             xmin = 3.380000
-            xmax = 3.530000
+            xmax = 3.535000
             text = "tS"
         intervals [18]:
-            xmin = 3.530000
+            xmin = 3.535000
             xmax = 3.580000
             text = "g"
         intervals [19]:

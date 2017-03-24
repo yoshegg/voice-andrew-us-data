@@ -162,10 +162,10 @@ item []:
             text = "s"
         intervals [19]:
             xmin = 2.850000
-            xmax = 2.960000
+            xmax = 2.950000
             text = "f"
         intervals [20]:
-            xmin = 2.960000
+            xmin = 2.950000
             xmax = 3.130000
             text = "aI"
         intervals [21]:

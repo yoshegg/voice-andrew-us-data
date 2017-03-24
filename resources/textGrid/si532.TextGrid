@@ -278,10 +278,10 @@ item []:
             text = "{"
         intervals [30]:
             xmin = 6.520000
-            xmax = 6.560000
+            xmax = 6.550000
             text = "n"
         intervals [31]:
-            xmin = 6.560000
+            xmin = 6.550000
             xmax = 6.640000
             text = "3`"
         intervals [32]:

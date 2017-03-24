@@ -146,18 +146,18 @@ item []:
             text = "z"
         intervals [13]:
             xmin = 2.910000
-            xmax = 2.970000
+            xmax = 2.980000
             text = "f"
         intervals [14]:
-            xmin = 2.970000
-            xmax = 3.010000
+            xmin = 2.980000
+            xmax = 3.020000
             text = "O:"
         intervals [15]:
-            xmin = 3.010000
-            xmax = 3.040000
+            xmin = 3.020000
+            xmax = 3.050000
             text = "R"
         intervals [16]:
-            xmin = 3.040000
+            xmin = 3.050000
             xmax = 3.120000
             text = "b"
         intervals [17]:
@@ -182,10 +182,10 @@ item []:
             text = "V"
         intervals [22]:
             xmin = 3.450000
-            xmax = 3.500000
+            xmax = 3.510000
             text = "n"
         intervals [23]:
-            xmin = 3.500000
+            xmin = 3.510000
             xmax = 3.540000
             text = "d"
         intervals [24]:

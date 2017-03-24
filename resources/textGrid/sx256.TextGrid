@@ -130,10 +130,10 @@ item []:
             text = "<p:>"
         intervals [5]:
             xmin = 2.010000
-            xmax = 2.210000
+            xmax = 2.200000
             text = "aI"
         intervals [6]:
-            xmin = 2.210000
+            xmin = 2.200000
             xmax = 2.420000
             text = "R"
         intervals [7]:
@@ -150,10 +150,10 @@ item []:
             text = "<p:>"
         intervals [10]:
             xmin = 2.660000
-            xmax = 2.830000
+            xmax = 2.820000
             text = "{"
         intervals [11]:
-            xmin = 2.830000
+            xmin = 2.820000
             xmax = 2.910000
             text = "k"
         intervals [12]:
@@ -226,10 +226,10 @@ item []:
             text = "t"
         intervals [29]:
             xmin = 4.280000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "I"
         intervals [30]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.450000
             text = "k"
         intervals [31]:

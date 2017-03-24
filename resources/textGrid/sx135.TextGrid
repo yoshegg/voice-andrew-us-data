@@ -42,10 +42,10 @@ item []:
             text = "in"
         intervals [8]:
             xmin = 7.470000
-            xmax = 8.520000
+            xmax = 8.510000
             text = "bibliographies"
         intervals [9]:
-            xmin = 8.520000
+            xmin = 8.510000
             xmax = 8.960000
             text = ""
     item [2]:
@@ -84,10 +84,10 @@ item []:
             text = "I n"
         intervals [8]:
             xmin = 7.470000
-            xmax = 8.520000
+            xmax = 8.510000
             text = "b I b l i: Q g R V f i: z"
         intervals [9]:
-            xmin = 8.520000
+            xmin = 8.510000
             xmax = 8.960000
             text = ""
     item [3]:
@@ -254,9 +254,9 @@ item []:
             text = "i:"
         intervals [40]:
             xmin = 8.380000
-            xmax = 8.520000
+            xmax = 8.510000
             text = "z"
         intervals [41]:
-            xmin = 8.520000
+            xmin = 8.510000
             xmax = 8.960000
             text = "<p:>"

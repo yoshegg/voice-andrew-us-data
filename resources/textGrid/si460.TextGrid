@@ -34,10 +34,10 @@ item []:
             text = "done"
         intervals [6]:
             xmin = 6.920000
-            xmax = 7.185000
+            xmax = 7.165000
             text = "yet"
         intervals [7]:
-            xmin = 7.185000
+            xmin = 7.165000
             xmax = 7.270000
             text = "to"
         intervals [8]:
@@ -54,10 +54,10 @@ item []:
             text = "of"
         intervals [11]:
             xmin = 8.020000
-            xmax = 8.120000
+            xmax = 8.130000
             text = "the"
         intervals [12]:
-            xmin = 8.120000
+            xmin = 8.130000
             xmax = 8.570000
             text = "enabling"
         intervals [13]:
@@ -96,10 +96,10 @@ item []:
             text = "d V n"
         intervals [6]:
             xmin = 6.920000
-            xmax = 7.185000
+            xmax = 7.165000
             text = "j E t"
         intervals [7]:
-            xmin = 7.185000
+            xmin = 7.165000
             xmax = 7.270000
             text = "t u:"
         intervals [8]:
@@ -116,10 +116,10 @@ item []:
             text = "V v"
         intervals [11]:
             xmin = 8.020000
-            xmax = 8.120000
+            xmax = 8.130000
             text = "D V"
         intervals [12]:
-            xmin = 8.120000
+            xmin = 8.130000
             xmax = 8.570000
             text = "E n eI b V l I N"
         intervals [13]:
@@ -206,10 +206,10 @@ item []:
             text = "E"
         intervals [18]:
             xmin = 7.100000
-            xmax = 7.185000
+            xmax = 7.165000
             text = "t"
         intervals [19]:
-            xmin = 7.185000
+            xmin = 7.165000
             xmax = 7.230000
             text = "t"
         intervals [20]:
@@ -270,18 +270,18 @@ item []:
             text = "v"
         intervals [34]:
             xmin = 8.020000
-            xmax = 8.090000
+            xmax = 8.100000
             text = "D"
         intervals [35]:
-            xmin = 8.090000
-            xmax = 8.120000
+            xmin = 8.100000
+            xmax = 8.130000
             text = "V"
         intervals [36]:
-            xmin = 8.120000
-            xmax = 8.150000
+            xmin = 8.130000
+            xmax = 8.160000
             text = "E"
         intervals [37]:
-            xmin = 8.150000
+            xmin = 8.160000
             xmax = 8.230000
             text = "n"
         intervals [38]:

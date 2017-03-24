@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.080000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "Bob"
         intervals [3]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.730000
             text = "papered"
         intervals [4]:
@@ -60,10 +60,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.080000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "b Q b"
         intervals [3]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.730000
             text = "p eI p 3` d"
         intervals [4]:
@@ -110,10 +110,10 @@ item []:
             text = "Q"
         intervals [4]:
             xmin = 4.270000
-            xmax = 4.350000
+            xmax = 4.360000
             text = "b"
         intervals [5]:
-            xmin = 4.350000
+            xmin = 4.360000
             xmax = 4.410000
             text = "p"
         intervals [6]:
@@ -134,10 +134,10 @@ item []:
             text = "d"
         intervals [10]:
             xmin = 4.730000
-            xmax = 4.820000
+            xmax = 4.830000
             text = "@U"
         intervals [11]:
-            xmin = 4.820000
+            xmin = 4.830000
             xmax = 4.910000
             text = "v"
         intervals [12]:

@@ -38,10 +38,10 @@ item []:
             text = "nice"
         intervals [7]:
             xmin = 4.260000
-            xmax = 4.750000
+            xmax = 4.740000
             text = "months"
         intervals [8]:
-            xmin = 4.750000
+            xmin = 4.740000
             xmax = 4.850000
             text = ""
         intervals [9]:
@@ -96,10 +96,10 @@ item []:
             text = "n aI s"
         intervals [7]:
             xmin = 4.260000
-            xmax = 4.750000
+            xmax = 4.740000
             text = "m V n T s"
         intervals [8]:
-            xmin = 4.750000
+            xmin = 4.740000
             xmax = 4.850000
             text = ""
         intervals [9]:
@@ -242,10 +242,10 @@ item []:
             text = "T"
         intervals [29]:
             xmin = 4.540000
-            xmax = 4.750000
+            xmax = 4.740000
             text = "s"
         intervals [30]:
-            xmin = 4.750000
+            xmin = 4.740000
             xmax = 4.850000
             text = "<p:>"
         intervals [31]:

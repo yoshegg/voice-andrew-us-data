@@ -26,10 +26,10 @@ item []:
             text = "made"
         intervals [4]:
             xmin = 3.080000
-            xmax = 3.580000
+            xmax = 3.590000
             text = "Hungarian"
         intervals [5]:
-            xmin = 3.580000
+            xmin = 3.590000
             xmax = 4.130000
             text = "goulash"
         intervals [6]:
@@ -84,10 +84,10 @@ item []:
             text = "m eI d"
         intervals [4]:
             xmin = 3.080000
-            xmax = 3.580000
+            xmax = 3.590000
             text = "h V N g E R i: V n"
         intervals [5]:
-            xmin = 3.580000
+            xmin = 3.590000
             xmax = 4.130000
             text = "g u: l Q S"
         intervals [6]:
@@ -190,10 +190,10 @@ item []:
             text = "V"
         intervals [16]:
             xmin = 3.490000
-            xmax = 3.580000
+            xmax = 3.590000
             text = "n"
         intervals [17]:
-            xmin = 3.580000
+            xmin = 3.590000
             xmax = 3.650000
             text = "g"
         intervals [18]:

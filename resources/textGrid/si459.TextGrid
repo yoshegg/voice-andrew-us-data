@@ -322,14 +322,14 @@ item []:
             text = "E"
         intervals [47]:
             xmin = 6.100000
-            xmax = 6.130000
+            xmax = 6.140000
             text = "R"
         intervals [48]:
-            xmin = 6.130000
-            xmax = 6.160000
+            xmin = 6.140000
+            xmax = 6.170000
             text = "I"
         intervals [49]:
-            xmin = 6.160000
+            xmin = 6.170000
             xmax = 6.240000
             text = "m"
         intervals [50]:

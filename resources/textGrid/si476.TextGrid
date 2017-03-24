@@ -70,10 +70,10 @@ item []:
             text = "the"
         intervals [15]:
             xmin = 5.860000
-            xmax = 6.220000
+            xmax = 6.230000
             text = "dough"
         intervals [16]:
-            xmin = 6.220000
+            xmin = 6.230000
             xmax = 6.400000
             text = "to"
         intervals [17]:
@@ -152,10 +152,10 @@ item []:
             text = "D V"
         intervals [15]:
             xmin = 5.860000
-            xmax = 6.220000
+            xmax = 6.230000
             text = "d @U"
         intervals [16]:
-            xmin = 6.220000
+            xmin = 6.230000
             xmax = 6.400000
             text = "t u:"
         intervals [17]:
@@ -290,10 +290,10 @@ item []:
             text = "m"
         intervals [29]:
             xmin = 5.010000
-            xmax = 5.080000
+            xmax = 5.070000
             text = "eI"
         intervals [30]:
-            xmin = 5.080000
+            xmin = 5.070000
             xmax = 5.130000
             text = "k"
         intervals [31]:
@@ -342,10 +342,10 @@ item []:
             text = "d"
         intervals [42]:
             xmin = 5.990000
-            xmax = 6.220000
+            xmax = 6.230000
             text = "@U"
         intervals [43]:
-            xmin = 6.220000
+            xmin = 6.230000
             xmax = 6.350000
             text = "t"
         intervals [44]:

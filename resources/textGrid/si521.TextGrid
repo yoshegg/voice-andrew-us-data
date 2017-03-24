@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.750000
-            xmax = 3.190000
+            xmax = 3.200000
             text = "Traffic"
         intervals [3]:
-            xmin = 3.190000
+            xmin = 3.200000
             xmax = 3.720000
             text = "frequently"
         intervals [4]:
@@ -42,10 +42,10 @@ item []:
             text = "measure"
         intervals [8]:
             xmin = 4.720000
-            xmax = 4.875000
+            xmax = 4.880000
             text = "up"
         intervals [9]:
-            xmin = 4.875000
+            xmin = 4.880000
             xmax = 5.015000
             text = "to"
         intervals [10]:
@@ -76,10 +76,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 2.750000
-            xmax = 3.190000
+            xmax = 3.200000
             text = "t R { f I k"
         intervals [3]:
-            xmin = 3.190000
+            xmin = 3.200000
             xmax = 3.720000
             text = "f R i: k w V n t l i:"
         intervals [4]:
@@ -100,10 +100,10 @@ item []:
             text = "m E Z 3`"
         intervals [8]:
             xmin = 4.720000
-            xmax = 4.875000
+            xmax = 4.880000
             text = "V p"
         intervals [9]:
-            xmin = 4.875000
+            xmin = 4.880000
             xmax = 5.015000
             text = "t u:"
         intervals [10]:
@@ -154,10 +154,10 @@ item []:
             text = "I"
         intervals [7]:
             xmin = 3.120000
-            xmax = 3.190000
+            xmax = 3.200000
             text = "k"
         intervals [8]:
-            xmin = 3.190000
+            xmin = 3.200000
             xmax = 3.310000
             text = "f"
         intervals [9]:
@@ -254,10 +254,10 @@ item []:
             text = "V"
         intervals [32]:
             xmin = 4.790000
-            xmax = 4.875000
+            xmax = 4.880000
             text = "p"
         intervals [33]:
-            xmin = 4.875000
+            xmin = 4.880000
             xmax = 4.960000
             text = "t"
         intervals [34]:

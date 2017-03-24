@@ -46,10 +46,10 @@ item []:
             text = "alleviate"
         intervals [9]:
             xmin = 6.110000
-            xmax = 6.610000
+            xmax = 6.620000
             text = "dispute"
         intervals [10]:
-            xmin = 6.610000
+            xmin = 6.620000
             xmax = 7.088000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "V l i: v i: eI t"
         intervals [9]:
             xmin = 6.110000
-            xmax = 6.610000
+            xmax = 6.620000
             text = "d I s p j u: t"
         intervals [10]:
-            xmin = 6.610000
+            xmin = 6.620000
             xmax = 7.088000
             text = ""
     item [3]:
@@ -126,10 +126,10 @@ item []:
             text = "p"
         intervals [6]:
             xmin = 3.780000
-            xmax = 3.870000
+            xmax = 3.890000
             text = "3`"
         intervals [7]:
-            xmin = 3.870000
+            xmin = 3.890000
             xmax = 4.020000
             text = "eI"
         intervals [8]:
@@ -246,10 +246,10 @@ item []:
             text = "i:"
         intervals [36]:
             xmin = 5.940000
-            xmax = 6.020000
+            xmax = 6.010000
             text = "eI"
         intervals [37]:
-            xmin = 6.020000
+            xmin = 6.010000
             xmax = 6.110000
             text = "t"
         intervals [38]:
@@ -278,9 +278,9 @@ item []:
             text = "u:"
         intervals [44]:
             xmin = 6.550000
-            xmax = 6.610000
+            xmax = 6.620000
             text = "t"
         intervals [45]:
-            xmin = 6.610000
+            xmin = 6.620000
             xmax = 7.088000
             text = "<p:>"

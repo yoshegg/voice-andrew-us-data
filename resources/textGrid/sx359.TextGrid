@@ -14,10 +14,10 @@ item []:
         intervals: size = 14
         intervals [1]:
             xmin = 0.000000
-            xmax = 4.000000
+            xmax = 3.990000
             text = ""
         intervals [2]:
-            xmin = 4.000000
+            xmin = 3.990000
             xmax = 4.080000
             text = "The"
         intervals [3]:
@@ -46,14 +46,14 @@ item []:
             text = ""
         intervals [9]:
             xmin = 5.580000
-            xmax = 5.750000
+            xmax = 5.760000
             text = "so"
         intervals [10]:
-            xmin = 5.750000
-            xmax = 6.000000
+            xmin = 5.760000
+            xmax = 6.010000
             text = "save"
         intervals [11]:
-            xmin = 6.000000
+            xmin = 6.010000
             xmax = 6.120000
             text = "your"
         intervals [12]:
@@ -62,10 +62,10 @@ item []:
             text = "files"
         intervals [13]:
             xmin = 6.560000
-            xmax = 7.140000
+            xmax = 7.120000
             text = "frequently"
         intervals [14]:
-            xmin = 7.140000
+            xmin = 7.120000
             xmax = 7.728000
             text = ""
     item [2]:
@@ -76,10 +76,10 @@ item []:
         intervals: size = 14
         intervals [1]:
             xmin = 0.000000
-            xmax = 4.000000
+            xmax = 3.990000
             text = ""
         intervals [2]:
-            xmin = 4.000000
+            xmin = 3.990000
             xmax = 4.080000
             text = "D V"
         intervals [3]:
@@ -108,14 +108,14 @@ item []:
             text = ""
         intervals [9]:
             xmin = 5.580000
-            xmax = 5.750000
+            xmax = 5.760000
             text = "s @U"
         intervals [10]:
-            xmin = 5.750000
-            xmax = 6.000000
+            xmin = 5.760000
+            xmax = 6.010000
             text = "s eI v"
         intervals [11]:
-            xmin = 6.000000
+            xmin = 6.010000
             xmax = 6.120000
             text = "j O: R"
         intervals [12]:
@@ -124,10 +124,10 @@ item []:
             text = "f aI l z"
         intervals [13]:
             xmin = 6.560000
-            xmax = 7.140000
+            xmax = 7.120000
             text = "f R i: k w V n t l i:"
         intervals [14]:
-            xmin = 7.140000
+            xmin = 7.120000
             xmax = 7.728000
             text = ""
     item [3]:
@@ -138,10 +138,10 @@ item []:
         intervals: size = 45
         intervals [1]:
             xmin = 0.000000
-            xmax = 4.000000
+            xmax = 3.990000
             text = "<p:>"
         intervals [2]:
-            xmin = 4.000000
+            xmin = 3.990000
             xmax = 4.050000
             text = "D"
         intervals [3]:
@@ -186,10 +186,10 @@ item []:
             text = "b"
         intervals [13]:
             xmin = 4.650000
-            xmax = 4.690000
+            xmax = 4.710000
             text = "R"
         intervals [14]:
-            xmin = 4.690000
+            xmin = 4.710000
             xmax = 4.800000
             text = "eI"
         intervals [15]:
@@ -230,10 +230,10 @@ item []:
             text = "s"
         intervals [24]:
             xmin = 5.700000
-            xmax = 5.750000
+            xmax = 5.760000
             text = "@U"
         intervals [25]:
-            xmin = 5.750000
+            xmin = 5.760000
             xmax = 5.850000
             text = "s"
         intervals [26]:
@@ -242,10 +242,10 @@ item []:
             text = "eI"
         intervals [27]:
             xmin = 5.970000
-            xmax = 6.000000
+            xmax = 6.010000
             text = "v"
         intervals [28]:
-            xmin = 6.000000
+            xmin = 6.010000
             xmax = 6.050000
             text = "j"
         intervals [29]:
@@ -310,9 +310,9 @@ item []:
             text = "l"
         intervals [44]:
             xmin = 7.030000
-            xmax = 7.140000
+            xmax = 7.120000
             text = "i:"
         intervals [45]:
-            xmin = 7.140000
+            xmin = 7.120000
             xmax = 7.728000
             text = "<p:>"

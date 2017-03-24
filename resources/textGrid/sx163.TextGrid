@@ -14,10 +14,10 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.020000
+            xmax = 2.010000
             text = ""
         intervals [2]:
-            xmin = 2.020000
+            xmin = 2.010000
             xmax = 2.120000
             text = "They"
         intervals [3]:
@@ -52,10 +52,10 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.020000
+            xmax = 2.010000
             text = ""
         intervals [2]:
-            xmin = 2.020000
+            xmin = 2.010000
             xmax = 2.120000
             text = "D eI"
         intervals [3]:
@@ -90,10 +90,10 @@ item []:
         intervals: size = 35
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.020000
+            xmax = 2.010000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.020000
+            xmin = 2.010000
             xmax = 2.070000
             text = "D"
         intervals [3]:
@@ -154,10 +154,10 @@ item []:
             text = "f"
         intervals [17]:
             xmin = 3.240000
-            xmax = 3.310000
+            xmax = 3.320000
             text = "R"
         intervals [18]:
-            xmin = 3.310000
+            xmin = 3.320000
             xmax = 3.390000
             text = "E"
         intervals [19]:
@@ -178,10 +178,10 @@ item []:
             text = "V"
         intervals [23]:
             xmin = 3.700000
-            xmax = 3.780000
+            xmax = 3.770000
             text = "n"
         intervals [24]:
-            xmin = 3.780000
+            xmin = 3.770000
             xmax = 3.830000
             text = "d"
         intervals [25]:
@@ -206,10 +206,10 @@ item []:
             text = "{"
         intervals [30]:
             xmin = 4.200000
-            xmax = 4.280000
+            xmax = 4.270000
             text = "n"
         intervals [31]:
-            xmin = 4.280000
+            xmin = 4.270000
             xmax = 4.360000
             text = "j"
         intervals [32]:

@@ -102,10 +102,10 @@ item []:
             text = "n"
         intervals [6]:
             xmin = 2.010000
-            xmax = 2.100000
+            xmax = 2.110000
             text = "s"
         intervals [7]:
-            xmin = 2.100000
+            xmin = 2.110000
             xmax = 2.180000
             text = "t"
         intervals [8]:
@@ -186,22 +186,22 @@ item []:
             text = "d"
         intervals [27]:
             xmin = 3.400000
-            xmax = 3.490000
+            xmax = 3.480000
             text = "V"
         intervals [28]:
-            xmin = 3.490000
+            xmin = 3.480000
             xmax = 3.570000
             text = "p"
         intervals [29]:
             xmin = 3.570000
-            xmax = 3.670000
+            xmax = 3.660000
             text = "d"
         intervals [30]:
-            xmin = 3.670000
-            xmax = 3.770000
+            xmin = 3.660000
+            xmax = 3.780000
             text = "eI"
         intervals [31]:
-            xmin = 3.770000
+            xmin = 3.780000
             xmax = 3.820000
             text = "t"
         intervals [32]:

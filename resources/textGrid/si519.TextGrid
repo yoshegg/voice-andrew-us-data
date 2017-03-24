@@ -178,10 +178,10 @@ item []:
             text = "{"
         intervals [7]:
             xmin = 4.730000
-            xmax = 4.840000
+            xmax = 4.830000
             text = "d"
         intervals [8]:
-            xmin = 4.840000
+            xmin = 4.830000
             xmax = 4.970000
             text = "V"
         intervals [9]:

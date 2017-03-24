@@ -30,10 +30,10 @@ item []:
             text = "postponed"
         intervals [5]:
             xmin = 5.930000
-            xmax = 5.990000
+            xmax = 5.980000
             text = ""
         intervals [6]:
-            xmin = 5.990000
+            xmin = 5.980000
             xmax = 6.420000
             text = "alimony"
         intervals [7]:
@@ -88,10 +88,10 @@ item []:
             text = "p @U s t p @U n d"
         intervals [5]:
             xmin = 5.930000
-            xmax = 5.990000
+            xmax = 5.980000
             text = ""
         intervals [6]:
-            xmin = 5.990000
+            xmin = 5.980000
             xmax = 6.420000
             text = "{ l V m @U n i:"
         intervals [7]:
@@ -158,10 +158,10 @@ item []:
             text = "@U"
         intervals [8]:
             xmin = 5.510000
-            xmax = 5.580000
+            xmax = 5.590000
             text = "s"
         intervals [9]:
-            xmin = 5.580000
+            xmin = 5.590000
             xmax = 5.630000
             text = "t"
         intervals [10]:
@@ -182,10 +182,10 @@ item []:
             text = "d"
         intervals [14]:
             xmin = 5.930000
-            xmax = 5.990000
+            xmax = 5.980000
             text = "<p:>"
         intervals [15]:
-            xmin = 5.990000
+            xmin = 5.980000
             xmax = 6.070000
             text = "{"
         intervals [16]:

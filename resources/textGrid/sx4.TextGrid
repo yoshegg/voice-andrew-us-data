@@ -46,10 +46,10 @@ item []:
             text = "working"
         intervals [9]:
             xmin = 2.550000
-            xmax = 2.990000
+            xmax = 3.030000
             text = "hard"
         intervals [10]:
-            xmin = 2.990000
+            xmin = 3.030000
             xmax = 3.576000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "w 3` k I N"
         intervals [9]:
             xmin = 2.550000
-            xmax = 2.990000
+            xmax = 3.030000
             text = "h Q R d"
         intervals [10]:
-            xmin = 2.990000
+            xmin = 3.030000
             xmax = 3.576000
             text = ""
     item [3]:
@@ -206,9 +206,9 @@ item []:
             text = "R"
         intervals [26]:
             xmin = 2.910000
-            xmax = 2.990000
+            xmax = 3.030000
             text = "d"
         intervals [27]:
-            xmin = 2.990000
+            xmin = 3.030000
             xmax = 3.576000
             text = "<p:>"

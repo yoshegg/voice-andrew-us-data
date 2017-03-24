@@ -34,14 +34,14 @@ item []:
             text = "never"
         intervals [6]:
             xmin = 3.310000
-            xmax = 3.730000
+            xmax = 3.720000
             text = "fail"
         intervals [7]:
-            xmin = 3.730000
-            xmax = 3.890000
+            xmin = 3.720000
+            xmax = 3.880000
             text = "as"
         intervals [8]:
-            xmin = 3.890000
+            xmin = 3.880000
             xmax = 3.920000
             text = "a"
         intervals [9]:
@@ -88,14 +88,14 @@ item []:
             text = "n E v 3`"
         intervals [6]:
             xmin = 3.310000
-            xmax = 3.730000
+            xmax = 3.720000
             text = "f eI l"
         intervals [7]:
-            xmin = 3.730000
-            xmax = 3.890000
+            xmin = 3.720000
+            xmax = 3.880000
             text = "{ z"
         intervals [8]:
-            xmin = 3.890000
+            xmin = 3.880000
             xmax = 3.920000
             text = "V"
         intervals [9]:
@@ -206,18 +206,18 @@ item []:
             text = "eI"
         intervals [22]:
             xmin = 3.590000
-            xmax = 3.730000
+            xmax = 3.720000
             text = "l"
         intervals [23]:
-            xmin = 3.730000
+            xmin = 3.720000
             xmax = 3.810000
             text = "{"
         intervals [24]:
             xmin = 3.810000
-            xmax = 3.890000
+            xmax = 3.880000
             text = "z"
         intervals [25]:
-            xmin = 3.890000
+            xmin = 3.880000
             xmax = 3.920000
             text = "V"
         intervals [26]:
@@ -242,10 +242,10 @@ item []:
             text = "n"
         intervals [31]:
             xmin = 4.300000
-            xmax = 4.390000
+            xmax = 4.400000
             text = "t"
         intervals [32]:
-            xmin = 4.390000
+            xmin = 4.400000
             xmax = 4.430000
             text = "I"
         intervals [33]:

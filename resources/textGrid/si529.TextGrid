@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.240000
-            xmax = 4.570000
+            xmax = 4.580000
             text = "Wooded"
         intervals [3]:
-            xmin = 4.570000
+            xmin = 4.580000
             xmax = 4.930000
             text = "stream"
         intervals [4]:
@@ -80,10 +80,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.240000
-            xmax = 4.570000
+            xmax = 4.580000
             text = "w U d I d"
         intervals [3]:
-            xmin = 4.570000
+            xmin = 4.580000
             xmax = 4.930000
             text = "s t R i: m"
         intervals [4]:
@@ -158,10 +158,10 @@ item []:
             text = "I"
         intervals [6]:
             xmin = 4.530000
-            xmax = 4.570000
+            xmax = 4.580000
             text = "d"
         intervals [7]:
-            xmin = 4.570000
+            xmin = 4.580000
             xmax = 4.610000
             text = "s"
         intervals [8]:
@@ -174,10 +174,10 @@ item []:
             text = "R"
         intervals [10]:
             xmin = 4.740000
-            xmax = 4.780000
+            xmax = 4.790000
             text = "i:"
         intervals [11]:
-            xmin = 4.780000
+            xmin = 4.790000
             xmax = 4.930000
             text = "m"
         intervals [12]:
@@ -202,10 +202,10 @@ item []:
             text = "z"
         intervals [17]:
             xmin = 5.490000
-            xmax = 5.560000
+            xmax = 5.570000
             text = "I"
         intervals [18]:
-            xmin = 5.560000
+            xmin = 5.570000
             xmax = 5.660000
             text = "n"
         intervals [19]:

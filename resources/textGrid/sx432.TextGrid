@@ -194,10 +194,10 @@ item []:
             text = "dZ"
         intervals [19]:
             xmin = 4.840000
-            xmax = 4.920000
+            xmax = 4.930000
             text = "V"
         intervals [20]:
-            xmin = 4.920000
+            xmin = 4.930000
             xmax = 4.980000
             text = "N"
         intervals [21]:

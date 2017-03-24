@@ -42,10 +42,10 @@ item []:
             text = "naive"
         intervals [8]:
             xmin = 5.860000
-            xmax = 6.000000
+            xmax = 5.990000
             text = ""
         intervals [9]:
-            xmin = 6.000000
+            xmin = 5.990000
             xmax = 6.690000
             text = "heroism"
         intervals [10]:
@@ -88,10 +88,10 @@ item []:
             text = "n aI i: v"
         intervals [8]:
             xmin = 5.860000
-            xmax = 6.000000
+            xmax = 5.990000
             text = ""
         intervals [9]:
-            xmin = 6.000000
+            xmin = 5.990000
             xmax = 6.690000
             text = "h E R @U I z V m"
         intervals [10]:
@@ -230,10 +230,10 @@ item []:
             text = "v"
         intervals [32]:
             xmin = 5.860000
-            xmax = 6.000000
+            xmax = 5.990000
             text = "<p:>"
         intervals [33]:
-            xmin = 6.000000
+            xmin = 5.990000
             xmax = 6.120000
             text = "h"
         intervals [34]:

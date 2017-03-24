@@ -170,10 +170,10 @@ item []:
             text = "tS"
         intervals [11]:
             xmin = 4.020000
-            xmax = 4.100000
+            xmax = 4.110000
             text = "Q"
         intervals [12]:
-            xmin = 4.100000
+            xmin = 4.110000
             xmax = 4.170000
             text = "R"
         intervals [13]:
@@ -278,10 +278,10 @@ item []:
             text = "V"
         intervals [38]:
             xmin = 5.920000
-            xmax = 6.010000
+            xmax = 6.020000
             text = "n"
         intervals [39]:
-            xmin = 6.010000
+            xmin = 6.020000
             xmax = 6.120000
             text = "z"
         intervals [40]:

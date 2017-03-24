@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.610000
-            xmax = 1.880000
+            xmax = 1.870000
             text = "Those"
         intervals [3]:
-            xmin = 1.880000
+            xmin = 1.870000
             xmax = 2.560000
             text = "musicians"
         intervals [4]:
@@ -52,10 +52,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.610000
-            xmax = 1.880000
+            xmax = 1.870000
             text = "D @U z"
         intervals [3]:
-            xmin = 1.880000
+            xmin = 1.870000
             xmax = 2.560000
             text = "m j u: z I S V n z"
         intervals [4]:
@@ -94,10 +94,10 @@ item []:
             text = "@U"
         intervals [4]:
             xmin = 1.800000
-            xmax = 1.880000
+            xmax = 1.870000
             text = "z"
         intervals [5]:
-            xmin = 1.880000
+            xmin = 1.870000
             xmax = 1.950000
             text = "m"
         intervals [6]:

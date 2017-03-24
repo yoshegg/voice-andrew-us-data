@@ -146,18 +146,18 @@ item []:
             text = "O:"
         intervals [5]:
             xmin = 4.490000
-            xmax = 4.560000
+            xmax = 4.570000
             text = "E"
         intervals [6]:
-            xmin = 4.560000
-            xmax = 4.630000
+            xmin = 4.570000
+            xmax = 4.640000
             text = "v"
         intervals [7]:
-            xmin = 4.630000
-            xmax = 4.670000
+            xmin = 4.640000
+            xmax = 4.680000
             text = "3`"
         intervals [8]:
-            xmin = 4.670000
+            xmin = 4.680000
             xmax = 4.750000
             text = "i:"
         intervals [9]:

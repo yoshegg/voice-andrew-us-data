@@ -246,14 +246,14 @@ item []:
             text = "s"
         intervals [32]:
             xmin = 10.130000
-            xmax = 10.200000
+            xmax = 10.210000
             text = "t"
         intervals [33]:
-            xmin = 10.200000
-            xmax = 10.280000
+            xmin = 10.210000
+            xmax = 10.270000
             text = "O:"
         intervals [34]:
-            xmin = 10.280000
+            xmin = 10.270000
             xmax = 10.320000
             text = "R"
         intervals [35]:

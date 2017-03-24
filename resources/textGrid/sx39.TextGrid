@@ -42,10 +42,10 @@ item []:
             text = "a"
         intervals [8]:
             xmin = 4.060000
-            xmax = 4.840000
+            xmax = 4.830000
             text = "graduation"
         intervals [9]:
-            xmin = 4.840000
+            xmin = 4.830000
             xmax = 5.360000
             text = "present"
         intervals [10]:
@@ -88,10 +88,10 @@ item []:
             text = "V"
         intervals [8]:
             xmin = 4.060000
-            xmax = 4.840000
+            xmax = 4.830000
             text = "g R { dZ u: eI S V n"
         intervals [9]:
-            xmin = 4.840000
+            xmin = 4.830000
             xmax = 5.360000
             text = "p R E z V n t"
         intervals [10]:
@@ -226,10 +226,10 @@ item []:
             text = "V"
         intervals [31]:
             xmin = 4.770000
-            xmax = 4.840000
+            xmax = 4.830000
             text = "n"
         intervals [32]:
-            xmin = 4.840000
+            xmin = 4.830000
             xmax = 4.940000
             text = "p"
         intervals [33]:

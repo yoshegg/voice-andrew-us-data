@@ -18,18 +18,18 @@ item []:
             text = ""
         intervals [2]:
             xmin = 3.030000
-            xmax = 3.120000
+            xmax = 3.130000
             text = "The"
         intervals [3]:
-            xmin = 3.120000
+            xmin = 3.130000
             xmax = 3.650000
             text = "government"
         intervals [4]:
             xmin = 3.650000
-            xmax = 4.020000
+            xmax = 4.010000
             text = "sought"
         intervals [5]:
-            xmin = 4.020000
+            xmin = 4.010000
             xmax = 4.180000
             text = ""
         intervals [6]:
@@ -68,18 +68,18 @@ item []:
             text = ""
         intervals [2]:
             xmin = 3.030000
-            xmax = 3.120000
+            xmax = 3.130000
             text = "D V"
         intervals [3]:
-            xmin = 3.120000
+            xmin = 3.130000
             xmax = 3.650000
             text = "g V v 3` m V n t"
         intervals [4]:
             xmin = 3.650000
-            xmax = 4.020000
+            xmax = 4.010000
             text = "s O: t"
         intervals [5]:
-            xmin = 4.020000
+            xmin = 4.010000
             xmax = 4.180000
             text = ""
         intervals [6]:
@@ -118,14 +118,14 @@ item []:
             text = "<p:>"
         intervals [2]:
             xmin = 3.030000
-            xmax = 3.090000
+            xmax = 3.100000
             text = "D"
         intervals [3]:
-            xmin = 3.090000
-            xmax = 3.120000
+            xmin = 3.100000
+            xmax = 3.130000
             text = "V"
         intervals [4]:
-            xmin = 3.120000
+            xmin = 3.130000
             xmax = 3.200000
             text = "g"
         intervals [5]:
@@ -166,10 +166,10 @@ item []:
             text = "O:"
         intervals [14]:
             xmin = 3.940000
-            xmax = 4.020000
+            xmax = 4.010000
             text = "t"
         intervals [15]:
-            xmin = 4.020000
+            xmin = 4.010000
             xmax = 4.180000
             text = "<p:>"
         intervals [16]:

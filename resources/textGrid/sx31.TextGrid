@@ -14,14 +14,14 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.860000
+            xmax = 1.870000
             text = ""
         intervals [2]:
-            xmin = 1.860000
-            xmax = 1.890000
+            xmin = 1.870000
+            xmax = 1.900000
             text = "A"
         intervals [3]:
-            xmin = 1.890000
+            xmin = 1.900000
             xmax = 2.420000
             text = ""
         intervals [4]:
@@ -52,14 +52,14 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.860000
+            xmax = 1.870000
             text = ""
         intervals [2]:
-            xmin = 1.860000
-            xmax = 1.890000
+            xmin = 1.870000
+            xmax = 1.900000
             text = "V"
         intervals [3]:
-            xmin = 1.890000
+            xmin = 1.900000
             xmax = 2.420000
             text = ""
         intervals [4]:
@@ -90,14 +90,14 @@ item []:
         intervals: size = 24
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.860000
+            xmax = 1.870000
             text = "<p:>"
         intervals [2]:
-            xmin = 1.860000
-            xmax = 1.890000
+            xmin = 1.870000
+            xmax = 1.900000
             text = "V"
         intervals [3]:
-            xmin = 1.890000
+            xmin = 1.900000
             xmax = 2.420000
             text = "<p:>"
         intervals [4]:

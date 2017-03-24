@@ -14,10 +14,10 @@ item []:
         intervals: size = 7
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.000000
+            xmax = 2.020000
             text = ""
         intervals [2]:
-            xmin = 2.000000
+            xmin = 2.020000
             xmax = 2.230000
             text = "That"
         intervals [3]:
@@ -48,10 +48,10 @@ item []:
         intervals: size = 7
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.000000
+            xmax = 2.020000
             text = ""
         intervals [2]:
-            xmin = 2.000000
+            xmin = 2.020000
             xmax = 2.230000
             text = "D { t"
         intervals [3]:
@@ -82,10 +82,10 @@ item []:
         intervals: size = 26
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.000000
+            xmax = 2.020000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.000000
+            xmin = 2.020000
             xmax = 2.060000
             text = "D"
         intervals [3]:

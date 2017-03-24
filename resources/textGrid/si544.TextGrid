@@ -38,10 +38,10 @@ item []:
             text = "life"
         intervals [7]:
             xmin = 2.320000
-            xmax = 2.390000
+            xmax = 2.380000
             text = ""
         intervals [8]:
-            xmin = 2.390000
+            xmin = 2.380000
             xmax = 2.590000
             text = "by"
         intervals [9]:
@@ -50,10 +50,10 @@ item []:
             text = "earthly"
         intervals [10]:
             xmin = 2.960000
-            xmax = 3.690000
+            xmax = 3.700000
             text = "standards"
         intervals [11]:
-            xmin = 3.690000
+            xmin = 3.700000
             xmax = 4.476375
             text = ""
     item [2]:
@@ -88,10 +88,10 @@ item []:
             text = "l aI f"
         intervals [7]:
             xmin = 2.320000
-            xmax = 2.390000
+            xmax = 2.380000
             text = ""
         intervals [8]:
-            xmin = 2.390000
+            xmin = 2.380000
             xmax = 2.590000
             text = "b aI"
         intervals [9]:
@@ -100,10 +100,10 @@ item []:
             text = "3` T l i:"
         intervals [10]:
             xmin = 2.960000
-            xmax = 3.690000
+            xmax = 3.700000
             text = "s t { n d 3` d z"
         intervals [11]:
-            xmin = 3.690000
+            xmin = 3.700000
             xmax = 4.476375
             text = ""
     item [3]:
@@ -154,18 +154,18 @@ item []:
             text = "{"
         intervals [11]:
             xmin = 1.460000
-            xmax = 1.530000
+            xmax = 1.540000
             text = "k"
         intervals [12]:
-            xmin = 1.530000
-            xmax = 1.560000
+            xmin = 1.540000
+            xmax = 1.570000
             text = "R"
         intervals [13]:
-            xmin = 1.560000
-            xmax = 1.590000
+            xmin = 1.570000
+            xmax = 1.600000
             text = "V"
         intervals [14]:
-            xmin = 1.590000
+            xmin = 1.600000
             xmax = 1.710000
             text = "f"
         intervals [15]:
@@ -198,10 +198,10 @@ item []:
             text = "f"
         intervals [22]:
             xmin = 2.320000
-            xmax = 2.390000
+            xmax = 2.380000
             text = "<p:>"
         intervals [23]:
-            xmin = 2.390000
+            xmin = 2.380000
             xmax = 2.420000
             text = "b"
         intervals [24]:
@@ -254,9 +254,9 @@ item []:
             text = "d"
         intervals [36]:
             xmin = 3.540000
-            xmax = 3.690000
+            xmax = 3.700000
             text = "z"
         intervals [37]:
-            xmin = 3.690000
+            xmin = 3.700000
             xmax = 4.476375
             text = "<p:>"

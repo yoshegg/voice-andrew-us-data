@@ -46,10 +46,10 @@ item []:
             text = "of"
         intervals [9]:
             xmin = 5.640000
-            xmax = 6.030000
+            xmax = 6.040000
             text = "color"
         intervals [10]:
-            xmin = 6.030000
+            xmin = 6.040000
             xmax = 6.512000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "V v"
         intervals [9]:
             xmin = 5.640000
-            xmax = 6.030000
+            xmax = 6.040000
             text = "k V l 3`"
         intervals [10]:
-            xmin = 6.030000
+            xmin = 6.040000
             xmax = 6.512000
             text = ""
     item [3]:
@@ -242,9 +242,9 @@ item []:
             text = "l"
         intervals [35]:
             xmin = 5.910000
-            xmax = 6.030000
+            xmax = 6.040000
             text = "3`"
         intervals [36]:
-            xmin = 6.030000
+            xmin = 6.040000
             xmax = 6.512000
             text = "<p:>"

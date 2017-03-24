@@ -42,10 +42,10 @@ item []:
             text = "of"
         intervals [8]:
             xmin = 9.480000
-            xmax = 10.100000
+            xmax = 10.110000
             text = "fashion"
         intervals [9]:
-            xmin = 10.100000
+            xmin = 10.110000
             xmax = 10.375000
             text = "this"
         intervals [10]:
@@ -92,10 +92,10 @@ item []:
             text = "V v"
         intervals [8]:
             xmin = 9.480000
-            xmax = 10.100000
+            xmax = 10.110000
             text = "f { S V n"
         intervals [9]:
-            xmin = 10.100000
+            xmin = 10.110000
             xmax = 10.375000
             text = "D I s"
         intervals [10]:
@@ -194,10 +194,10 @@ item []:
             text = "V"
         intervals [21]:
             xmin = 9.950000
-            xmax = 10.100000
+            xmax = 10.110000
             text = "n"
         intervals [22]:
-            xmin = 10.100000
+            xmin = 10.110000
             xmax = 10.140000
             text = "D"
         intervals [23]:

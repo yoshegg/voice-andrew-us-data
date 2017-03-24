@@ -50,10 +50,10 @@ item []:
             text = "a"
         intervals [10]:
             xmin = 4.310000
-            xmax = 4.560000
+            xmax = 4.510000
             text = "good"
         intervals [11]:
-            xmin = 4.560000
+            xmin = 4.510000
             xmax = 4.870000
             text = "job"
         intervals [12]:
@@ -104,10 +104,10 @@ item []:
             text = "V"
         intervals [10]:
             xmin = 4.310000
-            xmax = 4.560000
+            xmax = 4.510000
             text = "g U d"
         intervals [11]:
-            xmin = 4.560000
+            xmin = 4.510000
             xmax = 4.870000
             text = "dZ Q b"
         intervals [12]:
@@ -246,10 +246,10 @@ item []:
             text = "U"
         intervals [32]:
             xmin = 4.470000
-            xmax = 4.560000
+            xmax = 4.510000
             text = "d"
         intervals [33]:
-            xmin = 4.560000
+            xmin = 4.510000
             xmax = 4.610000
             text = "dZ"
         intervals [34]:

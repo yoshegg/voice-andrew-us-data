@@ -50,10 +50,10 @@ item []:
             text = "the"
         intervals [10]:
             xmin = 3.260000
-            xmax = 3.700000
+            xmax = 3.710000
             text = "tube"
         intervals [11]:
-            xmin = 3.700000
+            xmin = 3.710000
             xmax = 5.032000
             text = ""
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "D V"
         intervals [10]:
             xmin = 3.260000
-            xmax = 3.700000
+            xmax = 3.710000
             text = "t u: b"
         intervals [11]:
-            xmin = 3.700000
+            xmin = 3.710000
             xmax = 5.032000
             text = ""
     item [3]:
@@ -194,9 +194,9 @@ item []:
             text = "u:"
         intervals [21]:
             xmin = 3.620000
-            xmax = 3.700000
+            xmax = 3.710000
             text = "b"
         intervals [22]:
-            xmin = 3.700000
+            xmin = 3.710000
             xmax = 5.032000
             text = "<p:>"

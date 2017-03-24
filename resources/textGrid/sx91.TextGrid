@@ -26,10 +26,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 4.660000
-            xmax = 5.350000
+            xmax = 5.340000
             text = "misprint"
         intervals [5]:
-            xmin = 5.350000
+            xmin = 5.340000
             xmax = 5.440000
             text = ""
         intervals [6]:
@@ -76,10 +76,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 4.660000
-            xmax = 5.350000
+            xmax = 5.340000
             text = "m I s p R I n t"
         intervals [5]:
-            xmin = 5.350000
+            xmin = 5.340000
             xmax = 5.440000
             text = ""
         intervals [6]:
@@ -158,10 +158,10 @@ item []:
             text = "n"
         intervals [12]:
             xmin = 5.280000
-            xmax = 5.350000
+            xmax = 5.340000
             text = "t"
         intervals [13]:
-            xmin = 5.350000
+            xmin = 5.340000
             xmax = 5.440000
             text = "<p:>"
         intervals [14]:
@@ -178,10 +178,10 @@ item []:
             text = "V"
         intervals [17]:
             xmin = 5.570000
-            xmax = 5.660000
+            xmax = 5.650000
             text = "v"
         intervals [18]:
-            xmin = 5.660000
+            xmin = 5.650000
             xmax = 5.780000
             text = "@U"
         intervals [19]:
@@ -222,10 +222,10 @@ item []:
             text = "d"
         intervals [28]:
             xmin = 6.540000
-            xmax = 6.650000
+            xmax = 6.640000
             text = "i:"
         intervals [29]:
-            xmin = 6.650000
+            xmin = 6.640000
             xmax = 6.680000
             text = "V"
         intervals [30]:

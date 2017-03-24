@@ -26,10 +26,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 3.280000
-            xmax = 3.640000
+            xmax = 3.630000
             text = "boring"
         intervals [5]:
-            xmin = 3.640000
+            xmin = 3.630000
             xmax = 4.020000
             text = "novel"
         intervals [6]:
@@ -76,10 +76,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 3.280000
-            xmax = 3.640000
+            xmax = 3.630000
             text = "b O: R I N"
         intervals [5]:
-            xmin = 3.640000
+            xmin = 3.630000
             xmax = 4.020000
             text = "n Q v V l"
         intervals [6]:
@@ -142,10 +142,10 @@ item []:
             text = "I"
         intervals [8]:
             xmin = 3.580000
-            xmax = 3.640000
+            xmax = 3.630000
             text = "N"
         intervals [9]:
-            xmin = 3.640000
+            xmin = 3.630000
             xmax = 3.700000
             text = "n"
         intervals [10]:

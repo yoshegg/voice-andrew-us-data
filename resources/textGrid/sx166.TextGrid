@@ -14,10 +14,10 @@ item []:
         intervals: size = 12
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.950000
+            xmax = 2.960000
             text = ""
         intervals [2]:
-            xmin = 2.950000
+            xmin = 2.960000
             xmax = 3.875000
             text = "Biologists"
         intervals [3]:
@@ -68,10 +68,10 @@ item []:
         intervals: size = 12
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.950000
+            xmax = 2.960000
             text = ""
         intervals [2]:
-            xmin = 2.950000
+            xmin = 2.960000
             xmax = 3.875000
             text = "b aI Q l V dZ I s t s"
         intervals [3]:
@@ -122,14 +122,14 @@ item []:
         intervals: size = 57
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.950000
+            xmax = 2.960000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.950000
-            xmax = 2.990000
+            xmin = 2.960000
+            xmax = 3.000000
             text = "b"
         intervals [3]:
-            xmin = 2.990000
+            xmin = 3.000000
             xmax = 3.110000
             text = "aI"
         intervals [4]:
@@ -310,10 +310,10 @@ item []:
             text = "O:"
         intervals [48]:
             xmin = 7.060000
-            xmax = 7.120000
+            xmax = 7.110000
             text = "R"
         intervals [49]:
-            xmin = 7.120000
+            xmin = 7.110000
             xmax = 7.180000
             text = "g"
         intervals [50]:

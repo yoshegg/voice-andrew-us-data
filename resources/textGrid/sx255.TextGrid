@@ -38,10 +38,10 @@ item []:
             text = "with"
         intervals [7]:
             xmin = 3.540000
-            xmax = 3.900000
+            xmax = 3.810000
             text = "hot"
         intervals [8]:
-            xmin = 3.900000
+            xmin = 3.810000
             xmax = 4.350000
             text = "coffee"
         intervals [9]:
@@ -80,10 +80,10 @@ item []:
             text = "w I D"
         intervals [7]:
             xmin = 3.540000
-            xmax = 3.900000
+            xmax = 3.810000
             text = "h Q t"
         intervals [8]:
-            xmin = 3.900000
+            xmin = 3.810000
             xmax = 4.350000
             text = "k Q f i:"
         intervals [9]:
@@ -134,10 +134,10 @@ item []:
             text = "O:"
         intervals [10]:
             xmin = 2.790000
-            xmax = 2.830000
+            xmax = 2.820000
             text = "R"
         intervals [11]:
-            xmin = 2.830000
+            xmin = 2.820000
             xmax = 2.860000
             text = "n"
         intervals [12]:
@@ -194,10 +194,10 @@ item []:
             text = "Q"
         intervals [25]:
             xmin = 3.760000
-            xmax = 3.900000
+            xmax = 3.810000
             text = "t"
         intervals [26]:
-            xmin = 3.900000
+            xmin = 3.810000
             xmax = 3.970000
             text = "k"
         intervals [27]:
@@ -206,10 +206,10 @@ item []:
             text = "Q"
         intervals [28]:
             xmin = 4.060000
-            xmax = 4.220000
+            xmax = 4.230000
             text = "f"
         intervals [29]:
-            xmin = 4.220000
+            xmin = 4.230000
             xmax = 4.350000
             text = "i:"
         intervals [30]:

@@ -46,10 +46,10 @@ item []:
             text = "and"
         intervals [9]:
             xmin = 5.410000
-            xmax = 6.140000
+            xmax = 6.150000
             text = "expertise"
         intervals [10]:
-            xmin = 6.140000
+            xmin = 6.150000
             xmax = 6.616000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "V n d"
         intervals [9]:
             xmin = 5.410000
-            xmax = 6.140000
+            xmax = 6.150000
             text = "E k s p 3` t i: z"
         intervals [10]:
-            xmin = 6.140000
+            xmin = 6.150000
             xmax = 6.616000
             text = ""
     item [3]:
@@ -146,10 +146,10 @@ item []:
             text = "b"
         intervals [11]:
             xmin = 3.610000
-            xmax = 3.660000
+            xmax = 3.670000
             text = "R"
         intervals [12]:
-            xmin = 3.660000
+            xmin = 3.670000
             xmax = 3.710000
             text = "E"
         intervals [13]:
@@ -274,9 +274,9 @@ item []:
             text = "i:"
         intervals [43]:
             xmin = 6.010000
-            xmax = 6.140000
+            xmax = 6.150000
             text = "z"
         intervals [44]:
-            xmin = 6.140000
+            xmin = 6.150000
             xmax = 6.616000
             text = "<p:>"

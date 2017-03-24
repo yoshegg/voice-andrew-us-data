@@ -22,14 +22,14 @@ item []:
             text = "Ideally"
         intervals [3]:
             xmin = 3.610000
-            xmax = 3.800000
+            xmax = 3.810000
             text = "he"
         intervals [4]:
-            xmin = 3.800000
-            xmax = 4.110000
+            xmin = 3.810000
+            xmax = 4.120000
             text = "knew"
         intervals [5]:
-            xmin = 4.110000
+            xmin = 4.120000
             xmax = 4.340000
             text = ""
         intervals [6]:
@@ -92,14 +92,14 @@ item []:
             text = "aI d i: l i:"
         intervals [3]:
             xmin = 3.610000
-            xmax = 3.800000
+            xmax = 3.810000
             text = "h i:"
         intervals [4]:
-            xmin = 3.800000
-            xmax = 4.110000
+            xmin = 3.810000
+            xmax = 4.120000
             text = "n u:"
         intervals [5]:
-            xmin = 4.110000
+            xmin = 4.120000
             xmax = 4.340000
             text = ""
         intervals [6]:
@@ -182,18 +182,18 @@ item []:
             text = "h"
         intervals [8]:
             xmin = 3.730000
-            xmax = 3.800000
+            xmax = 3.810000
             text = "i:"
         intervals [9]:
-            xmin = 3.800000
+            xmin = 3.810000
             xmax = 3.860000
             text = "n"
         intervals [10]:
             xmin = 3.860000
-            xmax = 4.110000
+            xmax = 4.120000
             text = "u:"
         intervals [11]:
-            xmin = 4.110000
+            xmin = 4.120000
             xmax = 4.340000
             text = "<p:>"
         intervals [12]:
@@ -342,10 +342,10 @@ item []:
             text = "3`"
         intervals [48]:
             xmin = 6.700000
-            xmax = 6.790000
+            xmax = 6.780000
             text = "l"
         intervals [49]:
-            xmin = 6.790000
+            xmin = 6.780000
             xmax = 6.870000
             text = "E"
         intervals [50]:

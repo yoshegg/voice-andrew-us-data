@@ -46,10 +46,10 @@ item []:
             text = "her"
         intervals [9]:
             xmin = 5.900000
-            xmax = 6.250000
+            xmax = 6.260000
             text = "skirt"
         intervals [10]:
-            xmin = 6.250000
+            xmin = 6.260000
             xmax = 6.952000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "h 3`"
         intervals [9]:
             xmin = 5.900000
-            xmax = 6.250000
+            xmax = 6.260000
             text = "s k 3` t"
         intervals [10]:
-            xmin = 6.250000
+            xmin = 6.260000
             xmax = 6.952000
             text = ""
     item [3]:
@@ -250,13 +250,13 @@ item []:
             text = "k"
         intervals [37]:
             xmin = 6.090000
-            xmax = 6.200000
+            xmax = 6.230000
             text = "3`"
         intervals [38]:
-            xmin = 6.200000
-            xmax = 6.250000
+            xmin = 6.230000
+            xmax = 6.260000
             text = "t"
         intervals [39]:
-            xmin = 6.250000
+            xmin = 6.260000
             xmax = 6.952000
             text = "<p:>"

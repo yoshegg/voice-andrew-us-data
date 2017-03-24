@@ -26,10 +26,10 @@ item []:
             text = "execution"
         intervals [4]:
             xmin = 3.550000
-            xmax = 3.680000
+            xmax = 3.685000
             text = "of"
         intervals [5]:
-            xmin = 3.680000
+            xmin = 3.685000
             xmax = 3.830000
             text = "my"
         intervals [6]:
@@ -68,10 +68,10 @@ item []:
             text = "E k s V k j u: S V n"
         intervals [4]:
             xmin = 3.550000
-            xmax = 3.680000
+            xmax = 3.685000
             text = "V v"
         intervals [5]:
-            xmin = 3.680000
+            xmin = 3.685000
             xmax = 3.830000
             text = "m aI"
         intervals [6]:
@@ -166,10 +166,10 @@ item []:
             text = "V"
         intervals [18]:
             xmin = 3.630000
-            xmax = 3.680000
+            xmax = 3.685000
             text = "v"
         intervals [19]:
-            xmin = 3.680000
+            xmin = 3.685000
             xmax = 3.750000
             text = "m"
         intervals [20]:

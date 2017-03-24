@@ -158,10 +158,10 @@ item []:
             text = "i:"
         intervals [18]:
             xmin = 2.730000
-            xmax = 2.830000
+            xmax = 2.840000
             text = "h"
         intervals [19]:
-            xmin = 2.830000
+            xmin = 2.840000
             xmax = 3.010000
             text = "@U"
         intervals [20]:

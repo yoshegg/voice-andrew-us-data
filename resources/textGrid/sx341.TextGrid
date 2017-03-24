@@ -42,10 +42,10 @@ item []:
             text = "was"
         intervals [8]:
             xmin = 3.390000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "surrounded"
         intervals [9]:
-            xmin = 3.850000
+            xmin = 3.860000
             xmax = 4.030000
             text = "by"
         intervals [10]:
@@ -54,10 +54,10 @@ item []:
             text = "barbed"
         intervals [11]:
             xmin = 4.420000
-            xmax = 4.850000
+            xmax = 4.860000
             text = "wire"
         intervals [12]:
-            xmin = 4.850000
+            xmin = 4.860000
             xmax = 5.288000
             text = ""
     item [2]:
@@ -96,10 +96,10 @@ item []:
             text = "w Q z"
         intervals [8]:
             xmin = 3.390000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "s 3` aU n d V d"
         intervals [9]:
-            xmin = 3.850000
+            xmin = 3.860000
             xmax = 4.030000
             text = "b aI"
         intervals [10]:
@@ -108,10 +108,10 @@ item []:
             text = "b Q R b d"
         intervals [11]:
             xmin = 4.420000
-            xmax = 4.850000
+            xmax = 4.860000
             text = "w aI 3`"
         intervals [12]:
-            xmin = 4.850000
+            xmin = 4.860000
             xmax = 5.288000
             text = ""
     item [3]:
@@ -242,10 +242,10 @@ item []:
             text = "V"
         intervals [31]:
             xmin = 3.780000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "d"
         intervals [32]:
-            xmin = 3.850000
+            xmin = 3.860000
             xmax = 3.920000
             text = "b"
         intervals [33]:
@@ -282,9 +282,9 @@ item []:
             text = "aI"
         intervals [41]:
             xmin = 4.700000
-            xmax = 4.850000
+            xmax = 4.860000
             text = "3`"
         intervals [42]:
-            xmin = 4.850000
+            xmin = 4.860000
             xmax = 5.288000
             text = "<p:>"

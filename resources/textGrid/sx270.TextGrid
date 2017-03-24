@@ -138,10 +138,10 @@ item []:
             text = "<p:>"
         intervals [11]:
             xmin = 4.460000
-            xmax = 4.560000
+            xmax = 4.570000
             text = "eI"
         intervals [12]:
-            xmin = 4.560000
+            xmin = 4.570000
             xmax = 4.640000
             text = "p"
         intervals [13]:

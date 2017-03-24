@@ -26,10 +26,10 @@ item []:
             text = "he"
         intervals [4]:
             xmin = 2.870000
-            xmax = 3.220000
+            xmax = 3.240000
             text = "remains"
         intervals [5]:
-            xmin = 3.220000
+            xmin = 3.240000
             xmax = 3.310000
             text = "the"
         intervals [6]:
@@ -68,10 +68,10 @@ item []:
             text = "h i:"
         intervals [4]:
             xmin = 2.870000
-            xmax = 3.220000
+            xmax = 3.240000
             text = "R I m eI n z"
         intervals [5]:
-            xmin = 3.220000
+            xmin = 3.240000
             xmax = 3.310000
             text = "D V"
         intervals [6]:
@@ -142,10 +142,10 @@ item []:
             text = "n"
         intervals [12]:
             xmin = 3.180000
-            xmax = 3.220000
+            xmax = 3.240000
             text = "z"
         intervals [13]:
-            xmin = 3.220000
+            xmin = 3.240000
             xmax = 3.280000
             text = "D"
         intervals [14]:
@@ -222,10 +222,10 @@ item []:
             text = "t"
         intervals [32]:
             xmin = 4.360000
-            xmax = 4.490000
+            xmax = 4.500000
             text = "3`"
         intervals [33]:
-            xmin = 4.490000
+            xmin = 4.500000
             xmax = 4.620000
             text = "z"
         intervals [34]:

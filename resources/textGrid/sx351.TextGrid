@@ -42,14 +42,14 @@ item []:
             text = "on"
         intervals [8]:
             xmin = 4.870000
-            xmax = 5.500000
+            xmax = 5.510000
             text = "refurbishing"
         intervals [9]:
-            xmin = 5.500000
-            xmax = 5.660000
+            xmin = 5.510000
+            xmax = 5.630000
             text = "their"
         intervals [10]:
-            xmin = 5.660000
+            xmin = 5.630000
             xmax = 5.960000
             text = "older"
         intervals [11]:
@@ -96,14 +96,14 @@ item []:
             text = "Q n"
         intervals [8]:
             xmin = 4.870000
-            xmax = 5.500000
+            xmax = 5.510000
             text = "R i: f 3` b I S I N"
         intervals [9]:
-            xmin = 5.500000
-            xmax = 5.660000
+            xmin = 5.510000
+            xmax = 5.630000
             text = "D E R"
         intervals [10]:
-            xmin = 5.660000
+            xmin = 5.630000
             xmax = 5.960000
             text = "@U l d 3`"
         intervals [11]:
@@ -146,10 +146,10 @@ item []:
             text = "s"
         intervals [7]:
             xmin = 3.700000
-            xmax = 3.730000
+            xmax = 3.740000
             text = "V"
         intervals [8]:
-            xmin = 3.730000
+            xmin = 3.740000
             xmax = 3.800000
             text = "b"
         intervals [9]:
@@ -254,10 +254,10 @@ item []:
             text = "I"
         intervals [34]:
             xmin = 5.410000
-            xmax = 5.500000
+            xmax = 5.510000
             text = "N"
         intervals [35]:
-            xmin = 5.500000
+            xmin = 5.510000
             xmax = 5.540000
             text = "D"
         intervals [36]:
@@ -266,10 +266,10 @@ item []:
             text = "E"
         intervals [37]:
             xmin = 5.570000
-            xmax = 5.660000
+            xmax = 5.630000
             text = "R"
         intervals [38]:
-            xmin = 5.660000
+            xmin = 5.630000
             xmax = 5.730000
             text = "@U"
         intervals [39]:

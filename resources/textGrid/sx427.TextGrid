@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 0.550000
-            xmax = 0.830000
+            xmax = 0.810000
             text = "Every"
         intervals [3]:
-            xmin = 0.830000
+            xmin = 0.810000
             xmax = 1.090000
             text = "cab"
         intervals [4]:
@@ -52,10 +52,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 0.550000
-            xmax = 0.830000
+            xmax = 0.810000
             text = "E v 3` i:"
         intervals [3]:
-            xmin = 0.830000
+            xmin = 0.810000
             xmax = 1.090000
             text = "k { b"
         intervals [4]:
@@ -98,10 +98,10 @@ item []:
             text = "3`"
         intervals [5]:
             xmin = 0.760000
-            xmax = 0.830000
+            xmax = 0.810000
             text = "i:"
         intervals [6]:
-            xmin = 0.830000
+            xmin = 0.810000
             xmax = 0.920000
             text = "k"
         intervals [7]:

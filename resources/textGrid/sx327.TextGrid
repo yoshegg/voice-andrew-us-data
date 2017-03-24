@@ -242,10 +242,10 @@ item []:
             text = "<p:>"
         intervals [25]:
             xmin = 3.170000
-            xmax = 3.200000
+            xmax = 3.210000
             text = "I"
         intervals [26]:
-            xmin = 3.200000
+            xmin = 3.210000
             xmax = 3.260000
             text = "n"
         intervals [27]:
@@ -314,14 +314,14 @@ item []:
             text = "n"
         intervals [43]:
             xmin = 4.320000
-            xmax = 4.410000
+            xmax = 4.420000
             text = "dZ"
         intervals [44]:
-            xmin = 4.410000
-            xmax = 4.440000
+            xmin = 4.420000
+            xmax = 4.450000
             text = "V"
         intervals [45]:
-            xmin = 4.440000
+            xmin = 4.450000
             xmax = 4.490000
             text = "n"
         intervals [46]:
@@ -346,10 +346,10 @@ item []:
             text = "d"
         intervals [51]:
             xmin = 4.780000
-            xmax = 4.830000
+            xmax = 4.810000
             text = "I"
         intervals [52]:
-            xmin = 4.830000
+            xmin = 4.810000
             xmax = 4.920000
             text = "p"
         intervals [53]:
@@ -358,22 +358,22 @@ item []:
             text = "Q"
         intervals [54]:
             xmin = 4.950000
-            xmax = 5.000000
+            xmax = 4.990000
             text = "R"
         intervals [55]:
-            xmin = 5.000000
-            xmax = 5.030000
+            xmin = 4.990000
+            xmax = 5.020000
             text = "t"
         intervals [56]:
-            xmin = 5.030000
-            xmax = 5.130000
+            xmin = 5.020000
+            xmax = 5.110000
             text = "m"
         intervals [57]:
-            xmin = 5.130000
-            xmax = 5.160000
+            xmin = 5.110000
+            xmax = 5.140000
             text = "V"
         intervals [58]:
-            xmin = 5.160000
+            xmin = 5.140000
             xmax = 5.260000
             text = "n"
         intervals [59]:

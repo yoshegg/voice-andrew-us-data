@@ -162,10 +162,10 @@ item []:
             text = "E"
         intervals [11]:
             xmin = 4.040000
-            xmax = 4.120000
+            xmax = 4.130000
             text = "R"
         intervals [12]:
-            xmin = 4.120000
+            xmin = 4.130000
             xmax = 4.220000
             text = "d"
         intervals [13]:
@@ -186,14 +186,14 @@ item []:
             text = "s"
         intervals [17]:
             xmin = 4.510000
-            xmax = 4.540000
+            xmax = 4.550000
             text = "n"
         intervals [18]:
-            xmin = 4.540000
-            xmax = 4.690000
+            xmin = 4.550000
+            xmax = 4.700000
             text = "{"
         intervals [19]:
-            xmin = 4.690000
+            xmin = 4.700000
             xmax = 4.760000
             text = "p"
         intervals [20]:

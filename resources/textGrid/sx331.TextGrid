@@ -22,10 +22,10 @@ item []:
             text = "The"
         intervals [3]:
             xmin = 3.840000
-            xmax = 4.080000
+            xmax = 4.110000
             text = "big"
         intervals [4]:
-            xmin = 4.080000
+            xmin = 4.110000
             xmax = 4.420000
             text = "dog"
         intervals [5]:
@@ -54,18 +54,18 @@ item []:
             text = ""
         intervals [11]:
             xmin = 5.420000
-            xmax = 5.710000
+            xmax = 5.700000
             text = "old"
         intervals [12]:
-            xmin = 5.710000
+            xmin = 5.700000
             xmax = 5.940000
             text = "rag"
         intervals [13]:
             xmin = 5.940000
-            xmax = 6.010000
+            xmax = 6.000000
             text = ""
         intervals [14]:
-            xmin = 6.010000
+            xmin = 6.000000
             xmax = 6.300000
             text = "doll"
         intervals [15]:
@@ -88,10 +88,10 @@ item []:
             text = "D V"
         intervals [3]:
             xmin = 3.840000
-            xmax = 4.080000
+            xmax = 4.110000
             text = "b I g"
         intervals [4]:
-            xmin = 4.080000
+            xmin = 4.110000
             xmax = 4.420000
             text = "d O: g"
         intervals [5]:
@@ -120,18 +120,18 @@ item []:
             text = ""
         intervals [11]:
             xmin = 5.420000
-            xmax = 5.710000
+            xmax = 5.700000
             text = "@U l d"
         intervals [12]:
-            xmin = 5.710000
+            xmin = 5.700000
             xmax = 5.940000
             text = "R { g"
         intervals [13]:
             xmin = 5.940000
-            xmax = 6.010000
+            xmax = 6.000000
             text = ""
         intervals [14]:
-            xmin = 6.010000
+            xmin = 6.000000
             xmax = 6.300000
             text = "d Q l"
         intervals [15]:
@@ -166,10 +166,10 @@ item []:
             text = "I"
         intervals [6]:
             xmin = 4.000000
-            xmax = 4.080000
+            xmax = 4.110000
             text = "g"
         intervals [7]:
-            xmin = 4.080000
+            xmin = 4.110000
             xmax = 4.160000
             text = "d"
         intervals [8]:
@@ -190,10 +190,10 @@ item []:
             text = "V"
         intervals [12]:
             xmin = 4.550000
-            xmax = 4.590000
+            xmax = 4.600000
             text = "v"
         intervals [13]:
-            xmin = 4.590000
+            xmin = 4.600000
             xmax = 4.630000
             text = "d"
         intervals [14]:
@@ -242,10 +242,10 @@ item []:
             text = "l"
         intervals [25]:
             xmin = 5.570000
-            xmax = 5.710000
+            xmax = 5.700000
             text = "d"
         intervals [26]:
-            xmin = 5.710000
+            xmin = 5.700000
             xmax = 5.790000
             text = "R"
         intervals [27]:
@@ -258,14 +258,14 @@ item []:
             text = "g"
         intervals [29]:
             xmin = 5.940000
-            xmax = 6.010000
+            xmax = 6.000000
             text = "<p:>"
         intervals [30]:
-            xmin = 6.010000
-            xmax = 6.040000
+            xmin = 6.000000
+            xmax = 6.030000
             text = "d"
         intervals [31]:
-            xmin = 6.040000
+            xmin = 6.030000
             xmax = 6.140000
             text = "Q"
         intervals [32]:

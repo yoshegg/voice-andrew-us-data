@@ -30,10 +30,10 @@ item []:
             text = "prescribe"
         intervals [5]:
             xmin = 3.170000
-            xmax = 3.570000
+            xmax = 3.560000
             text = "drugs"
         intervals [6]:
-            xmin = 3.570000
+            xmin = 3.560000
             xmax = 3.800000
             text = "too"
         intervals [7]:
@@ -68,10 +68,10 @@ item []:
             text = "p R V s k R aI b"
         intervals [5]:
             xmin = 3.170000
-            xmax = 3.570000
+            xmax = 3.560000
             text = "d R V g z"
         intervals [6]:
-            xmin = 3.570000
+            xmin = 3.560000
             xmax = 3.800000
             text = "t u:"
         intervals [7]:
@@ -170,10 +170,10 @@ item []:
             text = "g"
         intervals [21]:
             xmin = 3.450000
-            xmax = 3.570000
+            xmax = 3.560000
             text = "z"
         intervals [22]:
-            xmin = 3.570000
+            xmin = 3.560000
             xmax = 3.710000
             text = "t"
         intervals [23]:
@@ -194,10 +194,10 @@ item []:
             text = "i:"
         intervals [27]:
             xmin = 4.140000
-            xmax = 4.220000
+            xmax = 4.200000
             text = "l"
         intervals [28]:
-            xmin = 4.220000
+            xmin = 4.200000
             xmax = 4.310000
             text = "i:"
         intervals [29]:

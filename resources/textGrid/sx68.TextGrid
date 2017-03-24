@@ -30,10 +30,10 @@ item []:
             text = "status"
         intervals [5]:
             xmin = 3.010000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "to"
         intervals [6]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.690000
             text = "reflect"
         intervals [7]:
@@ -72,10 +72,10 @@ item []:
             text = "s t { t V s"
         intervals [5]:
             xmin = 3.010000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "t u:"
         intervals [6]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.690000
             text = "R V f l E k t"
         intervals [7]:
@@ -106,10 +106,10 @@ item []:
             text = "V"
         intervals [3]:
             xmin = 1.990000
-            xmax = 2.130000
+            xmax = 2.070000
             text = "p"
         intervals [4]:
-            xmin = 2.130000
+            xmin = 2.070000
             xmax = 2.160000
             text = "g"
         intervals [5]:
@@ -166,10 +166,10 @@ item []:
             text = "t"
         intervals [18]:
             xmin = 3.130000
-            xmax = 3.180000
+            xmax = 3.170000
             text = "u:"
         intervals [19]:
-            xmin = 3.180000
+            xmin = 3.170000
             xmax = 3.230000
             text = "R"
         intervals [20]:

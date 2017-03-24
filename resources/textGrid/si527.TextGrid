@@ -30,10 +30,10 @@ item []:
             text = "is"
         intervals [5]:
             xmin = 2.000000
-            xmax = 2.530000
+            xmax = 2.540000
             text = "helpful"
         intervals [6]:
-            xmin = 2.530000
+            xmin = 2.540000
             xmax = 2.780000
             text = "but"
         intervals [7]:
@@ -68,10 +68,10 @@ item []:
             text = "I z"
         intervals [5]:
             xmin = 2.000000
-            xmax = 2.530000
+            xmax = 2.540000
             text = "h E l p f V l"
         intervals [6]:
-            xmin = 2.530000
+            xmin = 2.540000
             xmax = 2.780000
             text = "b V t"
         intervals [7]:
@@ -110,10 +110,10 @@ item []:
             text = "u:"
         intervals [6]:
             xmin = 1.720000
-            xmax = 1.790000
+            xmax = 1.800000
             text = "s"
         intervals [7]:
-            xmin = 1.790000
+            xmin = 1.800000
             xmax = 1.850000
             text = "t"
         intervals [8]:
@@ -134,10 +134,10 @@ item []:
             text = "E"
         intervals [12]:
             xmin = 2.120000
-            xmax = 2.170000
+            xmax = 2.180000
             text = "l"
         intervals [13]:
-            xmin = 2.170000
+            xmin = 2.180000
             xmax = 2.260000
             text = "p"
         intervals [14]:
@@ -150,10 +150,10 @@ item []:
             text = "V"
         intervals [16]:
             xmin = 2.430000
-            xmax = 2.530000
+            xmax = 2.540000
             text = "l"
         intervals [17]:
-            xmin = 2.530000
+            xmin = 2.540000
             xmax = 2.610000
             text = "b"
         intervals [18]:
@@ -170,10 +170,10 @@ item []:
             text = "I"
         intervals [21]:
             xmin = 2.820000
-            xmax = 2.900000
+            xmax = 2.910000
             text = "n"
         intervals [22]:
-            xmin = 2.900000
+            xmin = 2.910000
             xmax = 3.050000
             text = "{"
         intervals [23]:
@@ -194,10 +194,10 @@ item []:
             text = "w"
         intervals [27]:
             xmin = 3.290000
-            xmax = 3.330000
+            xmax = 3.350000
             text = "V"
         intervals [28]:
-            xmin = 3.330000
+            xmin = 3.350000
             xmax = 3.400000
             text = "t"
         intervals [29]:

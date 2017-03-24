@@ -34,10 +34,10 @@ item []:
             text = "my"
         intervals [6]:
             xmin = 2.320000
-            xmax = 2.810000
+            xmax = 2.820000
             text = "life"
         intervals [7]:
-            xmin = 2.810000
+            xmin = 2.820000
             xmax = 3.640000
             text = ""
     item [2]:
@@ -68,10 +68,10 @@ item []:
             text = "m aI"
         intervals [6]:
             xmin = 2.320000
-            xmax = 2.810000
+            xmax = 2.820000
             text = "l aI f"
         intervals [7]:
-            xmin = 2.810000
+            xmin = 2.820000
             xmax = 3.640000
             text = ""
     item [3]:
@@ -146,9 +146,9 @@ item []:
             text = "aI"
         intervals [17]:
             xmin = 2.600000
-            xmax = 2.810000
+            xmax = 2.820000
             text = "f"
         intervals [18]:
-            xmin = 2.810000
+            xmin = 2.820000
             xmax = 3.640000
             text = "<p:>"

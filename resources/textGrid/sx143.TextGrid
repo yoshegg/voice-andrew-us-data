@@ -242,10 +242,10 @@ item []:
             text = "l"
         intervals [35]:
             xmin = 4.210000
-            xmax = 4.320000
+            xmax = 4.330000
             text = "@U"
         intervals [36]:
-            xmin = 4.320000
+            xmin = 4.330000
             xmax = 4.480000
             text = "p"
         intervals [37]:

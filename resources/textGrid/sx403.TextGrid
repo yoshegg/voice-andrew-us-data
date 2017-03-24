@@ -14,14 +14,14 @@ item []:
         intervals: size = 11
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.150000
+            xmax = 5.390000
             text = ""
         intervals [2]:
-            xmin = 3.150000
-            xmax = 3.220000
+            xmin = 5.390000
+            xmax = 5.500000
             text = "Her"
         intervals [3]:
-            xmin = 3.220000
+            xmin = 5.500000
             xmax = 9.070000
             text = ""
         intervals [4]:
@@ -64,14 +64,14 @@ item []:
         intervals: size = 11
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.150000
+            xmax = 5.390000
             text = ""
         intervals [2]:
-            xmin = 3.150000
-            xmax = 3.220000
+            xmin = 5.390000
+            xmax = 5.500000
             text = "h 3`"
         intervals [3]:
-            xmin = 3.220000
+            xmin = 5.500000
             xmax = 9.070000
             text = ""
         intervals [4]:
@@ -114,18 +114,18 @@ item []:
         intervals: size = 40
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.150000
+            xmax = 5.390000
             text = "<p:>"
         intervals [2]:
-            xmin = 3.150000
-            xmax = 3.180000
+            xmin = 5.390000
+            xmax = 5.450000
             text = "h"
         intervals [3]:
-            xmin = 3.180000
-            xmax = 3.220000
+            xmin = 5.450000
+            xmax = 5.500000
             text = "3`"
         intervals [4]:
-            xmin = 3.220000
+            xmin = 5.500000
             xmax = 9.070000
             text = "<p:>"
         intervals [5]:

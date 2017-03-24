@@ -34,10 +34,10 @@ item []:
             text = "turnpikes"
         intervals [6]:
             xmin = 3.900000
-            xmax = 4.080000
+            xmax = 4.100000
             text = ""
         intervals [7]:
-            xmin = 4.080000
+            xmin = 4.100000
             xmax = 4.280000
             text = "has"
         intervals [8]:
@@ -80,10 +80,10 @@ item []:
             text = "t 3` n p aI k s"
         intervals [6]:
             xmin = 3.900000
-            xmax = 4.080000
+            xmax = 4.100000
             text = ""
         intervals [7]:
-            xmin = 4.080000
+            xmin = 4.100000
             xmax = 4.280000
             text = "h { z"
         intervals [8]:
@@ -114,10 +114,10 @@ item []:
             text = "s"
         intervals [3]:
             xmin = 2.090000
-            xmax = 2.130000
+            xmax = 2.120000
             text = "V"
         intervals [4]:
-            xmin = 2.130000
+            xmin = 2.120000
             xmax = 2.170000
             text = "k"
         intervals [5]:
@@ -190,10 +190,10 @@ item []:
             text = "s"
         intervals [22]:
             xmin = 3.900000
-            xmax = 4.080000
+            xmax = 4.100000
             text = "<p:>"
         intervals [23]:
-            xmin = 4.080000
+            xmin = 4.100000
             xmax = 4.140000
             text = "h"
         intervals [24]:

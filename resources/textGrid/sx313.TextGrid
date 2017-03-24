@@ -22,10 +22,10 @@ item []:
             text = "Drop"
         intervals [3]:
             xmin = 10.410000
-            xmax = 10.770000
+            xmax = 10.780000
             text = "five"
         intervals [4]:
-            xmin = 10.770000
+            xmin = 10.780000
             xmax = 11.250000
             text = "forms"
         intervals [5]:
@@ -54,10 +54,10 @@ item []:
             text = "go"
         intervals [11]:
             xmin = 12.690000
-            xmax = 12.860000
+            xmax = 12.870000
             text = "out"
         intervals [12]:
-            xmin = 12.860000
+            xmin = 12.870000
             xmax = 13.624000
             text = ""
     item [2]:
@@ -76,10 +76,10 @@ item []:
             text = "d R Q p"
         intervals [3]:
             xmin = 10.410000
-            xmax = 10.770000
+            xmax = 10.780000
             text = "f aI v"
         intervals [4]:
-            xmin = 10.770000
+            xmin = 10.780000
             xmax = 11.250000
             text = "f O: R m z"
         intervals [5]:
@@ -108,10 +108,10 @@ item []:
             text = "g @U"
         intervals [11]:
             xmin = 12.690000
-            xmax = 12.860000
+            xmax = 12.870000
             text = "aU t"
         intervals [12]:
-            xmin = 12.860000
+            xmin = 12.870000
             xmax = 13.624000
             text = ""
     item [3]:
@@ -150,22 +150,22 @@ item []:
             text = "aI"
         intervals [8]:
             xmin = 10.690000
-            xmax = 10.770000
+            xmax = 10.780000
             text = "v"
         intervals [9]:
-            xmin = 10.770000
+            xmin = 10.780000
             xmax = 10.900000
             text = "f"
         intervals [10]:
             xmin = 10.900000
-            xmax = 11.040000
+            xmax = 11.050000
             text = "O:"
         intervals [11]:
-            xmin = 11.040000
-            xmax = 11.070000
+            xmin = 11.050000
+            xmax = 11.080000
             text = "R"
         intervals [12]:
-            xmin = 11.070000
+            xmin = 11.080000
             xmax = 11.170000
             text = "m"
         intervals [13]:
@@ -246,9 +246,9 @@ item []:
             text = "aU"
         intervals [32]:
             xmin = 12.830000
-            xmax = 12.860000
+            xmax = 12.870000
             text = "t"
         intervals [33]:
-            xmin = 12.860000
+            xmin = 12.870000
             xmax = 13.624000
             text = "<p:>"

@@ -142,10 +142,10 @@ item []:
             text = "g"
         intervals [8]:
             xmin = 4.720000
-            xmax = 4.800000
+            xmax = 4.780000
             text = "Q"
         intervals [9]:
-            xmin = 4.800000
+            xmin = 4.780000
             xmax = 4.870000
             text = "R"
         intervals [10]:

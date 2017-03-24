@@ -30,14 +30,14 @@ item []:
             text = "will"
         intervals [5]:
             xmin = 3.390000
-            xmax = 3.930000
+            xmax = 3.940000
             text = "uncover"
         intervals [6]:
-            xmin = 3.930000
-            xmax = 4.080000
+            xmin = 3.940000
+            xmax = 4.060000
             text = "it"
         intervals [7]:
-            xmin = 4.080000
+            xmin = 4.060000
             xmax = 4.664000
             text = ""
     item [2]:
@@ -64,14 +64,14 @@ item []:
             text = "w I l"
         intervals [5]:
             xmin = 3.390000
-            xmax = 3.930000
+            xmax = 3.940000
             text = "V n k V v 3`"
         intervals [6]:
-            xmin = 3.930000
-            xmax = 4.080000
+            xmin = 3.940000
+            xmax = 4.060000
             text = "I t"
         intervals [7]:
-            xmin = 4.080000
+            xmin = 4.060000
             xmax = 4.664000
             text = ""
     item [3]:
@@ -170,17 +170,17 @@ item []:
             text = "v"
         intervals [23]:
             xmin = 3.770000
-            xmax = 3.930000
+            xmax = 3.940000
             text = "3`"
         intervals [24]:
-            xmin = 3.930000
-            xmax = 4.040000
+            xmin = 3.940000
+            xmax = 4.020000
             text = "I"
         intervals [25]:
-            xmin = 4.040000
-            xmax = 4.080000
+            xmin = 4.020000
+            xmax = 4.060000
             text = "t"
         intervals [26]:
-            xmin = 4.080000
+            xmin = 4.060000
             xmax = 4.664000
             text = "<p:>"

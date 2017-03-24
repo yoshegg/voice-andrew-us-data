@@ -42,14 +42,14 @@ item []:
             text = "I"
         intervals [8]:
             xmin = 4.850000
-            xmax = 5.210000
+            xmax = 5.140000
             text = "add"
         intervals [9]:
-            xmin = 5.210000
-            xmax = 5.290000
+            xmin = 5.140000
+            xmax = 5.230000
             text = "the"
         intervals [10]:
-            xmin = 5.290000
+            xmin = 5.230000
             xmax = 5.610000
             text = "oil"
         intervals [11]:
@@ -92,14 +92,14 @@ item []:
             text = "aI"
         intervals [8]:
             xmin = 4.850000
-            xmax = 5.210000
+            xmax = 5.140000
             text = "{ d"
         intervals [9]:
-            xmin = 5.210000
-            xmax = 5.290000
+            xmin = 5.140000
+            xmax = 5.230000
             text = "D V"
         intervals [10]:
-            xmin = 5.290000
+            xmin = 5.230000
             xmax = 5.610000
             text = "OI l"
         intervals [11]:
@@ -190,18 +190,18 @@ item []:
             text = "{"
         intervals [20]:
             xmin = 5.060000
-            xmax = 5.210000
+            xmax = 5.140000
             text = "d"
         intervals [21]:
-            xmin = 5.210000
-            xmax = 5.260000
+            xmin = 5.140000
+            xmax = 5.190000
             text = "D"
         intervals [22]:
-            xmin = 5.260000
-            xmax = 5.290000
+            xmin = 5.190000
+            xmax = 5.230000
             text = "V"
         intervals [23]:
-            xmin = 5.290000
+            xmin = 5.230000
             xmax = 5.510000
             text = "OI"
         intervals [24]:

@@ -30,10 +30,10 @@ item []:
             text = "is"
         intervals [5]:
             xmin = 3.480000
-            xmax = 4.160000
+            xmax = 4.150000
             text = "exquisite"
         intervals [6]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.776000
             text = ""
     item [2]:
@@ -60,10 +60,10 @@ item []:
             text = "I z"
         intervals [5]:
             xmin = 3.480000
-            xmax = 4.160000
+            xmax = 4.150000
             text = "E k s k w V z V t"
         intervals [6]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.776000
             text = ""
     item [3]:
@@ -178,9 +178,9 @@ item []:
             text = "V"
         intervals [27]:
             xmin = 4.090000
-            xmax = 4.160000
+            xmax = 4.150000
             text = "t"
         intervals [28]:
-            xmin = 4.160000
+            xmin = 4.150000
             xmax = 4.776000
             text = "<p:>"

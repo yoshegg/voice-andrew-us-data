@@ -22,10 +22,10 @@ item []:
             text = "Often"
         intervals [3]:
             xmin = 2.430000
-            xmax = 2.580000
+            xmax = 2.570000
             text = "you'll"
         intervals [4]:
-            xmin = 2.580000
+            xmin = 2.570000
             xmax = 2.750000
             text = "get"
         intervals [5]:
@@ -72,10 +72,10 @@ item []:
             text = "O: f V n"
         intervals [3]:
             xmin = 2.430000
-            xmax = 2.580000
+            xmax = 2.570000
             text = "j u: l"
         intervals [4]:
-            xmin = 2.580000
+            xmin = 2.570000
             xmax = 2.750000
             text = "g E t"
         intervals [5]:
@@ -138,14 +138,14 @@ item []:
             text = "j"
         intervals [7]:
             xmin = 2.490000
-            xmax = 2.550000
+            xmax = 2.540000
             text = "u:"
         intervals [8]:
-            xmin = 2.550000
-            xmax = 2.580000
+            xmin = 2.540000
+            xmax = 2.570000
             text = "l"
         intervals [9]:
-            xmin = 2.580000
+            xmin = 2.570000
             xmax = 2.650000
             text = "g"
         intervals [10]:
@@ -158,10 +158,10 @@ item []:
             text = "t"
         intervals [12]:
             xmin = 2.750000
-            xmax = 2.790000
+            xmax = 2.780000
             text = "b"
         intervals [13]:
-            xmin = 2.790000
+            xmin = 2.780000
             xmax = 2.900000
             text = "{"
         intervals [14]:

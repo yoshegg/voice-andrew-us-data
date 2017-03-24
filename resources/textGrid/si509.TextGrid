@@ -38,10 +38,10 @@ item []:
             text = "advance"
         intervals [7]:
             xmin = 6.010000
-            xmax = 6.110000
+            xmax = 6.100000
             text = ""
         intervals [8]:
-            xmin = 6.110000
+            xmin = 6.100000
             xmax = 6.220000
             text = "but"
         intervals [9]:
@@ -104,10 +104,10 @@ item []:
             text = "V d v { n s"
         intervals [7]:
             xmin = 6.010000
-            xmax = 6.110000
+            xmax = 6.100000
             text = ""
         intervals [8]:
-            xmin = 6.110000
+            xmin = 6.100000
             xmax = 6.220000
             text = "b V t"
         intervals [9]:
@@ -242,10 +242,10 @@ item []:
             text = "s"
         intervals [25]:
             xmin = 6.010000
-            xmax = 6.110000
+            xmax = 6.100000
             text = "<p:>"
         intervals [26]:
-            xmin = 6.110000
+            xmin = 6.100000
             xmax = 6.140000
             text = "b"
         intervals [27]:

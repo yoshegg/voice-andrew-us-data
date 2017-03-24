@@ -14,18 +14,18 @@ item []:
         intervals: size = 13
         intervals [1]:
             xmin = 0.000000
-            xmax = 0.490000
+            xmax = 0.510000
             text = ""
         intervals [2]:
-            xmin = 0.490000
+            xmin = 0.510000
             xmax = 0.570000
             text = "The"
         intervals [3]:
             xmin = 0.570000
-            xmax = 1.140000
+            xmax = 1.150000
             text = "gunman"
         intervals [4]:
-            xmin = 1.140000
+            xmin = 1.150000
             xmax = 1.380000
             text = "kept"
         intervals [5]:
@@ -72,18 +72,18 @@ item []:
         intervals: size = 13
         intervals [1]:
             xmin = 0.000000
-            xmax = 0.490000
+            xmax = 0.510000
             text = ""
         intervals [2]:
-            xmin = 0.490000
+            xmin = 0.510000
             xmax = 0.570000
             text = "D V"
         intervals [3]:
             xmin = 0.570000
-            xmax = 1.140000
+            xmax = 1.150000
             text = "g V n m V n"
         intervals [4]:
-            xmin = 1.140000
+            xmin = 1.150000
             xmax = 1.380000
             text = "k E p t"
         intervals [5]:
@@ -130,10 +130,10 @@ item []:
         intervals: size = 47
         intervals [1]:
             xmin = 0.000000
-            xmax = 0.490000
+            xmax = 0.510000
             text = "<p:>"
         intervals [2]:
-            xmin = 0.490000
+            xmin = 0.510000
             xmax = 0.540000
             text = "D"
         intervals [3]:
@@ -162,10 +162,10 @@ item []:
             text = "V"
         intervals [9]:
             xmin = 1.030000
-            xmax = 1.140000
+            xmax = 1.150000
             text = "n"
         intervals [10]:
-            xmin = 1.140000
+            xmin = 1.150000
             xmax = 1.210000
             text = "k"
         intervals [11]:
@@ -202,10 +202,10 @@ item []:
             text = "I"
         intervals [19]:
             xmin = 1.650000
-            xmax = 1.730000
+            xmax = 1.710000
             text = "k"
         intervals [20]:
-            xmin = 1.730000
+            xmin = 1.710000
             xmax = 1.770000
             text = "t"
         intervals [21]:

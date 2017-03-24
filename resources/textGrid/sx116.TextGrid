@@ -38,10 +38,10 @@ item []:
             text = "in"
         intervals [7]:
             xmin = 3.120000
-            xmax = 3.280000
+            xmax = 3.250000
             text = "your"
         intervals [8]:
-            xmin = 3.280000
+            xmin = 3.250000
             xmax = 3.540000
             text = "left"
         intervals [9]:
@@ -84,10 +84,10 @@ item []:
             text = "I n"
         intervals [7]:
             xmin = 3.120000
-            xmax = 3.280000
+            xmax = 3.250000
             text = "j O: R"
         intervals [8]:
-            xmin = 3.280000
+            xmin = 3.250000
             xmax = 3.540000
             text = "l E f t"
         intervals [9]:
@@ -166,18 +166,18 @@ item []:
             text = "n"
         intervals [16]:
             xmin = 3.120000
-            xmax = 3.200000
+            xmax = 3.180000
             text = "j"
         intervals [17]:
-            xmin = 3.200000
-            xmax = 3.250000
+            xmin = 3.180000
+            xmax = 3.220000
             text = "O:"
         intervals [18]:
-            xmin = 3.250000
-            xmax = 3.280000
+            xmin = 3.220000
+            xmax = 3.250000
             text = "R"
         intervals [19]:
-            xmin = 3.280000
+            xmin = 3.250000
             xmax = 3.340000
             text = "l"
         intervals [20]:
@@ -186,10 +186,10 @@ item []:
             text = "E"
         intervals [21]:
             xmin = 3.390000
-            xmax = 3.470000
+            xmax = 3.480000
             text = "f"
         intervals [22]:
-            xmin = 3.470000
+            xmin = 3.480000
             xmax = 3.540000
             text = "t"
         intervals [23]:

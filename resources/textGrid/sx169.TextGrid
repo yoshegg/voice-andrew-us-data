@@ -250,10 +250,10 @@ item []:
             text = "S"
         intervals [37]:
             xmin = 5.330000
-            xmax = 5.370000
+            xmax = 5.360000
             text = "V"
         intervals [38]:
-            xmin = 5.370000
+            xmin = 5.360000
             xmax = 5.400000
             text = "n"
         intervals [39]:

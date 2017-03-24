@@ -94,10 +94,10 @@ item []:
             text = "O:"
         intervals [4]:
             xmin = 2.000000
-            xmax = 2.040000
+            xmax = 2.050000
             text = "R"
         intervals [5]:
-            xmin = 2.040000
+            xmin = 2.050000
             xmax = 2.120000
             text = "dZ"
         intervals [6]:

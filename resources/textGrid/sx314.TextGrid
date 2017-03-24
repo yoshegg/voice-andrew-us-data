@@ -42,10 +42,10 @@ item []:
             text = "generous"
         intervals [8]:
             xmin = 4.230000
-            xmax = 4.370000
+            xmax = 4.380000
             text = "there"
         intervals [9]:
-            xmin = 4.370000
+            xmin = 4.380000
             xmax = 4.490000
             text = "would"
         intervals [10]:
@@ -108,10 +108,10 @@ item []:
             text = "dZ E n 3` V s"
         intervals [8]:
             xmin = 4.230000
-            xmax = 4.370000
+            xmax = 4.380000
             text = "D E R"
         intervals [9]:
-            xmin = 4.370000
+            xmin = 4.380000
             xmax = 4.490000
             text = "w U d"
         intervals [10]:
@@ -166,10 +166,10 @@ item []:
             text = "p"
         intervals [6]:
             xmin = 3.100000
-            xmax = 3.170000
+            xmax = 3.150000
             text = "i:"
         intervals [7]:
-            xmin = 3.170000
+            xmin = 3.150000
             xmax = 3.250000
             text = "p"
         intervals [8]:
@@ -238,14 +238,14 @@ item []:
             text = "E"
         intervals [24]:
             xmin = 4.340000
-            xmax = 4.370000
+            xmax = 4.380000
             text = "R"
         intervals [25]:
-            xmin = 4.370000
-            xmax = 4.400000
+            xmin = 4.380000
+            xmax = 4.410000
             text = "w"
         intervals [26]:
-            xmin = 4.400000
+            xmin = 4.410000
             xmax = 4.450000
             text = "U"
         intervals [27]:
@@ -306,10 +306,10 @@ item []:
             text = "l"
         intervals [41]:
             xmin = 5.450000
-            xmax = 5.590000
+            xmax = 5.580000
             text = "f"
         intervals [42]:
-            xmin = 5.590000
+            xmin = 5.580000
             xmax = 5.660000
             text = "E"
         intervals [43]:

@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.720000
-            xmax = 2.135000
+            xmax = 2.140000
             text = "Coconut"
         intervals [3]:
-            xmin = 2.135000
+            xmin = 2.140000
             xmax = 2.430000
             text = "cream"
         intervals [4]:
@@ -38,14 +38,14 @@ item []:
             text = "a"
         intervals [7]:
             xmin = 3.040000
-            xmax = 3.350000
+            xmax = 3.360000
             text = "nice"
         intervals [8]:
-            xmin = 3.350000
-            xmax = 3.810000
+            xmin = 3.360000
+            xmax = 3.800000
             text = "dessert"
         intervals [9]:
-            xmin = 3.810000
+            xmin = 3.800000
             xmax = 4.504000
             text = ""
     item [2]:
@@ -60,10 +60,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 1.720000
-            xmax = 2.135000
+            xmax = 2.140000
             text = "k @U k V n V t"
         intervals [3]:
-            xmin = 2.135000
+            xmin = 2.140000
             xmax = 2.430000
             text = "k R i: m"
         intervals [4]:
@@ -80,14 +80,14 @@ item []:
             text = "V"
         intervals [7]:
             xmin = 3.040000
-            xmax = 3.350000
+            xmax = 3.360000
             text = "n aI s"
         intervals [8]:
-            xmin = 3.350000
-            xmax = 3.810000
+            xmin = 3.360000
+            xmax = 3.800000
             text = "d I z 3` t"
         intervals [9]:
-            xmin = 3.810000
+            xmin = 3.800000
             xmax = 4.504000
             text = ""
     item [3]:
@@ -126,10 +126,10 @@ item []:
             text = "V"
         intervals [8]:
             xmin = 2.070000
-            xmax = 2.135000
+            xmax = 2.140000
             text = "t"
         intervals [9]:
-            xmin = 2.135000
+            xmin = 2.140000
             xmax = 2.220000
             text = "k"
         intervals [10]:
@@ -182,10 +182,10 @@ item []:
             text = "aI"
         intervals [22]:
             xmin = 3.240000
-            xmax = 3.350000
+            xmax = 3.360000
             text = "s"
         intervals [23]:
-            xmin = 3.350000
+            xmin = 3.360000
             xmax = 3.430000
             text = "d"
         intervals [24]:
@@ -202,9 +202,9 @@ item []:
             text = "3`"
         intervals [27]:
             xmin = 3.760000
-            xmax = 3.810000
+            xmax = 3.800000
             text = "t"
         intervals [28]:
-            xmin = 3.810000
+            xmin = 3.800000
             xmax = 4.504000
             text = "<p:>"

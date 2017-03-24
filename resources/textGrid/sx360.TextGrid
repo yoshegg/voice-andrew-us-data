@@ -11,7 +11,7 @@ item []:
         name = "ORT"
         xmin = 0
         xmax = 5.368000
-        intervals: size = 10
+        intervals: size = 11
         intervals [1]:
             xmin = 0.000000
             xmax = 2.220000
@@ -34,21 +34,25 @@ item []:
             text = "will"
         intervals [6]:
             xmin = 3.360000
-            xmax = 3.900000
+            xmax = 3.850000
             text = "damage"
         intervals [7]:
-            xmin = 3.900000
+            xmin = 3.850000
+            xmax = 3.910000
+            text = ""
+        intervals [8]:
+            xmin = 3.910000
             xmax = 4.140000
             text = "this"
-        intervals [8]:
+        intervals [9]:
             xmin = 4.140000
             xmax = 4.460000
             text = "ship's"
-        intervals [9]:
+        intervals [10]:
             xmin = 4.460000
             xmax = 4.780000
             text = "hull"
-        intervals [10]:
+        intervals [11]:
             xmin = 4.780000
             xmax = 5.368000
             text = ""
@@ -57,7 +61,7 @@ item []:
         name = "KAN"
         xmin = 0
         xmax = 5.368000
-        intervals: size = 10
+        intervals: size = 11
         intervals [1]:
             xmin = 0.000000
             xmax = 2.220000
@@ -80,21 +84,25 @@ item []:
             text = "w I l"
         intervals [6]:
             xmin = 3.360000
-            xmax = 3.900000
+            xmax = 3.850000
             text = "d { m V dZ"
         intervals [7]:
-            xmin = 3.900000
+            xmin = 3.850000
+            xmax = 3.910000
+            text = ""
+        intervals [8]:
+            xmin = 3.910000
             xmax = 4.140000
             text = "D I s"
-        intervals [8]:
+        intervals [9]:
             xmin = 4.140000
             xmax = 4.460000
             text = "S I p s"
-        intervals [9]:
+        intervals [10]:
             xmin = 4.460000
             xmax = 4.780000
             text = "h V l"
-        intervals [10]:
+        intervals [11]:
             xmin = 4.780000
             xmax = 5.368000
             text = ""
@@ -103,7 +111,7 @@ item []:
         name = "MAU"
         xmin = 0
         xmax = 5.368000
-        intervals: size = 30
+        intervals: size = 31
         intervals [1]:
             xmin = 0.000000
             xmax = 2.220000
@@ -178,49 +186,53 @@ item []:
             text = "V"
         intervals [19]:
             xmin = 3.700000
-            xmax = 3.900000
+            xmax = 3.850000
             text = "dZ"
         intervals [20]:
-            xmin = 3.900000
+            xmin = 3.850000
+            xmax = 3.910000
+            text = "<p:>"
+        intervals [21]:
+            xmin = 3.910000
             xmax = 3.950000
             text = "D"
-        intervals [21]:
+        intervals [22]:
             xmin = 3.950000
             xmax = 4.000000
             text = "I"
-        intervals [22]:
+        intervals [23]:
             xmin = 4.000000
             xmax = 4.140000
             text = "s"
-        intervals [23]:
+        intervals [24]:
             xmin = 4.140000
             xmax = 4.260000
             text = "S"
-        intervals [24]:
+        intervals [25]:
             xmin = 4.260000
             xmax = 4.320000
             text = "I"
-        intervals [25]:
+        intervals [26]:
             xmin = 4.320000
             xmax = 4.350000
             text = "p"
-        intervals [26]:
+        intervals [27]:
             xmin = 4.350000
             xmax = 4.460000
             text = "s"
-        intervals [27]:
+        intervals [28]:
             xmin = 4.460000
             xmax = 4.530000
             text = "h"
-        intervals [28]:
+        intervals [29]:
             xmin = 4.530000
             xmax = 4.560000
             text = "V"
-        intervals [29]:
+        intervals [30]:
             xmin = 4.560000
             xmax = 4.780000
             text = "l"
-        intervals [30]:
+        intervals [31]:
             xmin = 4.780000
             xmax = 5.368000
             text = "<p:>"

@@ -34,10 +34,10 @@ item []:
             text = "their"
         intervals [6]:
             xmin = 8.080000
-            xmax = 8.180000
+            xmax = 8.160000
             text = ""
         intervals [7]:
-            xmin = 8.180000
+            xmin = 8.160000
             xmax = 8.435000
             text = "cash"
         intervals [8]:
@@ -92,10 +92,10 @@ item []:
             text = "D E R"
         intervals [6]:
             xmin = 8.080000
-            xmax = 8.180000
+            xmax = 8.160000
             text = ""
         intervals [7]:
-            xmin = 8.180000
+            xmin = 8.160000
             xmax = 8.435000
             text = "k { S"
         intervals [8]:
@@ -170,10 +170,10 @@ item []:
             text = "V"
         intervals [11]:
             xmin = 7.510000
-            xmax = 7.650000
+            xmax = 7.660000
             text = "l"
         intervals [12]:
-            xmin = 7.650000
+            xmin = 7.660000
             xmax = 7.700000
             text = "b"
         intervals [13]:
@@ -206,10 +206,10 @@ item []:
             text = "R"
         intervals [20]:
             xmin = 8.080000
-            xmax = 8.180000
+            xmax = 8.160000
             text = "<p:>"
         intervals [21]:
-            xmin = 8.180000
+            xmin = 8.160000
             xmax = 8.240000
             text = "k"
         intervals [22]:

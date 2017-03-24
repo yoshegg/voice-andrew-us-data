@@ -42,10 +42,10 @@ item []:
             text = "you"
         intervals [8]:
             xmin = 3.630000
-            xmax = 3.780000
+            xmax = 3.790000
             text = "into"
         intervals [9]:
-            xmin = 3.780000
+            xmin = 3.790000
             xmax = 4.260000
             text = "trouble"
         intervals [10]:
@@ -88,10 +88,10 @@ item []:
             text = "j u:"
         intervals [8]:
             xmin = 3.630000
-            xmax = 3.780000
+            xmax = 3.790000
             text = "I n t u:"
         intervals [9]:
-            xmin = 3.780000
+            xmin = 3.790000
             xmax = 4.260000
             text = "t R V b V l"
         intervals [10]:
@@ -170,14 +170,14 @@ item []:
             text = "i:"
         intervals [17]:
             xmin = 3.130000
-            xmax = 3.230000
+            xmax = 3.220000
             text = "k"
         intervals [18]:
-            xmin = 3.230000
-            xmax = 3.260000
+            xmin = 3.220000
+            xmax = 3.250000
             text = "{"
         intervals [19]:
-            xmin = 3.260000
+            xmin = 3.250000
             xmax = 3.310000
             text = "n"
         intervals [20]:
@@ -202,22 +202,22 @@ item []:
             text = "u:"
         intervals [25]:
             xmin = 3.630000
-            xmax = 3.660000
+            xmax = 3.670000
             text = "I"
         intervals [26]:
-            xmin = 3.660000
-            xmax = 3.710000
+            xmin = 3.670000
+            xmax = 3.720000
             text = "n"
         intervals [27]:
-            xmin = 3.710000
-            xmax = 3.740000
+            xmin = 3.720000
+            xmax = 3.750000
             text = "t"
         intervals [28]:
-            xmin = 3.740000
-            xmax = 3.780000
+            xmin = 3.750000
+            xmax = 3.790000
             text = "u:"
         intervals [29]:
-            xmin = 3.780000
+            xmin = 3.790000
             xmax = 3.920000
             text = "t"
         intervals [30]:

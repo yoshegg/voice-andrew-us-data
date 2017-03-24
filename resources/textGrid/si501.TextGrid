@@ -54,10 +54,10 @@ item []:
             text = "as"
         intervals [11]:
             xmin = 6.070000
-            xmax = 6.160000
+            xmax = 6.170000
             text = "an"
         intervals [12]:
-            xmin = 6.160000
+            xmin = 6.170000
             xmax = 6.230000
             text = ""
         intervals [13]:
@@ -90,10 +90,10 @@ item []:
             text = ""
         intervals [20]:
             xmin = 7.940000
-            xmax = 8.290000
+            xmax = 8.230000
             text = "film"
         intervals [21]:
-            xmin = 8.290000
+            xmin = 8.230000
             xmax = 11.929312
             text = ""
     item [2]:
@@ -144,10 +144,10 @@ item []:
             text = "{ z"
         intervals [11]:
             xmin = 6.070000
-            xmax = 6.160000
+            xmax = 6.170000
             text = "{ n"
         intervals [12]:
-            xmin = 6.160000
+            xmin = 6.170000
             xmax = 6.230000
             text = ""
         intervals [13]:
@@ -180,10 +180,10 @@ item []:
             text = ""
         intervals [20]:
             xmin = 7.940000
-            xmax = 8.290000
+            xmax = 8.230000
             text = "f I l m"
         intervals [21]:
-            xmin = 8.290000
+            xmin = 8.230000
             xmax = 11.929312
             text = ""
     item [3]:
@@ -282,10 +282,10 @@ item []:
             text = "R"
         intervals [23]:
             xmin = 5.270000
-            xmax = 5.300000
+            xmax = 5.310000
             text = "V"
         intervals [24]:
-            xmin = 5.300000
+            xmin = 5.310000
             xmax = 5.370000
             text = "m"
         intervals [25]:
@@ -302,10 +302,10 @@ item []:
             text = "s"
         intervals [28]:
             xmin = 5.520000
-            xmax = 5.620000
+            xmax = 5.630000
             text = "m"
         intervals [29]:
-            xmin = 5.620000
+            xmin = 5.630000
             xmax = 5.720000
             text = "E"
         intervals [30]:
@@ -314,10 +314,10 @@ item []:
             text = "R"
         intervals [31]:
             xmin = 5.800000
-            xmax = 5.830000
+            xmax = 5.840000
             text = "V"
         intervals [32]:
-            xmin = 5.830000
+            xmin = 5.840000
             xmax = 5.890000
             text = "t"
         intervals [33]:
@@ -338,10 +338,10 @@ item []:
             text = "{"
         intervals [37]:
             xmin = 6.100000
-            xmax = 6.160000
+            xmax = 6.170000
             text = "n"
         intervals [38]:
-            xmin = 6.160000
+            xmin = 6.170000
             xmax = 6.230000
             text = "<p:>"
         intervals [39]:
@@ -442,9 +442,9 @@ item []:
             text = "l"
         intervals [63]:
             xmin = 8.200000
-            xmax = 8.290000
+            xmax = 8.230000
             text = "m"
         intervals [64]:
-            xmin = 8.290000
+            xmin = 8.230000
             xmax = 11.929312
             text = "<p:>"

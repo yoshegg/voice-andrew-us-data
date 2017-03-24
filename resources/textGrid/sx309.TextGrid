@@ -26,10 +26,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 2.640000
-            xmax = 3.080000
+            xmax = 3.070000
             text = "proof"
         intervals [5]:
-            xmin = 3.080000
+            xmin = 3.070000
             xmax = 3.200000
             text = "that"
         intervals [6]:
@@ -58,10 +58,10 @@ item []:
             text = "available"
         intervals [12]:
             xmin = 4.710000
-            xmax = 4.830000
+            xmax = 4.840000
             text = "in"
         intervals [13]:
-            xmin = 4.830000
+            xmin = 4.840000
             xmax = 5.390000
             text = "books"
         intervals [14]:
@@ -88,10 +88,10 @@ item []:
             text = ""
         intervals [4]:
             xmin = 2.640000
-            xmax = 3.080000
+            xmax = 3.070000
             text = "p R u: f"
         intervals [5]:
-            xmin = 3.080000
+            xmin = 3.070000
             xmax = 3.200000
             text = "D { t"
         intervals [6]:
@@ -120,10 +120,10 @@ item []:
             text = "V v eI l V b V l"
         intervals [12]:
             xmin = 4.710000
-            xmax = 4.830000
+            xmax = 4.840000
             text = "I n"
         intervals [13]:
-            xmin = 4.830000
+            xmin = 4.840000
             xmax = 5.390000
             text = "b U k s"
         intervals [14]:
@@ -166,10 +166,10 @@ item []:
             text = "u:"
         intervals [8]:
             xmin = 2.970000
-            xmax = 3.080000
+            xmax = 3.070000
             text = "f"
         intervals [9]:
-            xmin = 3.080000
+            xmin = 3.070000
             xmax = 3.120000
             text = "D"
         intervals [10]:
@@ -274,10 +274,10 @@ item []:
             text = "I"
         intervals [35]:
             xmin = 4.740000
-            xmax = 4.830000
+            xmax = 4.840000
             text = "n"
         intervals [36]:
-            xmin = 4.830000
+            xmin = 4.840000
             xmax = 4.900000
             text = "b"
         intervals [37]:

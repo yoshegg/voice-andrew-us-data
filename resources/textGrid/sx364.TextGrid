@@ -34,10 +34,10 @@ item []:
             text = "income"
         intervals [6]:
             xmin = 7.140000
-            xmax = 7.470000
+            xmax = 7.480000
             text = "loss"
         intervals [7]:
-            xmin = 7.470000
+            xmin = 7.480000
             xmax = 8.070000
             text = "coincided"
         intervals [8]:
@@ -104,10 +104,10 @@ item []:
             text = "I n k V m"
         intervals [6]:
             xmin = 7.140000
-            xmax = 7.470000
+            xmax = 7.480000
             text = "l O: s"
         intervals [7]:
-            xmin = 7.470000
+            xmin = 7.480000
             xmax = 8.070000
             text = "k @U V n s aI d V d"
         intervals [8]:
@@ -226,10 +226,10 @@ item []:
             text = "O:"
         intervals [19]:
             xmin = 7.370000
-            xmax = 7.470000
+            xmax = 7.480000
             text = "s"
         intervals [20]:
-            xmin = 7.470000
+            xmin = 7.480000
             xmax = 7.580000
             text = "k"
         intervals [21]:
@@ -374,10 +374,10 @@ item []:
             text = "p"
         intervals [56]:
             xmin = 9.870000
-            xmax = 9.940000
+            xmax = 9.920000
             text = "Q"
         intervals [57]:
-            xmin = 9.940000
+            xmin = 9.920000
             xmax = 10.060000
             text = "R"
         intervals [58]:

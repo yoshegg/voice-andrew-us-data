@@ -22,10 +22,10 @@ item []:
             text = "We"
         intervals [3]:
             xmin = 5.810000
-            xmax = 5.970000
+            xmax = 6.000000
             text = "could"
         intervals [4]:
-            xmin = 5.970000
+            xmin = 6.000000
             xmax = 6.370000
             text = "barely"
         intervals [5]:
@@ -76,10 +76,10 @@ item []:
             text = "w i:"
         intervals [3]:
             xmin = 5.810000
-            xmax = 5.970000
+            xmax = 6.000000
             text = "k U d"
         intervals [4]:
-            xmin = 5.970000
+            xmin = 6.000000
             xmax = 6.370000
             text = "b E R l i:"
         intervals [5]:
@@ -142,18 +142,18 @@ item []:
             text = "U"
         intervals [6]:
             xmin = 5.930000
-            xmax = 5.970000
+            xmax = 6.000000
             text = "d"
         intervals [7]:
-            xmin = 5.970000
+            xmin = 6.000000
             xmax = 6.060000
             text = "b"
         intervals [8]:
             xmin = 6.060000
-            xmax = 6.140000
+            xmax = 6.120000
             text = "E"
         intervals [9]:
-            xmin = 6.140000
+            xmin = 6.120000
             xmax = 6.180000
             text = "R"
         intervals [10]:

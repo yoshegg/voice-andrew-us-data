@@ -38,10 +38,10 @@ item []:
             text = "will"
         intervals [7]:
             xmin = 3.190000
-            xmax = 3.250000
+            xmax = 3.240000
             text = ""
         intervals [8]:
-            xmin = 3.250000
+            xmin = 3.240000
             xmax = 3.540000
             text = "ever"
         intervals [9]:
@@ -88,10 +88,10 @@ item []:
             text = "w I l"
         intervals [7]:
             xmin = 3.190000
-            xmax = 3.250000
+            xmax = 3.240000
             text = ""
         intervals [8]:
-            xmin = 3.250000
+            xmin = 3.240000
             xmax = 3.540000
             text = "E v 3`"
         intervals [9]:
@@ -182,10 +182,10 @@ item []:
             text = "l"
         intervals [18]:
             xmin = 3.190000
-            xmax = 3.250000
+            xmax = 3.240000
             text = "<p:>"
         intervals [19]:
-            xmin = 3.250000
+            xmin = 3.240000
             xmax = 3.310000
             text = "E"
         intervals [20]:

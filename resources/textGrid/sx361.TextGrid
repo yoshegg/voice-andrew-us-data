@@ -26,14 +26,14 @@ item []:
             text = "speech"
         intervals [4]:
             xmin = 3.240000
-            xmax = 3.870000
+            xmax = 3.880000
             text = "symposium"
         intervals [5]:
-            xmin = 3.870000
-            xmax = 4.185000
+            xmin = 3.880000
+            xmax = 4.190000
             text = "might"
         intervals [6]:
-            xmin = 4.185000
+            xmin = 4.190000
             xmax = 4.490000
             text = "begin"
         intervals [7]:
@@ -64,14 +64,14 @@ item []:
             text = "s p i: tS"
         intervals [4]:
             xmin = 3.240000
-            xmax = 3.870000
+            xmax = 3.880000
             text = "s I m p @U z i: V m"
         intervals [5]:
-            xmin = 3.870000
-            xmax = 4.185000
+            xmin = 3.880000
+            xmax = 4.190000
             text = "m aI t"
         intervals [6]:
-            xmin = 4.185000
+            xmin = 4.190000
             xmax = 4.490000
             text = "b I g I n"
         intervals [7]:
@@ -150,10 +150,10 @@ item []:
             text = "V"
         intervals [16]:
             xmin = 3.770000
-            xmax = 3.870000
+            xmax = 3.880000
             text = "m"
         intervals [17]:
-            xmin = 3.870000
+            xmin = 3.880000
             xmax = 4.010000
             text = "m"
         intervals [18]:
@@ -162,10 +162,10 @@ item []:
             text = "aI"
         intervals [19]:
             xmin = 4.110000
-            xmax = 4.185000
+            xmax = 4.190000
             text = "t"
         intervals [20]:
-            xmin = 4.185000
+            xmin = 4.190000
             xmax = 4.230000
             text = "b"
         intervals [21]:

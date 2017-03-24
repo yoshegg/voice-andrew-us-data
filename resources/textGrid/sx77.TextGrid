@@ -242,10 +242,10 @@ item []:
             text = "V"
         intervals [37]:
             xmin = 4.750000
-            xmax = 4.830000
+            xmax = 4.860000
             text = "n"
         intervals [38]:
-            xmin = 4.830000
+            xmin = 4.860000
             xmax = 4.930000
             text = "t"
         intervals [39]:

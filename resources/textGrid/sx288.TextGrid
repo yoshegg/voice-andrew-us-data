@@ -186,10 +186,10 @@ item []:
             text = "n"
         intervals [17]:
             xmin = 5.480000
-            xmax = 5.540000
+            xmax = 5.550000
             text = "I"
         intervals [18]:
-            xmin = 5.540000
+            xmin = 5.550000
             xmax = 5.610000
             text = "n"
         intervals [19]:

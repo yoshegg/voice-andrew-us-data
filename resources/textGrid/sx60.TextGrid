@@ -30,14 +30,14 @@ item []:
             text = "legislature"
         intervals [5]:
             xmin = 4.700000
-            xmax = 4.990000
+            xmax = 4.980000
             text = "met"
         intervals [6]:
-            xmin = 4.990000
-            xmax = 5.120000
+            xmin = 4.980000
+            xmax = 5.130000
             text = "to"
         intervals [7]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.560000
             text = "judge"
         intervals [8]:
@@ -88,14 +88,14 @@ item []:
             text = "l E dZ V s l eI tS 3`"
         intervals [5]:
             xmin = 4.700000
-            xmax = 4.990000
+            xmax = 4.980000
             text = "m E t"
         intervals [6]:
-            xmin = 4.990000
-            xmax = 5.120000
+            xmin = 4.980000
+            xmax = 5.130000
             text = "t u:"
         intervals [7]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.560000
             text = "dZ V dZ"
         intervals [8]:
@@ -190,18 +190,18 @@ item []:
             text = "E"
         intervals [16]:
             xmin = 4.910000
-            xmax = 4.990000
+            xmax = 4.980000
             text = "t"
         intervals [17]:
-            xmin = 4.990000
-            xmax = 5.080000
+            xmin = 4.980000
+            xmax = 5.090000
             text = "t"
         intervals [18]:
-            xmin = 5.080000
-            xmax = 5.120000
+            xmin = 5.090000
+            xmax = 5.130000
             text = "u:"
         intervals [19]:
-            xmin = 5.120000
+            xmin = 5.130000
             xmax = 5.280000
             text = "dZ"
         intervals [20]:
@@ -238,10 +238,10 @@ item []:
             text = "t"
         intervals [28]:
             xmin = 6.070000
-            xmax = 6.120000
+            xmax = 6.130000
             text = "V"
         intervals [29]:
-            xmin = 6.120000
+            xmin = 6.130000
             xmax = 6.190000
             text = "v"
         intervals [30]:
@@ -274,14 +274,14 @@ item []:
             text = "E"
         intervals [37]:
             xmin = 6.700000
-            xmax = 6.800000
+            xmax = 6.810000
             text = "dZ"
         intervals [38]:
-            xmin = 6.800000
-            xmax = 6.830000
+            xmin = 6.810000
+            xmax = 6.840000
             text = "V"
         intervals [39]:
-            xmin = 6.830000
+            xmin = 6.840000
             xmax = 6.980000
             text = "k"
         intervals [40]:

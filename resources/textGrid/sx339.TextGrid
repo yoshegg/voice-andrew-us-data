@@ -14,10 +14,10 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.490000
+            xmax = 3.500000
             text = ""
         intervals [2]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 3.630000
             text = "Did"
         intervals [3]:
@@ -30,10 +30,10 @@ item []:
             text = "catch"
         intervals [5]:
             xmin = 4.240000
-            xmax = 4.440000
+            xmax = 4.450000
             text = "that"
         intervals [6]:
-            xmin = 4.440000
+            xmin = 4.450000
             xmax = 4.680000
             text = "big"
         intervals [7]:
@@ -42,10 +42,10 @@ item []:
             text = "goose"
         intervals [8]:
             xmin = 5.020000
-            xmax = 5.330000
+            xmax = 5.340000
             text = "without"
         intervals [9]:
-            xmin = 5.330000
+            xmin = 5.340000
             xmax = 5.750000
             text = "help"
         intervals [10]:
@@ -60,10 +60,10 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.490000
+            xmax = 3.500000
             text = ""
         intervals [2]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 3.630000
             text = "d I d"
         intervals [3]:
@@ -76,10 +76,10 @@ item []:
             text = "k { tS"
         intervals [5]:
             xmin = 4.240000
-            xmax = 4.440000
+            xmax = 4.450000
             text = "D { t"
         intervals [6]:
-            xmin = 4.440000
+            xmin = 4.450000
             xmax = 4.680000
             text = "b I g"
         intervals [7]:
@@ -88,10 +88,10 @@ item []:
             text = "g u: s"
         intervals [8]:
             xmin = 5.020000
-            xmax = 5.330000
+            xmax = 5.340000
             text = "w I T aU t"
         intervals [9]:
-            xmin = 5.330000
+            xmin = 5.340000
             xmax = 5.750000
             text = "h E l p"
         intervals [10]:
@@ -106,10 +106,10 @@ item []:
         intervals: size = 29
         intervals [1]:
             xmin = 0.000000
-            xmax = 3.490000
+            xmax = 3.500000
             text = "<p:>"
         intervals [2]:
-            xmin = 3.490000
+            xmin = 3.500000
             xmax = 3.530000
             text = "d"
         intervals [3]:
@@ -154,18 +154,18 @@ item []:
             text = "{"
         intervals [13]:
             xmin = 4.380000
-            xmax = 4.440000
+            xmax = 4.450000
             text = "t"
         intervals [14]:
-            xmin = 4.440000
+            xmin = 4.450000
             xmax = 4.510000
             text = "b"
         intervals [15]:
             xmin = 4.510000
-            xmax = 4.560000
+            xmax = 4.570000
             text = "I"
         intervals [16]:
-            xmin = 4.560000
+            xmin = 4.570000
             xmax = 4.680000
             text = "g"
         intervals [17]:
@@ -194,14 +194,14 @@ item []:
             text = "T"
         intervals [23]:
             xmin = 5.180000
-            xmax = 5.300000
+            xmax = 5.310000
             text = "aU"
         intervals [24]:
-            xmin = 5.300000
-            xmax = 5.330000
+            xmin = 5.310000
+            xmax = 5.340000
             text = "t"
         intervals [25]:
-            xmin = 5.330000
+            xmin = 5.340000
             xmax = 5.420000
             text = "h"
         intervals [26]:

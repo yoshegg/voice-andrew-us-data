@@ -50,14 +50,14 @@ item []:
             text = "flag"
         intervals [10]:
             xmin = 3.330000
-            xmax = 3.740000
+            xmax = 3.720000
             text = "thoughtless"
         intervals [11]:
-            xmin = 3.740000
-            xmax = 4.430000
+            xmin = 3.720000
+            xmax = 4.440000
             text = "motorists"
         intervals [12]:
-            xmin = 4.430000
+            xmin = 4.440000
             xmax = 5.452562
             text = ""
     item [2]:
@@ -104,14 +104,14 @@ item []:
             text = "f l { g"
         intervals [10]:
             xmin = 3.330000
-            xmax = 3.740000
+            xmax = 3.720000
             text = "T O: t l V s"
         intervals [11]:
-            xmin = 3.740000
-            xmax = 4.430000
+            xmin = 3.720000
+            xmax = 4.440000
             text = "m @U t 3` V s t s"
         intervals [12]:
-            xmin = 4.430000
+            xmin = 4.440000
             xmax = 5.452562
             text = ""
     item [3]:
@@ -210,10 +210,10 @@ item []:
             text = "m"
         intervals [23]:
             xmin = 2.550000
-            xmax = 2.590000
+            xmax = 2.600000
             text = "V"
         intervals [24]:
-            xmin = 2.590000
+            xmin = 2.600000
             xmax = 2.700000
             text = "n"
         intervals [25]:
@@ -266,10 +266,10 @@ item []:
             text = "V"
         intervals [37]:
             xmin = 3.640000
-            xmax = 3.740000
+            xmax = 3.720000
             text = "s"
         intervals [38]:
-            xmin = 3.740000
+            xmin = 3.720000
             xmax = 3.800000
             text = "m"
         intervals [39]:
@@ -294,13 +294,13 @@ item []:
             text = "s"
         intervals [44]:
             xmin = 4.220000
-            xmax = 4.300000
+            xmax = 4.290000
             text = "t"
         intervals [45]:
-            xmin = 4.300000
-            xmax = 4.430000
+            xmin = 4.290000
+            xmax = 4.440000
             text = "s"
         intervals [46]:
-            xmin = 4.430000
+            xmin = 4.440000
             xmax = 5.452562
             text = "<p:>"

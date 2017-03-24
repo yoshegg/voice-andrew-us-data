@@ -50,10 +50,10 @@ item []:
             text = "idiotic"
         intervals [10]:
             xmin = 15.030000
-            xmax = 15.680000
+            xmax = 15.670000
             text = "predicament"
         intervals [11]:
-            xmin = 15.680000
+            xmin = 15.670000
             xmax = 16.576000
             text = ""
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "I d i: Q t I k"
         intervals [10]:
             xmin = 15.030000
-            xmax = 15.680000
+            xmax = 15.670000
             text = "p R I d I k V m V n t"
         intervals [11]:
-            xmin = 15.680000
+            xmin = 15.670000
             xmax = 16.576000
             text = ""
     item [3]:
@@ -266,9 +266,9 @@ item []:
             text = "n"
         intervals [39]:
             xmin = 15.640000
-            xmax = 15.680000
+            xmax = 15.670000
             text = "t"
         intervals [40]:
-            xmin = 15.680000
+            xmin = 15.670000
             xmax = 16.576000
             text = "<p:>"

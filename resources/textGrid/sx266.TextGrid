@@ -46,10 +46,10 @@ item []:
             text = "you"
         intervals [9]:
             xmin = 3.900000
-            xmax = 4.190000
+            xmax = 4.200000
             text = "need"
         intervals [10]:
-            xmin = 4.190000
+            xmin = 4.200000
             xmax = 4.728000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "j u:"
         intervals [9]:
             xmin = 3.900000
-            xmax = 4.190000
+            xmax = 4.200000
             text = "n i: d"
         intervals [10]:
-            xmin = 4.190000
+            xmin = 4.200000
             xmax = 4.728000
             text = ""
     item [3]:
@@ -134,10 +134,10 @@ item []:
             text = "O:"
         intervals [8]:
             xmin = 2.710000
-            xmax = 2.860000
+            xmax = 2.870000
             text = "@U"
         intervals [9]:
-            xmin = 2.860000
+            xmin = 2.870000
             xmax = 2.900000
             text = "n"
         intervals [10]:
@@ -210,9 +210,9 @@ item []:
             text = "i:"
         intervals [27]:
             xmin = 4.110000
-            xmax = 4.190000
+            xmax = 4.200000
             text = "d"
         intervals [28]:
-            xmin = 4.190000
+            xmin = 4.200000
             xmax = 4.728000
             text = "<p:>"

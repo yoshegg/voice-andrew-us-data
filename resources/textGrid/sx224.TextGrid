@@ -138,14 +138,14 @@ item []:
             text = "d"
         intervals [15]:
             xmin = 2.320000
-            xmax = 2.510000
+            xmax = 2.520000
             text = "3`"
         intervals [16]:
-            xmin = 2.510000
-            xmax = 2.540000
+            xmin = 2.520000
+            xmax = 2.550000
             text = "V"
         intervals [17]:
-            xmin = 2.540000
+            xmin = 2.550000
             xmax = 2.690000
             text = "n"
         intervals [18]:

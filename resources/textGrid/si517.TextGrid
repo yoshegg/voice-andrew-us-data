@@ -46,10 +46,10 @@ item []:
             text = "day"
         intervals [9]:
             xmin = 6.440000
-            xmax = 6.630000
+            xmax = 6.650000
             text = ""
         intervals [10]:
-            xmin = 6.630000
+            xmin = 6.650000
             xmax = 6.860000
             text = "brought"
         intervals [11]:
@@ -112,10 +112,10 @@ item []:
             text = "d eI"
         intervals [9]:
             xmin = 6.440000
-            xmax = 6.630000
+            xmax = 6.650000
             text = ""
         intervals [10]:
-            xmin = 6.630000
+            xmin = 6.650000
             xmax = 6.860000
             text = "b R O: t"
         intervals [11]:
@@ -226,10 +226,10 @@ item []:
             text = "<p:>"
         intervals [21]:
             xmin = 5.390000
-            xmax = 5.480000
+            xmax = 5.470000
             text = "i:"
         intervals [22]:
-            xmin = 5.480000
+            xmin = 5.470000
             xmax = 5.580000
             text = "tS"
         intervals [23]:
@@ -274,10 +274,10 @@ item []:
             text = "eI"
         intervals [33]:
             xmin = 6.440000
-            xmax = 6.630000
+            xmax = 6.650000
             text = "<p:>"
         intervals [34]:
-            xmin = 6.630000
+            xmin = 6.650000
             xmax = 6.680000
             text = "b"
         intervals [35]:

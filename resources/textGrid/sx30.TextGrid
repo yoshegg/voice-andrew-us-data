@@ -122,10 +122,10 @@ item []:
             text = "l"
         intervals [9]:
             xmin = 3.810000
-            xmax = 3.870000
+            xmax = 3.850000
             text = "V"
         intervals [10]:
-            xmin = 3.870000
+            xmin = 3.850000
             xmax = 3.950000
             text = "k"
         intervals [11]:
@@ -158,10 +158,10 @@ item []:
             text = "k"
         intervals [18]:
             xmin = 4.660000
-            xmax = 4.730000
+            xmax = 4.750000
             text = "i:"
         intervals [19]:
-            xmin = 4.730000
+            xmin = 4.750000
             xmax = 4.880000
             text = "p"
         intervals [20]:

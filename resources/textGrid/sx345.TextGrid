@@ -214,10 +214,10 @@ item []:
             text = "3`"
         intervals [28]:
             xmin = 4.250000
-            xmax = 4.330000
+            xmax = 4.340000
             text = "d"
         intervals [29]:
-            xmin = 4.330000
+            xmin = 4.340000
             xmax = 4.460000
             text = "i:"
         intervals [30]:

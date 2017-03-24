@@ -34,10 +34,10 @@ item []:
             text = "are"
         intervals [6]:
             xmin = 3.130000
-            xmax = 3.440000
+            xmax = 3.450000
             text = "their"
         intervals [7]:
-            xmin = 3.440000
+            xmin = 3.450000
             xmax = 4.170000
             text = "records"
         intervals [8]:
@@ -72,10 +72,10 @@ item []:
             text = "Q R"
         intervals [6]:
             xmin = 3.130000
-            xmax = 3.440000
+            xmax = 3.450000
             text = "D E R"
         intervals [7]:
-            xmin = 3.440000
+            xmin = 3.450000
             xmax = 4.170000
             text = "R E k 3` d z"
         intervals [8]:
@@ -154,10 +154,10 @@ item []:
             text = "E"
         intervals [17]:
             xmin = 3.330000
-            xmax = 3.440000
+            xmax = 3.450000
             text = "R"
         intervals [18]:
-            xmin = 3.440000
+            xmin = 3.450000
             xmax = 3.530000
             text = "R"
         intervals [19]:

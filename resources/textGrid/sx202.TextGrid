@@ -38,10 +38,10 @@ item []:
             text = "you"
         intervals [7]:
             xmin = 3.990000
-            xmax = 4.280000
+            xmax = 4.290000
             text = "get"
         intervals [8]:
-            xmin = 4.280000
+            xmin = 4.290000
             xmax = 5.032000
             text = ""
     item [2]:
@@ -76,10 +76,10 @@ item []:
             text = "j u:"
         intervals [7]:
             xmin = 3.990000
-            xmax = 4.280000
+            xmax = 4.290000
             text = "g E t"
         intervals [8]:
-            xmin = 4.280000
+            xmin = 4.290000
             xmax = 5.032000
             text = ""
     item [3]:
@@ -162,9 +162,9 @@ item []:
             text = "E"
         intervals [19]:
             xmin = 4.220000
-            xmax = 4.280000
+            xmax = 4.290000
             text = "t"
         intervals [20]:
-            xmin = 4.280000
+            xmin = 4.290000
             xmax = 5.032000
             text = "<p:>"

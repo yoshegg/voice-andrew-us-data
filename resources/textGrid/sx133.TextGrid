@@ -214,10 +214,10 @@ item []:
             text = "w"
         intervals [28]:
             xmin = 4.360000
-            xmax = 4.410000
+            xmax = 4.400000
             text = "I"
         intervals [29]:
-            xmin = 4.410000
+            xmin = 4.400000
             xmax = 4.490000
             text = "k"
         intervals [30]:
@@ -226,10 +226,10 @@ item []:
             text = "<p:>"
         intervals [31]:
             xmin = 4.540000
-            xmax = 4.610000
+            xmax = 4.620000
             text = "l"
         intervals [32]:
-            xmin = 4.610000
+            xmin = 4.620000
             xmax = 4.690000
             text = "V"
         intervals [33]:

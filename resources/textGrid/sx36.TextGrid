@@ -34,10 +34,10 @@ item []:
             text = "accomplished"
         intervals [6]:
             xmin = 3.810000
-            xmax = 4.360000
+            xmax = 4.370000
             text = "artists"
         intervals [7]:
-            xmin = 4.360000
+            xmin = 4.370000
             xmax = 4.470000
             text = ""
         intervals [8]:
@@ -80,10 +80,10 @@ item []:
             text = "V k Q m p l I S t"
         intervals [6]:
             xmin = 3.810000
-            xmax = 4.360000
+            xmax = 4.370000
             text = "Q R t V s t s"
         intervals [7]:
-            xmin = 4.360000
+            xmin = 4.370000
             xmax = 4.470000
             text = ""
         intervals [8]:
@@ -210,18 +210,18 @@ item []:
             text = "t"
         intervals [27]:
             xmin = 4.230000
-            xmax = 4.360000
+            xmax = 4.370000
             text = "s"
         intervals [28]:
-            xmin = 4.360000
+            xmin = 4.370000
             xmax = 4.470000
             text = "<p:>"
         intervals [29]:
             xmin = 4.470000
-            xmax = 4.500000
+            xmax = 4.530000
             text = "V"
         intervals [30]:
-            xmin = 4.500000
+            xmin = 4.530000
             xmax = 4.630000
             text = "b"
         intervals [31]:
@@ -242,10 +242,10 @@ item []:
             text = "p"
         intervals [35]:
             xmin = 5.010000
-            xmax = 5.080000
+            xmax = 5.090000
             text = "Q"
         intervals [36]:
-            xmin = 5.080000
+            xmin = 5.090000
             xmax = 5.170000
             text = "p"
         intervals [37]:

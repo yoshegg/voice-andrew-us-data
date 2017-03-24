@@ -226,14 +226,14 @@ item []:
             text = "tS"
         intervals [29]:
             xmin = 4.040000
-            xmax = 4.200000
+            xmax = 4.190000
             text = "eI"
         intervals [30]:
-            xmin = 4.200000
-            xmax = 4.300000
+            xmin = 4.190000
+            xmax = 4.310000
             text = "n"
         intervals [31]:
-            xmin = 4.300000
+            xmin = 4.310000
             xmax = 4.490000
             text = "dZ"
         intervals [32]:

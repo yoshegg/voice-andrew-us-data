@@ -42,10 +42,10 @@ item []:
             text = "banks"
         intervals [8]:
             xmin = 2.590000
-            xmax = 2.850000
+            xmax = 2.860000
             text = ""
         intervals [9]:
-            xmin = 2.850000
+            xmin = 2.860000
             xmax = 2.940000
             text = "you"
         intervals [10]:
@@ -116,10 +116,10 @@ item []:
             text = "b { N k s"
         intervals [8]:
             xmin = 2.590000
-            xmax = 2.850000
+            xmax = 2.860000
             text = ""
         intervals [9]:
-            xmin = 2.850000
+            xmin = 2.860000
             xmax = 2.940000
             text = "j u:"
         intervals [10]:
@@ -270,10 +270,10 @@ item []:
             text = "s"
         intervals [28]:
             xmin = 2.590000
-            xmax = 2.850000
+            xmax = 2.860000
             text = "<p:>"
         intervals [29]:
-            xmin = 2.850000
+            xmin = 2.860000
             xmax = 2.900000
             text = "j"
         intervals [30]:
@@ -350,10 +350,10 @@ item []:
             text = "V"
         intervals [48]:
             xmin = 4.050000
-            xmax = 4.140000
+            xmax = 4.130000
             text = "m"
         intervals [49]:
-            xmin = 4.140000
+            xmin = 4.130000
             xmax = 4.290000
             text = "i:"
         intervals [50]:

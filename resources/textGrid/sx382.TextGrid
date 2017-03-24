@@ -198,14 +198,14 @@ item []:
             text = "f"
         intervals [22]:
             xmin = 3.930000
-            xmax = 3.970000
+            xmax = 3.980000
             text = "j"
         intervals [23]:
-            xmin = 3.970000
-            xmax = 4.010000
+            xmin = 3.980000
+            xmax = 4.020000
             text = "u:"
         intervals [24]:
-            xmin = 4.010000
+            xmin = 4.020000
             xmax = 4.140000
             text = "tS"
         intervals [25]:

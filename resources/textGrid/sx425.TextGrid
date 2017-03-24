@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 0.880000
-            xmax = 1.260000
+            xmax = 1.255000
             text = "Movies"
         intervals [3]:
-            xmin = 1.260000
+            xmin = 1.255000
             xmax = 1.530000
             text = "never"
         intervals [4]:
@@ -56,10 +56,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 0.880000
-            xmax = 1.260000
+            xmax = 1.255000
             text = "m u: v i: z"
         intervals [3]:
-            xmin = 1.260000
+            xmin = 1.255000
             xmax = 1.530000
             text = "n E v 3`"
         intervals [4]:
@@ -110,10 +110,10 @@ item []:
             text = "i:"
         intervals [6]:
             xmin = 1.180000
-            xmax = 1.260000
+            xmax = 1.255000
             text = "z"
         intervals [7]:
-            xmin = 1.260000
+            xmin = 1.255000
             xmax = 1.300000
             text = "n"
         intervals [8]:
@@ -146,10 +146,10 @@ item []:
             text = "I"
         intervals [15]:
             xmin = 1.780000
-            xmax = 1.860000
+            xmax = 1.850000
             text = "n"
         intervals [16]:
-            xmin = 1.860000
+            xmin = 1.850000
             xmax = 1.960000
             text = "V"
         intervals [17]:

@@ -18,10 +18,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.230000
-            xmax = 4.400000
+            xmax = 4.390000
             text = "Can"
         intervals [3]:
-            xmin = 4.400000
+            xmin = 4.390000
             xmax = 4.500000
             text = "the"
         intervals [4]:
@@ -60,10 +60,10 @@ item []:
             text = ""
         intervals [2]:
             xmin = 4.230000
-            xmax = 4.400000
+            xmax = 4.390000
             text = "k { n"
         intervals [3]:
-            xmin = 4.400000
+            xmin = 4.390000
             xmax = 4.500000
             text = "D V"
         intervals [4]:
@@ -110,10 +110,10 @@ item []:
             text = "{"
         intervals [4]:
             xmin = 4.350000
-            xmax = 4.400000
+            xmax = 4.390000
             text = "n"
         intervals [5]:
-            xmin = 4.400000
+            xmin = 4.390000
             xmax = 4.450000
             text = "D"
         intervals [6]:
@@ -210,10 +210,10 @@ item []:
             text = "s"
         intervals [29]:
             xmin = 6.400000
-            xmax = 6.540000
+            xmax = 6.530000
             text = "I"
         intervals [30]:
-            xmin = 6.540000
+            xmin = 6.530000
             xmax = 6.700000
             text = "z"
         intervals [31]:

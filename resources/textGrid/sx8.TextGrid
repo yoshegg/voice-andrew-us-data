@@ -34,10 +34,10 @@ item []:
             text = "worry"
         intervals [6]:
             xmin = 1.850000
-            xmax = 2.040000
+            xmax = 2.050000
             text = "over"
         intervals [7]:
-            xmin = 2.040000
+            xmin = 2.050000
             xmax = 2.430000
             text = "silly"
         intervals [8]:
@@ -76,10 +76,10 @@ item []:
             text = "w 3` i:"
         intervals [6]:
             xmin = 1.850000
-            xmax = 2.040000
+            xmax = 2.050000
             text = "@U v 3`"
         intervals [7]:
-            xmin = 2.040000
+            xmin = 2.050000
             xmax = 2.430000
             text = "s I l i:"
         intervals [8]:
@@ -150,10 +150,10 @@ item []:
             text = "v"
         intervals [14]:
             xmin = 1.980000
-            xmax = 2.040000
+            xmax = 2.050000
             text = "3`"
         intervals [15]:
-            xmin = 2.040000
+            xmin = 2.050000
             xmax = 2.190000
             text = "s"
         intervals [16]:

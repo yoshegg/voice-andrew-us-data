@@ -30,10 +30,10 @@ item []:
             text = "thermometer"
         intervals [5]:
             xmin = 2.540000
-            xmax = 2.740000
+            xmax = 2.750000
             text = "under"
         intervals [6]:
-            xmin = 2.740000
+            xmin = 2.750000
             xmax = 2.870000
             text = "your"
         intervals [7]:
@@ -68,10 +68,10 @@ item []:
             text = "T 3` m Q m V t 3`"
         intervals [5]:
             xmin = 2.540000
-            xmax = 2.740000
+            xmax = 2.750000
             text = "V n d 3`"
         intervals [6]:
-            xmin = 2.740000
+            xmin = 2.750000
             xmax = 2.870000
             text = "j O: R"
         intervals [7]:
@@ -154,14 +154,14 @@ item []:
             text = "n"
         intervals [17]:
             xmin = 2.670000
-            xmax = 2.700000
+            xmax = 2.710000
             text = "d"
         intervals [18]:
-            xmin = 2.700000
-            xmax = 2.740000
+            xmin = 2.710000
+            xmax = 2.750000
             text = "3`"
         intervals [19]:
-            xmin = 2.740000
+            xmin = 2.750000
             xmax = 2.790000
             text = "j"
         intervals [20]:

@@ -42,14 +42,14 @@ item []:
             text = "working"
         intervals [8]:
             xmin = 5.400000
-            xmax = 5.600000
+            xmax = 5.590000
             text = "toward"
         intervals [9]:
-            xmin = 5.600000
-            xmax = 5.630000
+            xmin = 5.590000
+            xmax = 5.620000
             text = "a"
         intervals [10]:
-            xmin = 5.630000
+            xmin = 5.620000
             xmax = 5.860000
             text = "law"
         intervals [11]:
@@ -96,14 +96,14 @@ item []:
             text = "w 3` k I N"
         intervals [8]:
             xmin = 5.400000
-            xmax = 5.600000
+            xmax = 5.590000
             text = "t V w O: R d"
         intervals [9]:
-            xmin = 5.600000
-            xmax = 5.630000
+            xmin = 5.590000
+            xmax = 5.620000
             text = "V"
         intervals [10]:
-            xmin = 5.630000
+            xmin = 5.620000
             xmax = 5.860000
             text = "l O:"
         intervals [11]:
@@ -214,10 +214,10 @@ item []:
             text = "w"
         intervals [24]:
             xmin = 5.110000
-            xmax = 5.180000
+            xmax = 5.170000
             text = "3`"
         intervals [25]:
-            xmin = 5.180000
+            xmin = 5.170000
             xmax = 5.270000
             text = "k"
         intervals [26]:
@@ -246,18 +246,18 @@ item []:
             text = "O:"
         intervals [32]:
             xmin = 5.530000
-            xmax = 5.570000
+            xmax = 5.560000
             text = "R"
         intervals [33]:
-            xmin = 5.570000
-            xmax = 5.600000
+            xmin = 5.560000
+            xmax = 5.590000
             text = "d"
         intervals [34]:
-            xmin = 5.600000
-            xmax = 5.630000
+            xmin = 5.590000
+            xmax = 5.620000
             text = "V"
         intervals [35]:
-            xmin = 5.630000
+            xmin = 5.620000
             xmax = 5.700000
             text = "l"
         intervals [36]:

@@ -14,10 +14,10 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.540000
+            xmax = 2.530000
             text = ""
         intervals [2]:
-            xmin = 2.540000
+            xmin = 2.530000
             xmax = 2.850000
             text = "Cory"
         intervals [3]:
@@ -60,10 +60,10 @@ item []:
         intervals: size = 10
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.540000
+            xmax = 2.530000
             text = ""
         intervals [2]:
-            xmin = 2.540000
+            xmin = 2.530000
             xmax = 2.850000
             text = "k O: R i:"
         intervals [3]:
@@ -106,10 +106,10 @@ item []:
         intervals: size = 41
         intervals [1]:
             xmin = 0.000000
-            xmax = 2.540000
+            xmax = 2.530000
             text = "<p:>"
         intervals [2]:
-            xmin = 2.540000
+            xmin = 2.530000
             xmax = 2.620000
             text = "k"
         intervals [3]:
@@ -226,10 +226,10 @@ item []:
             text = "d"
         intervals [31]:
             xmin = 4.730000
-            xmax = 4.770000
+            xmax = 4.760000
             text = "I"
         intervals [32]:
-            xmin = 4.770000
+            xmin = 4.760000
             xmax = 4.870000
             text = "t"
         intervals [33]:

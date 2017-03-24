@@ -22,10 +22,10 @@ item []:
             text = "The"
         intervals [3]:
             xmin = 3.740000
-            xmax = 4.130000
+            xmax = 4.120000
             text = "thick"
         intervals [4]:
-            xmin = 4.130000
+            xmin = 4.120000
             xmax = 4.180000
             text = ""
         intervals [5]:
@@ -84,10 +84,10 @@ item []:
             text = "D V"
         intervals [3]:
             xmin = 3.740000
-            xmax = 4.130000
+            xmax = 4.120000
             text = "T I k"
         intervals [4]:
-            xmin = 4.130000
+            xmin = 4.120000
             xmax = 4.180000
             text = ""
         intervals [5]:
@@ -158,10 +158,10 @@ item []:
             text = "I"
         intervals [6]:
             xmin = 3.980000
-            xmax = 4.130000
+            xmax = 4.120000
             text = "k"
         intervals [7]:
-            xmin = 4.130000
+            xmin = 4.120000
             xmax = 4.180000
             text = "<p:>"
         intervals [8]:
@@ -254,14 +254,14 @@ item []:
             text = "E"
         intervals [30]:
             xmin = 5.740000
-            xmax = 5.830000
+            xmax = 5.840000
             text = "l"
         intervals [31]:
-            xmin = 5.830000
-            xmax = 5.910000
+            xmin = 5.840000
+            xmax = 5.900000
             text = "m"
         intervals [32]:
-            xmin = 5.910000
+            xmin = 5.900000
             xmax = 5.970000
             text = "d"
         intervals [33]:

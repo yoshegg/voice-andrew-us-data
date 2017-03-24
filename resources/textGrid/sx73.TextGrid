@@ -26,10 +26,10 @@ item []:
             text = "display"
         intervals [4]:
             xmin = 2.960000
-            xmax = 3.190000
+            xmax = 3.170000
             text = "was"
         intervals [5]:
-            xmin = 3.190000
+            xmin = 3.170000
             xmax = 3.860000
             text = "misplaced"
         intervals [6]:
@@ -68,10 +68,10 @@ item []:
             text = "d I s p l eI"
         intervals [4]:
             xmin = 2.960000
-            xmax = 3.190000
+            xmax = 3.170000
             text = "w Q z"
         intervals [5]:
-            xmin = 3.190000
+            xmin = 3.170000
             xmax = 3.860000
             text = "m I s p l eI s t"
         intervals [6]:
@@ -154,10 +154,10 @@ item []:
             text = "Q"
         intervals [15]:
             xmin = 3.080000
-            xmax = 3.190000
+            xmax = 3.170000
             text = "z"
         intervals [16]:
-            xmin = 3.190000
+            xmin = 3.170000
             xmax = 3.260000
             text = "m"
         intervals [17]:

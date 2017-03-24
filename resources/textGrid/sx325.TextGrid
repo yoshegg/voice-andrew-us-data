@@ -46,10 +46,10 @@ item []:
             text = "that"
         intervals [9]:
             xmin = 3.130000
-            xmax = 3.400000
+            xmax = 3.410000
             text = "night"
         intervals [10]:
-            xmin = 3.400000
+            xmin = 3.410000
             xmax = 4.032000
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "D { t"
         intervals [9]:
             xmin = 3.130000
-            xmax = 3.400000
+            xmax = 3.410000
             text = "n aI t"
         intervals [10]:
-            xmin = 3.400000
+            xmin = 3.410000
             xmax = 4.032000
             text = ""
     item [3]:
@@ -150,10 +150,10 @@ item []:
             text = "S"
         intervals [12]:
             xmin = 2.250000
-            xmax = 2.380000
+            xmax = 2.370000
             text = "@U"
         intervals [13]:
-            xmin = 2.380000
+            xmin = 2.370000
             xmax = 2.450000
             text = "n"
         intervals [14]:
@@ -202,9 +202,9 @@ item []:
             text = "aI"
         intervals [25]:
             xmin = 3.340000
-            xmax = 3.400000
+            xmax = 3.410000
             text = "t"
         intervals [26]:
-            xmin = 3.400000
+            xmin = 3.410000
             xmax = 4.032000
             text = "<p:>"

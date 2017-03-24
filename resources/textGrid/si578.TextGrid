@@ -38,10 +38,10 @@ item []:
             text = "knick-knacks"
         intervals [7]:
             xmin = 3.485000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "within"
         intervals [8]:
-            xmin = 3.850000
+            xmin = 3.860000
             xmax = 4.240000
             text = "reach"
         intervals [9]:
@@ -80,10 +80,10 @@ item []:
             text = "n I k n { k s"
         intervals [7]:
             xmin = 3.485000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "w I D I n"
         intervals [8]:
-            xmin = 3.850000
+            xmin = 3.860000
             xmax = 4.240000
             text = "R i: tS"
         intervals [9]:
@@ -166,10 +166,10 @@ item []:
             text = "n"
         intervals [18]:
             xmin = 3.130000
-            xmax = 3.290000
+            xmax = 3.280000
             text = "{"
         intervals [19]:
-            xmin = 3.290000
+            xmin = 3.280000
             xmax = 3.370000
             text = "k"
         intervals [20]:
@@ -194,18 +194,18 @@ item []:
             text = "I"
         intervals [25]:
             xmin = 3.720000
-            xmax = 3.850000
+            xmax = 3.860000
             text = "n"
         intervals [26]:
-            xmin = 3.850000
-            xmax = 3.880000
+            xmin = 3.860000
+            xmax = 3.890000
             text = "R"
         intervals [27]:
-            xmin = 3.880000
-            xmax = 3.950000
+            xmin = 3.890000
+            xmax = 4.010000
             text = "i:"
         intervals [28]:
-            xmin = 3.950000
+            xmin = 4.010000
             xmax = 4.240000
             text = "tS"
         intervals [29]:

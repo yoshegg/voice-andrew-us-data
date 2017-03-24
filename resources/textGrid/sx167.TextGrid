@@ -22,10 +22,10 @@ item []:
             text = "Employee"
         intervals [3]:
             xmin = 4.750000
-            xmax = 5.320000
+            xmax = 5.310000
             text = "layoffs"
         intervals [4]:
-            xmin = 5.320000
+            xmin = 5.310000
             xmax = 6.010000
             text = "coincided"
         intervals [5]:
@@ -64,10 +64,10 @@ item []:
             text = "E m p l OI i:"
         intervals [3]:
             xmin = 4.750000
-            xmax = 5.320000
+            xmax = 5.310000
             text = "l eI O: f s"
         intervals [4]:
-            xmin = 5.320000
+            xmin = 5.310000
             xmax = 6.010000
             text = "k @U V n s aI d V d"
         intervals [5]:
@@ -142,10 +142,10 @@ item []:
             text = "f"
         intervals [12]:
             xmin = 5.200000
-            xmax = 5.320000
+            xmax = 5.310000
             text = "s"
         intervals [13]:
-            xmin = 5.320000
+            xmin = 5.310000
             xmax = 5.450000
             text = "k"
         intervals [14]:
@@ -210,18 +210,18 @@ item []:
             text = "V"
         intervals [29]:
             xmin = 6.440000
-            xmax = 6.520000
+            xmax = 6.530000
             text = "m"
         intervals [30]:
-            xmin = 6.520000
-            xmax = 6.550000
+            xmin = 6.530000
+            xmax = 6.560000
             text = "p"
         intervals [31]:
-            xmin = 6.550000
-            xmax = 6.580000
+            xmin = 6.560000
+            xmax = 6.600000
             text = "V"
         intervals [32]:
-            xmin = 6.580000
+            xmin = 6.600000
             xmax = 6.660000
             text = "n"
         intervals [33]:

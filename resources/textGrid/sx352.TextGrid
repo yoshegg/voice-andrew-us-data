@@ -34,18 +34,18 @@ item []:
             text = "interpretation"
         intervals [6]:
             xmin = 2.140000
-            xmax = 2.250000
+            xmax = 2.230000
             text = "of"
         intervals [7]:
-            xmin = 2.250000
+            xmin = 2.230000
             xmax = 2.310000
             text = "the"
         intervals [8]:
             xmin = 2.310000
-            xmax = 2.820000
+            xmax = 2.780000
             text = "problem"
         intervals [9]:
-            xmin = 2.820000
+            xmin = 2.780000
             xmax = 2.990000
             text = ""
         intervals [10]:
@@ -100,18 +100,18 @@ item []:
             text = "I n t 3` p R I t eI S V n"
         intervals [6]:
             xmin = 2.140000
-            xmax = 2.250000
+            xmax = 2.230000
             text = "V v"
         intervals [7]:
-            xmin = 2.250000
+            xmin = 2.230000
             xmax = 2.310000
             text = "D V"
         intervals [8]:
             xmin = 2.310000
-            xmax = 2.820000
+            xmax = 2.780000
             text = "p R Q b l V m"
         intervals [9]:
-            xmin = 2.820000
+            xmin = 2.780000
             xmax = 2.990000
             text = ""
         intervals [10]:
@@ -206,10 +206,10 @@ item []:
             text = "t"
         intervals [16]:
             xmin = 1.660000
-            xmax = 1.730000
+            xmax = 1.740000
             text = "3`"
         intervals [17]:
-            xmin = 1.730000
+            xmin = 1.740000
             xmax = 1.790000
             text = "p"
         intervals [18]:
@@ -222,10 +222,10 @@ item []:
             text = "I"
         intervals [20]:
             xmin = 1.850000
-            xmax = 1.910000
+            xmax = 1.920000
             text = "t"
         intervals [21]:
-            xmin = 1.910000
+            xmin = 1.920000
             xmax = 1.990000
             text = "eI"
         intervals [22]:
@@ -242,14 +242,14 @@ item []:
             text = "n"
         intervals [25]:
             xmin = 2.140000
-            xmax = 2.220000
+            xmax = 2.180000
             text = "V"
         intervals [26]:
-            xmin = 2.220000
-            xmax = 2.250000
+            xmin = 2.180000
+            xmax = 2.230000
             text = "v"
         intervals [27]:
-            xmin = 2.250000
+            xmin = 2.230000
             xmax = 2.280000
             text = "D"
         intervals [28]:
@@ -282,10 +282,10 @@ item []:
             text = "V"
         intervals [35]:
             xmin = 2.700000
-            xmax = 2.820000
+            xmax = 2.780000
             text = "m"
         intervals [36]:
-            xmin = 2.820000
+            xmin = 2.780000
             xmax = 2.990000
             text = "<p:>"
         intervals [37]:
@@ -322,10 +322,10 @@ item []:
             text = "V"
         intervals [45]:
             xmin = 3.700000
-            xmax = 3.800000
+            xmax = 3.780000
             text = "s"
         intervals [46]:
-            xmin = 3.800000
+            xmin = 3.780000
             xmax = 3.860000
             text = "t"
         intervals [47]:
@@ -342,10 +342,10 @@ item []:
             text = "p"
         intervals [50]:
             xmin = 4.090000
-            xmax = 4.180000
+            xmax = 4.190000
             text = "3`"
         intervals [51]:
-            xmin = 4.180000
+            xmin = 4.190000
             xmax = 4.240000
             text = "p"
         intervals [52]:

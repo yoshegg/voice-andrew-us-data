@@ -11,7 +11,7 @@ item []:
         name = "ORT"
         xmin = 0
         xmax = 4.536000
-        intervals: size = 7
+        intervals: size = 8
         intervals [1]:
             xmin = 0.000000
             xmax = 1.600000
@@ -26,17 +26,21 @@ item []:
             text = "do"
         intervals [4]:
             xmin = 2.190000
-            xmax = 2.865000
+            xmax = 2.860000
             text = "oysters"
         intervals [5]:
-            xmin = 2.865000
-            xmax = 3.110000
+            xmin = 2.860000
+            xmax = 3.120000
             text = "make"
         intervals [6]:
-            xmin = 3.110000
+            xmin = 3.120000
+            xmax = 3.200000
+            text = ""
+        intervals [7]:
+            xmin = 3.200000
             xmax = 3.850000
             text = "pearls"
-        intervals [7]:
+        intervals [8]:
             xmin = 3.850000
             xmax = 4.536000
             text = ""
@@ -45,7 +49,7 @@ item []:
         name = "KAN"
         xmin = 0
         xmax = 4.536000
-        intervals: size = 7
+        intervals: size = 8
         intervals [1]:
             xmin = 0.000000
             xmax = 1.600000
@@ -60,17 +64,21 @@ item []:
             text = "d u:"
         intervals [4]:
             xmin = 2.190000
-            xmax = 2.865000
+            xmax = 2.860000
             text = "OI s t 3` z"
         intervals [5]:
-            xmin = 2.865000
-            xmax = 3.110000
+            xmin = 2.860000
+            xmax = 3.120000
             text = "m eI k"
         intervals [6]:
-            xmin = 3.110000
+            xmin = 3.120000
+            xmax = 3.200000
+            text = ""
+        intervals [7]:
+            xmin = 3.200000
             xmax = 3.850000
             text = "p 3` l z"
-        intervals [7]:
+        intervals [8]:
             xmin = 3.850000
             xmax = 4.536000
             text = ""
@@ -79,7 +87,7 @@ item []:
         name = "MAU"
         xmin = 0
         xmax = 4.536000
-        intervals: size = 18
+        intervals: size = 19
         intervals [1]:
             xmin = 0.000000
             xmax = 1.600000
@@ -118,10 +126,10 @@ item []:
             text = "3`"
         intervals [10]:
             xmin = 2.720000
-            xmax = 2.865000
+            xmax = 2.860000
             text = "z"
         intervals [11]:
-            xmin = 2.865000
+            xmin = 2.860000
             xmax = 2.950000
             text = "m"
         intervals [12]:
@@ -130,25 +138,29 @@ item []:
             text = "eI"
         intervals [13]:
             xmin = 3.040000
-            xmax = 3.110000
+            xmax = 3.120000
             text = "k"
         intervals [14]:
-            xmin = 3.110000
+            xmin = 3.120000
+            xmax = 3.200000
+            text = "<p:>"
+        intervals [15]:
+            xmin = 3.200000
             xmax = 3.250000
             text = "p"
-        intervals [15]:
+        intervals [16]:
             xmin = 3.250000
             xmax = 3.440000
             text = "3`"
-        intervals [16]:
+        intervals [17]:
             xmin = 3.440000
             xmax = 3.690000
             text = "l"
-        intervals [17]:
+        intervals [18]:
             xmin = 3.690000
             xmax = 3.850000
             text = "z"
-        intervals [18]:
+        intervals [19]:
             xmin = 3.850000
             xmax = 4.536000
             text = "<p:>"

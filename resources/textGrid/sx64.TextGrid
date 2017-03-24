@@ -14,10 +14,10 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.640000
+            xmax = 1.630000
             text = ""
         intervals [2]:
-            xmin = 1.640000
+            xmin = 1.630000
             xmax = 2.120000
             text = "Regular"
         intervals [3]:
@@ -52,10 +52,10 @@ item []:
         intervals: size = 8
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.640000
+            xmax = 1.630000
             text = ""
         intervals [2]:
-            xmin = 1.640000
+            xmin = 1.630000
             xmax = 2.120000
             text = "R E g j V l 3`"
         intervals [3]:
@@ -90,10 +90,10 @@ item []:
         intervals: size = 33
         intervals [1]:
             xmin = 0.000000
-            xmax = 1.640000
+            xmax = 1.630000
             text = "<p:>"
         intervals [2]:
-            xmin = 1.640000
+            xmin = 1.630000
             xmax = 1.700000
             text = "R"
         intervals [3]:
@@ -202,18 +202,18 @@ item []:
             text = "k"
         intervals [29]:
             xmin = 3.660000
-            xmax = 3.720000
+            xmax = 3.710000
             text = "w"
         intervals [30]:
-            xmin = 3.720000
+            xmin = 3.710000
             xmax = 3.870000
             text = "aI"
         intervals [31]:
             xmin = 3.870000
-            xmax = 4.030000
+            xmax = 4.040000
             text = "3`"
         intervals [32]:
-            xmin = 4.030000
+            xmin = 4.040000
             xmax = 4.080000
             text = "d"
         intervals [33]:
