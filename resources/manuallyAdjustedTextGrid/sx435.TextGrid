@@ -30,10 +30,10 @@ item []:
             text = "should" 
         intervals [5]:
             xmin = 5.85 
-            xmax = 6.2 
+            xmax = 6.205412514651917 
             text = "invest" 
         intervals [6]:
-            xmin = 6.2 
+            xmin = 6.205412514651917 
             xmax = 6.28 
             text = "in" 
         intervals [7]:
@@ -88,10 +88,10 @@ item []:
             text = "S U d" 
         intervals [5]:
             xmin = 5.85 
-            xmax = 6.2 
+            xmax = 6.205412514651917 
             text = "I n v E s t" 
         intervals [6]:
-            xmin = 6.2 
+            xmin = 6.205412514651917 
             xmax = 6.28 
             text = "I n" 
         intervals [7]:
@@ -178,18 +178,18 @@ item []:
             text = "v" 
         intervals [13]:
             xmin = 5.99 
-            xmax = 6.09 
+            xmax = 6.097161389228142 
             text = "E" 
         intervals [14]:
-            xmin = 6.09 
-            xmax = 6.13 
+            xmin = 6.097161389228142 
+            xmax = 6.145136319813679 
             text = "s" 
         intervals [15]:
-            xmin = 6.13 
-            xmax = 6.2 
+            xmin = 6.145136319813679 
+            xmax = 6.205412514651917 
             text = "t" 
         intervals [16]:
-            xmin = 6.2 
+            xmin = 6.205412514651917 
             xmax = 6.24 
             text = "I" 
         intervals [17]:
@@ -270,14 +270,14 @@ item []:
             text = "v" 
         intervals [36]:
             xmin = 7.58 
-            xmax = 7.69 
+            xmax = 7.676392514297264 
             text = "s" 
         intervals [37]:
-            xmin = 7.69 
-            xmax = 7.73 
+            xmin = 7.676392514297264 
+            xmax = 7.736668708412188 
             text = "t" 
         intervals [38]:
-            xmin = 7.73 
+            xmin = 7.736668708412188 
             xmax = 7.83 
             text = "aI" 
         intervals [39]:

@@ -218,10 +218,10 @@ item []:
             text = "i:" 
         intervals [21]:
             xmin = 4.72 
-            xmax = 4.75 
+            xmax = 4.807394255847111 
             text = "V" 
         intervals [22]:
-            xmin = 4.75 
+            xmin = 4.807394255847111 
             xmax = 4.87 
             text = "k" 
         intervals [23]:

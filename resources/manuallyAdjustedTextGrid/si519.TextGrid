@@ -22,10 +22,10 @@ item []:
             text = "That" 
         intervals [3]:
             xmin = 4.78890593176451 
-            xmax = 5.067829086805282 
+            xmax = 5.13475034867014 
             text = "added" 
         intervals [4]:
-            xmin = 5.067829086805282 
+            xmin = 5.13475034867014 
             xmax = 5.67 
             text = "traffic" 
         intervals [5]:
@@ -38,10 +38,10 @@ item []:
             text = "rising" 
         intervals [7]:
             xmin = 6.38 
-            xmax = 6.89 
+            xmax = 6.880486300245122 
             text = "streams" 
         intervals [8]:
-            xmin = 6.89 
+            xmin = 6.880486300245122 
             xmax = 6.97 
             text = "of" 
         intervals [9]:
@@ -50,10 +50,10 @@ item []:
             text = "dimes" 
         intervals [10]:
             xmin = 7.34 
-            xmax = 7.47 
+            xmax = 7.461530088863742 
             text = "and" 
         intervals [11]:
-            xmin = 7.47 
+            xmin = 7.461530088863742 
             xmax = 7.87 
             text = "quarters" 
         intervals [12]:
@@ -88,10 +88,10 @@ item []:
             text = "D { t" 
         intervals [3]:
             xmin = 4.78890593176451 
-            xmax = 5.067829086805282 
+            xmax = 5.13475034867014 
             text = "{ d V d" 
         intervals [4]:
-            xmin = 5.067829086805282 
+            xmin = 5.13475034867014 
             xmax = 5.67 
             text = "t R { f I k" 
         intervals [5]:
@@ -104,10 +104,10 @@ item []:
             text = "R aI z I N" 
         intervals [7]:
             xmin = 6.38 
-            xmax = 6.89 
+            xmax = 6.880486300245122 
             text = "s t R i: m z" 
         intervals [8]:
-            xmin = 6.89 
+            xmin = 6.880486300245122 
             xmax = 6.97 
             text = "V v" 
         intervals [9]:
@@ -116,10 +116,10 @@ item []:
             text = "d aI m z" 
         intervals [10]:
             xmin = 7.34 
-            xmax = 7.47 
+            xmax = 7.461530088863742 
             text = "V n d" 
         intervals [11]:
-            xmin = 7.47 
+            xmin = 7.461530088863742 
             xmax = 7.87 
             text = "k w O: R t 3` z" 
         intervals [12]:
@@ -166,18 +166,18 @@ item []:
             text = "{" 
         intervals [6]:
             xmin = 4.968717427508472 
-            xmax = 5.008667535384151 
+            xmax = 4.997286827026061 
             text = "d" 
         intervals [7]:
-            xmin = 5.008667535384151 
-            xmax = 5.044792730499709 
+            xmin = 4.997286827026061 
+            xmax = 5.06539938279565 
             text = "V" 
         intervals [8]:
-            xmin = 5.044792730499709 
-            xmax = 5.067829086805282 
+            xmin = 5.06539938279565 
+            xmax = 5.13475034867014 
             text = "d" 
         intervals [9]:
-            xmin = 5.067829086805282 
+            xmin = 5.13475034867014 
             xmax = 5.24 
             text = "t" 
         intervals [10]:
@@ -258,10 +258,10 @@ item []:
             text = "m" 
         intervals [29]:
             xmin = 6.79 
-            xmax = 6.89 
+            xmax = 6.880486300245122 
             text = "z" 
         intervals [30]:
-            xmin = 6.89 
+            xmin = 6.880486300245122 
             xmax = 6.92 
             text = "V" 
         intervals [31]:
@@ -294,10 +294,10 @@ item []:
             text = "n" 
         intervals [38]:
             xmin = 7.44 
-            xmax = 7.47 
+            xmax = 7.461530088863742 
             text = "d" 
         intervals [39]:
-            xmin = 7.47 
+            xmin = 7.461530088863742 
             xmax = 7.52 
             text = "k" 
         intervals [40]:
