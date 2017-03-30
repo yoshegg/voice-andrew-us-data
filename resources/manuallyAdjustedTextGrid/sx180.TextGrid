@@ -26,10 +26,10 @@ item []:
             text = "" 
         intervals [4]:
             xmin = 3.85 
-            xmax = 4.06 
+            xmax = 4.066717736355838 
             text = "all" 
         intervals [5]:
-            xmin = 4.06 
+            xmin = 4.066717736355838 
             xmax = 4.79 
             text = "colleges" 
         intervals [6]:
@@ -46,10 +46,10 @@ item []:
             text = "now" 
         intervals [9]:
             xmin = 5.21 
-            xmax = 6.37 
+            xmax = 6.392781105294545 
             text = "coeducational" 
         intervals [10]:
-            xmin = 6.37 
+            xmin = 6.392781105294545 
             xmax = 6.968 
             text = "" 
     item [2]:
@@ -72,10 +72,10 @@ item []:
             text = "" 
         intervals [4]:
             xmin = 3.85 
-            xmax = 4.06 
+            xmax = 4.066717736355838 
             text = "O: l" 
         intervals [5]:
-            xmin = 4.06 
+            xmin = 4.066717736355838 
             xmax = 4.79 
             text = "k Q l I dZ I z" 
         intervals [6]:
@@ -92,10 +92,10 @@ item []:
             text = "n aU" 
         intervals [9]:
             xmin = 5.21 
-            xmax = 6.37 
+            xmax = 6.392781105294545 
             text = "k @U E dZ V k eI S V n V l" 
         intervals [10]:
-            xmin = 6.37 
+            xmin = 6.392781105294545 
             xmax = 6.968 
             text = "" 
     item [3]:
@@ -138,14 +138,14 @@ item []:
             text = "<p:>" 
         intervals [9]:
             xmin = 3.85 
-            xmax = 3.9574040761625873 
+            xmax = 3.9683438650656804 
             text = "O:" 
         intervals [10]:
-            xmin = 3.9574040761625873 
-            xmax = 4.06 
+            xmin = 3.9683438650656804 
+            xmax = 4.066717736355838 
             text = "l" 
         intervals [11]:
-            xmin = 4.06 
+            xmin = 4.066717736355838 
             xmax = 4.183910266804212 
             text = "k" 
         intervals [12]:
@@ -222,25 +222,25 @@ item []:
             text = "eI" 
         intervals [30]:
             xmin = 6.01 
-            xmax = 6.1 
+            xmax = 6.123117328682634 
             text = "S" 
         intervals [31]:
-            xmin = 6.1 
-            xmax = 6.142180623249143 
+            xmin = 6.123117328682634 
+            xmax = 6.143860696114319 
             text = "V" 
         intervals [32]:
-            xmin = 6.142180623249143 
-            xmax = 6.22 
+            xmin = 6.143860696114319 
+            xmax = 6.23675490678665 
             text = "n" 
         intervals [33]:
-            xmin = 6.22 
-            xmax = 6.25 
+            xmin = 6.23675490678665 
+            xmax = 6.26922278624494 
             text = "V" 
         intervals [34]:
-            xmin = 6.25 
-            xmax = 6.37 
+            xmin = 6.26922278624494 
+            xmax = 6.392781105294545 
             text = "l" 
         intervals [35]:
-            xmin = 6.37 
+            xmin = 6.392781105294545 
             xmax = 6.968 
             text = "<p:>" 

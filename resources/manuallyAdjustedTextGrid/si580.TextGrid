@@ -202,14 +202,14 @@ item []:
             text = "z" 
         intervals [19]:
             xmin = 4.645432553621189 
-            xmax = 4.71 
+            xmax = 4.695290155643631 
             text = "D" 
         intervals [20]:
-            xmin = 4.71 
-            xmax = 4.78 
+            xmin = 4.695290155643631 
+            xmax = 4.800033139810683 
             text = "E" 
         intervals [21]:
-            xmin = 4.78 
+            xmin = 4.800033139810683 
             xmax = 4.9189761917740045 
             text = "m" 
         intervals [22]:

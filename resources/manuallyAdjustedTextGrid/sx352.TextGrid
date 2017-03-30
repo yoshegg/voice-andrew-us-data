@@ -42,10 +42,10 @@ item []:
             text = "the" 
         intervals [8]:
             xmin = 2.31 
-            xmax = 2.78 
+            xmax = 2.806801331181971 
             text = "problem" 
         intervals [9]:
-            xmin = 2.78 
+            xmin = 2.806801331181971 
             xmax = 2.99 
             text = "" 
         intervals [10]:
@@ -108,10 +108,10 @@ item []:
             text = "D V" 
         intervals [8]:
             xmin = 2.31 
-            xmax = 2.78 
+            xmax = 2.806801331181971 
             text = "p R Q b l V m" 
         intervals [9]:
-            xmin = 2.78 
+            xmin = 2.806801331181971 
             xmax = 2.99 
             text = "" 
         intervals [10]:
@@ -278,14 +278,14 @@ item []:
             text = "l" 
         intervals [34]:
             xmin = 2.66 
-            xmax = 2.7 
+            xmax = 2.7100890568010993 
             text = "V" 
         intervals [35]:
-            xmin = 2.7 
-            xmax = 2.78 
+            xmin = 2.7100890568010993 
+            xmax = 2.806801331181971 
             text = "m" 
         intervals [36]:
-            xmin = 2.78 
+            xmin = 2.806801331181971 
             xmax = 2.99 
             text = "<p:>" 
         intervals [37]:
