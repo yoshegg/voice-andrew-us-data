@@ -26,14 +26,14 @@ item []:
             text = "crab" 
         intervals [4]:
             xmin = 4.07 
-            xmax = 4.81 
+            xmax = 4.759644202423301 
             text = "challenged" 
         intervals [5]:
-            xmin = 4.81 
-            xmax = 5.01 
+            xmin = 4.759644202423301 
+            xmax = 5.030986054259 
             text = "me" 
         intervals [6]:
-            xmin = 5.01 
+            xmin = 5.030986054259 
             xmax = 5.16 
             text = "" 
         intervals [7]:
@@ -84,14 +84,14 @@ item []:
             text = "k R { b" 
         intervals [4]:
             xmin = 4.07 
-            xmax = 4.81 
+            xmax = 4.759644202423301 
             text = "tS { l V n dZ d" 
         intervals [5]:
-            xmin = 4.81 
-            xmax = 5.01 
+            xmin = 4.759644202423301 
+            xmax = 5.030986054259 
             text = "m i:" 
         intervals [6]:
-            xmin = 5.01 
+            xmin = 5.030986054259 
             xmax = 5.16 
             text = "" 
         intervals [7]:
@@ -170,26 +170,26 @@ item []:
             text = "V" 
         intervals [11]:
             xmin = 4.49 
-            xmax = 4.59 
+            xmax = 4.5990008916 
             text = "n" 
         intervals [12]:
-            xmin = 4.59 
-            xmax = 4.76 
+            xmin = 4.5990008916 
+            xmax = 4.727095557746685 
             text = "dZ" 
         intervals [13]:
-            xmin = 4.76 
-            xmax = 4.81 
+            xmin = 4.727095557746685 
+            xmax = 4.759644202423301 
             text = "d" 
         intervals [14]:
-            xmin = 4.81 
-            xmax = 4.84 
+            xmin = 4.759644202423301 
+            xmax = 4.841540792254788 
             text = "m" 
         intervals [15]:
-            xmin = 4.84 
-            xmax = 5.01 
+            xmin = 4.841540792254788 
+            xmax = 5.030986054259 
             text = "i:" 
         intervals [16]:
-            xmin = 5.01 
+            xmin = 5.030986054259 
             xmax = 5.16 
             text = "<p:>" 
         intervals [17]:

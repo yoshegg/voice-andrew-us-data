@@ -22,18 +22,18 @@ item []:
             text = "Straw" 
         intervals [3]:
             xmin = 8.71 
-            xmax = 9.08 
+            xmax = 9.067229623354457 
             text = "hats" 
         intervals [4]:
-            xmin = 9.08 
-            xmax = 9.17 
+            xmin = 9.067229623354457 
+            xmax = 9.155512934082758 
             text = "are" 
         intervals [5]:
-            xmin = 9.17 
-            xmax = 9.23 
+            xmin = 9.155512934082758 
+            xmax = 9.2165755573365 
             text = "" 
         intervals [6]:
-            xmin = 9.23 
+            xmin = 9.2165755573365 
             xmax = 9.37 
             text = "out" 
         intervals [7]:
@@ -50,10 +50,10 @@ item []:
             text = "this" 
         intervals [10]:
             xmin = 10.375 
-            xmax = 10.69 
+            xmax = 10.622609627342422 
             text = "year" 
         intervals [11]:
-            xmin = 10.69 
+            xmin = 10.622609627342422 
             xmax = 11.368 
             text = "" 
     item [2]:
@@ -72,18 +72,18 @@ item []:
             text = "s t R O:" 
         intervals [3]:
             xmin = 8.71 
-            xmax = 9.08 
+            xmax = 9.067229623354457 
             text = "h { t s" 
         intervals [4]:
-            xmin = 9.08 
-            xmax = 9.17 
+            xmin = 9.067229623354457 
+            xmax = 9.155512934082758 
             text = "Q R" 
         intervals [5]:
-            xmin = 9.17 
-            xmax = 9.23 
+            xmin = 9.155512934082758 
+            xmax = 9.2165755573365 
             text = "" 
         intervals [6]:
-            xmin = 9.23 
+            xmin = 9.2165755573365 
             xmax = 9.37 
             text = "aU t" 
         intervals [7]:
@@ -100,10 +100,10 @@ item []:
             text = "D I s" 
         intervals [10]:
             xmin = 10.375 
-            xmax = 10.69 
+            xmax = 10.622609627342422 
             text = "j I R" 
         intervals [11]:
-            xmin = 10.69 
+            xmin = 10.622609627342422 
             xmax = 11.368 
             text = "" 
     item [3]:
@@ -146,22 +146,22 @@ item []:
             text = "t" 
         intervals [9]:
             xmin = 8.98 
-            xmax = 9.08 
+            xmax = 9.067229623354457 
             text = "s" 
         intervals [10]:
-            xmin = 9.08 
-            xmax = 9.11 
+            xmin = 9.067229623354457 
+            xmax = 9.110635584462537 
             text = "Q" 
         intervals [11]:
-            xmin = 9.11 
-            xmax = 9.17 
+            xmin = 9.110635584462537 
+            xmax = 9.155512934082758 
             text = "R" 
         intervals [12]:
-            xmin = 9.17 
-            xmax = 9.23 
+            xmin = 9.155512934082758 
+            xmax = 9.2165755573365 
             text = "<p:>" 
         intervals [13]:
-            xmin = 9.23 
+            xmin = 9.2165755573365 
             xmax = 9.34 
             text = "aU" 
         intervals [14]:
@@ -214,13 +214,13 @@ item []:
             text = "j" 
         intervals [26]:
             xmin = 10.48 
-            xmax = 10.53 
+            xmax = 10.53579770512626 
             text = "I" 
         intervals [27]:
-            xmin = 10.53 
-            xmax = 10.69 
+            xmin = 10.53579770512626 
+            xmax = 10.622609627342422 
             text = "R" 
         intervals [28]:
-            xmin = 10.69 
+            xmin = 10.622609627342422 
             xmax = 11.368 
             text = "<p:>" 
